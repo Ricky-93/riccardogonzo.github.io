@@ -25,8 +25,7 @@ author:
   avatar     : "images/profile.png"   # add your photo here
   name       : "Riccardo Gonzo"
   bio        : "I am a theoretical physicist with over seven years of research experience spanning high-energy physics and general relativity."
-  location   : "Queen Mary University of London — Center of Theoretical Physics"
-  employer   : "School of Physics & Astronomy"
+  employer   : "Queen Mary University of London"
   email      : "r.gonzo@qmul.ac.uk"
 
   # Academic profiles
