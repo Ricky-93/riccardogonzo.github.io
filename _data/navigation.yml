@@ -16,6 +16,9 @@ main:
   
   - title: "My work"
     url: /my-work/
+        
+  - title: "Curriculum"
+    url: /cv/
     
   - title: "Talks"
     url: /talks/    
@@ -25,9 +28,6 @@ main:
 
   - title: "Video Lectures"
     url: /videos/
-    
-  - title: "CV"
-    url: /cv/
     
 #  - title: "Portfolio"
 #    url: /portfolio/
