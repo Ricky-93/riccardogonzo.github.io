@@ -1,56 +1,49 @@
- 	name	group
-0	"Giorgio Nicoletti"	1
-1	"Samir Suweis"	2
-2	"Amos Maritan"	2
-3	"Benedetta Mariani"	2
-4	"Marta Bisio"	2
-5	"Marta Maschietto"	2
-6	"Roberto Oboe"	2
-7	"Alessandro Leparulo"	2
-8	"Stefano Vassanelli"	2
-9	"Daniel M. Busiello"	2
-10	"Giacomo Barzon"	2
-11	"Marco Formentin"	2
-12	"Leonardo Saravia"	2
-13	"Ferdinando Momo"	2
-14	"Karan Manjunatha"	2
-15	"Matteo Bruzzone"	2
-16	"Marco Dal Maschio"	2
-17	"Maía Clemencia Ortíz Barajas"	2
-18	"Mohinish Shukla"	2
-19	"Ramon Guevara"	2
-20	"Judit Gervain"	2
-21	"Prajwal Padmanabha"	2
-22	"Sandro Azaele"	2
-23	"Andrea Rinaldo"	2
-24	"Clelia Corridori"	2
-25	"Merrit Romeike"	2
-26	"Christa Buecker"	2
-27	"Graziano Martello"	2
-28	"Davide Bernardi"	2
-29	"Alice Doimo"	2
-30	"Mattia Tambaro"	2
-31	"Claudia Checchetto"	2
-33	"Scaling and criticality in a phenomenological renormalization group"	4
-34	"Neuronal Avalanches Across the Rat Somatosensory Barrel Cortex and the Effect of Single Whisker Stimulation"	4
-35	"Mutual information disentangles interactions from changing environments"	4
-36	"Disentangling the critical signatures of neural activity"	4
-37	"Criticality and network structure drive emergent oscillations in a stochastic whole-brain model"	4
-38	"Information-driven transitions in projections of underdamped dynamics"	4
-39	"Mutual information in changing environments: Nonlinear interactions, out-of-equilibrium systems, and continuously-varying diffusivities"	4
-40	"The emergence of scale-free fires in Australia"	4
-41	"A network-based method for extracting the organization of brain-wide circuits from reconstructed connectome datasets"	3
-42	"Prenatal experience with language shapes the brain"	4
-43	"Emergent encoding of dispersal network topologies in spatial metapopulation models"	4
-44	"Information propagation in multilayer systems with higher-order interactions across timescales"	4
-45	"Unveiling gene perturbation effects through Gene Regulatory Networks inference from single-cell transcriptomic data"	3
-46	"Tuning transduction from hidden observables to optimize information harvesting"	4
-47	"Information propagation in Gaussian processes on multilayer networks"	4
-48	"Landscape and environmental heterogeneity support coexistence in competitive metacommunities"	4
-49	"Multiscale nonlinear integration drives accurate encoding of input information"	3
-50	"Information interference driven by environmental activity"	4
-51	"Excitation-Inhibition balance controls information encoding in neural populations"	4
-52	"A novel metric for species vulnerability and coexistence in spatially-extended ecosystems"	3
-53	"Finite size scaling of survival statistics in metapopulation models"	4
-54	"The somatosensory barrel cortex controls the spindle thalamocortical oscillation by frequency locking"	3
-55	"Optimal information gain at the onset of habituation to repeated stimuli"	4
+    name    group
+0   "Riccardo Gonzo"    1
+1   "Tristan Mc Loughlin"   2
+2   "Diego Medrano"     2
+3   "Anne Spiering"     2
+4   "Shamik Banerjee"   2
+5   "Sudip Ghosh"       2
+6   "Andrzej Pokraka"   2
+7   "Andrea Cristofoli" 2
+8   "David A. Kosower"  2
+9   "Donal O’Connell"   2
+10  "Canxin Shi"        2
+11  "Ruth Britto"       2
+12  "Guy R. Jehu"       2
+13  "Nathan Moynihan"   2
+14  "Alasdair Ross"     2
+15  "Matteo Sergola"    2
+16  "Chris D. White"    2
+17  "Andrea Puhm"       2
+18  "Tim Adamo"         2
+19  "Anton Ilderton"    2
+20  "Stefano De Angelis" 2
+21  "Pavel P. Novichkov" 2
+22  "Jack Lewis"        2
+23  "Adam Pound"        2
+24  "Dogan Akpinar"     2
+25  "Vittorio Del Duca" 2
+26  "Francesco Alessio" 2
+27  "Graham R. Brown"   2
+28  "Mao Zeng"          2
+
+30  "Asymptotic charges and coherent states in QCD" 4
+31  "BMS symmetry of celestial OPE"                 4
+32  "Light-ray operators, detectors and gravitational event shapes" 4
+33  "Waveforms from amplitudes"                     4
+34  "Geodesics from classical double copy"          4
+35  "Graviton particle statistics and coherent states from classical scattering amplitudes" 4
+36  "The uncertainty principle and classical amplitudes" 4
+37  "Celestial holography on Kerr-Schild backgrounds" 4
+38  "Bethe-Salpeter equation for classical gravitational bound states" 4
+39  "Boundary to bound dictionary for generic Kerr orbits" 4
+40  "Wave scattering event shapes at high energies" 4
+41  "Spinning waveforms from KMOC at leading order" 4
+42  "Gravitational bound waveforms from amplitudes" 4
+43  "Scattering and bound observables for spinning particles in Kerr spacetime with generic spin orientations" 4
+44  "The first law of binary black hole scattering"  4
+45  "The spinning self-force EFT: 1SF waveform recursion relation and Compton scattering" 4
+46  "Dirac brackets for classical radiative observables" 4
+47  "Unexpected Symmetries of Kerr Black Hole Scattering" 4
