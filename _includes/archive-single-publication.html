@@ -1,0 +1,68 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <div class="textbox">
+    <span style="display:block; margin-top:-4em; visibility: hidden">text</span>
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    {% if include.type == "grid" and teaser %}
+      <div class="archive__item-teaser">
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+          alt="">
+      </div>
+    {% endif %}
+    <h2 class="archive__item-title" itemprop="headline">
+      {% if post.paperurl %}
+        <a href="{{ post.paperurl }}" style = "color: info-color">{{ title }}</a>
+      {% elsif post.preprinturl %}
+        <a href="{{ post.preprinturl }}" style="color: #79addc">{{ title }}</a>
+      {% endif %}
+    </h2>
+
+    {% if post.date %}<p class="page__meta" style = "text-align: right;"><i class="fa fa-calendar-alt" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
+    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description" style = "text-align: right; margin-bottom:0px"><i>{{ post.venue }}</i></p>{% endif %}
+    {% if post.paperurl and post.preprinturl %}
+      <p class="archive__item-excerpt" itemprop="description" style = "text-align: right; margin-bottom:0px">
+        <a href="{{ post.preprinturl }}" target="_blank">Preprint link <i class="fas fa-external-link-alt"></i></a>
+      </p>
+    {% endif %}
+    <p class="archive__item-excerpt" itemprop="description">  <span style="color: #9BA1A6;font-weight:600">Authors: </span>
+    {% assign authors = post.authors | split: ', ' %}
+    {% for author in authors %}
+      {% if forloop.last == false %}
+        {% if author contains 'Giorgio Nicoletti' %}
+          <b>{{ author }}</b>,
+        {% else %}
+          <span style="color: #9BA1A6">{{ author }}, </span>
+        {% endif %}
+      {% else %}
+        {% if author contains 'Giorgio Nicoletti' %}
+          <b>{{ author }}</b>
+        {% else %}
+          <span style="color: #9BA1A6">{{ author }}</span>
+        {% endif %}
+      {% endif %}
+      {% endfor %}
+    </p>
+
+  </article>
+  <span style="display:block; margin-top:-2em; margin-left:-2em; visibility: hidden">text</span>
+</div>
+</div>
+<span style="display:block; margin-top:-2em; visibility: hidden">text</span>

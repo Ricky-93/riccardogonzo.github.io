@@ -1,15 +1,13 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks, presentations and posters"
 permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+The markers on the map represents a conference, workshop, or institute where I presented my work, either <span style="color:#a23336;font-weight:600;">invited talks</span> or <span style="color:#065b92;font-weight:600;">contributed talks and posters</span>. Click on a marker for more information.
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
+<br><br><iframe src="/talkmap/talks_map.html" height="320" width="100%" style="border: none"></iframe><br><br>
 
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
