@@ -10,10 +10,6 @@ redirect_from:
 
 I am Riccardo Gonzo, a Postdoctoral Research Associate at the [Centre for Theoretical Physics, Queen Mary University of London](https://www.seresearch.qmul.ac.uk/cfp/){:target="_blank"}<!--_-->. Previously, I was a postdoctoral researcher at the [Higgs Centre for Theoretical Physics, University of Edinburgh](https://www.ph.ed.ac.uk/higgs){:target="_blank"}<!--_-->. My research lies at the interface of scattering amplitudes and general relativity, with the goal of developing new analytical tools for modelling gravitational-wave signals from binary black hole systems.
 
-
-I obtained my PhD in Theoretical Particle Physics at [Trinity College Dublin](https://www.tcd.ie/){:target="_blank"}<!--_--> under the supervision of Prof. Ruth Britto, as part of the Marie Skłodowska-Curie ITN [SAGEX](https://sagex.org/){:target="_blank"}<!--_-->, with a thesis on *Coherent states and classical radiative observables in the S-matrix formalism*. Before that, I studied Physics at the [University of Padova](https://www.unipd.it/){:target="_blank"}<!--_-->, where I earned both my Bachelor’s and Master’s degrees *cum laude*.
-
-
 I obtained my PhD in Theoretical Particle Physics at [Trinity College Dublin](https://www.tcd.ie/){:target="_blank"}<!--_--> under the supervision of Prof. Ruth Britto, as part of the Marie Skłodowska-Curie ITN [SAGEX](https://sagex.org/){:target="_blank"}<!--_-->, with a thesis on *Coherent states and classical radiative observables in the S-matrix formalism*. Before that, I studied Physics at the [University of Padova](https://www.unipd.it/){:target="_blank"}<!--_-->, where I earned both my Bachelor’s and Master’s degrees *cum laude*.
 
 My long-term vision is to build an international research group at the interface of amplitudes, gravity, and gravitational-wave science, developing a unified formalism that combines amplitude-based perturbation theory with self-force resummation. The goal is to provide new analytical waveform models relevant to detectors such as LISA.
