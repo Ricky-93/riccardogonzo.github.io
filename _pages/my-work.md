@@ -24,45 +24,6 @@ This is a my collaboration network: the color of each node specifies either a <s
 <p>This is my collaboration network. Click a node for names; drag to explore.</p>
 <div id="coauthor-graph"></div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js" defer></script>
-<script defer>
-document.addEventListener('DOMContentLoaded', async () => {
-  const wrap = document.getElementById('coauthor-graph');
-  wrap.style.width = '100%'; wrap.style.height = '320px'; wrap.style.border='1px solid #e5e7eb'; wrap.style.borderRadius='10px';
-
-  const w = wrap.clientWidth, h = wrap.clientHeight;
-  const svg = d3.select('#coauthor-graph').append('svg').attr('width', w).attr('height', h);
-
-  const data = await (await fetch('{{ "/files/coauthors.json" | relative_url }}')).json();
-
-  const sim = d3.forceSimulation(data.nodes)
-    .force('link', d3.forceLink(data.links).id(d=>d.id).distance(80))
-    .force('charge', d3.forceManyBody().strength(-140))
-    .force('center', d3.forceCenter(w/2, h/2));
-
-  const link = svg.append('g').attr('stroke', '#e5e7eb').selectAll('line')
-    .data(data.links).enter().append('line').attr('stroke-width', 1.2);
-
-  const node = svg.append('g').selectAll('circle')
-    .data(data.nodes).enter().append('circle')
-    .attr('r', d => d.me ? 8 : 5)
-    .attr('fill', d => d.me ? '#2563eb' : '#9ca3af')
-    .attr('stroke', '#fff').attr('stroke-width', 1.2)
-    .call(d3.drag()
-      .on('start', (e,d)=>{ if(!e.active) sim.alphaTarget(0.3).restart(); d.fx=d.x; d.fy=d.y; })
-      .on('drag', (e,d)=>{ d.fx=e.x; d.fy=e.y; })
-      .on('end',  (e,d)=>{ if(!e.active) sim.alphaTarget(0); d.fx=null; d.fy=null; })
-    );
-
-  node.append('title').text(d => d.id);
-
-  sim.on('tick', () => {
-    link.attr('x1', d => d.source.x).attr('y1', d => d.source.y)
-        .attr('x2', d => d.target.x).attr('y2', d => d.target.y);
-    node.attr('cx', d => d.x).attr('cy', d => d.y);
-  });
-});
-</script>
 
 ## RESEARCH ARTICLES
 
@@ -86,10 +47,3 @@ document.addEventListener('DOMContentLoaded', async () => {
   <li class="pub-card"><p class="pub-title"><a href="https://arxiv.org/abs/2506.03249">Dirac brackets for classical radiative observables</a></p><p class="pub-meta">arXiv:2506.03249</p></li>
   <li class="pub-card"><p class="pub-title"><a href="https://arxiv.org/abs/2508.10761">Unexpected Symmetries of Kerr Black Hole Scattering</a></p><p class="pub-meta">arXiv:2508.10761</p></li>
 </ul>
-
-
-# Publications
-# ======
-#  <ul>{% for post in site.publications reversed %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
