@@ -86,7 +86,7 @@ do
 	echo -e $(sed "${i}q;d" $OUTPUT_URL) >> $URL					#adds to $URL the article's weblink
 done
 
-echo $(tr '\n' '\t' < $URL) > $URL	#substitutes newlines with horizontal tags in $URL
+# echo $(tr '\n' '\t' < $URL) > $URL	#substitutes newlines with horizontal tags in $URL
 
 
 
