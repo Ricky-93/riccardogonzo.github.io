@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 
-You can download my full CV [here](/files/CV_RiccardoGonzo.pdf){:target="_blank"}<!--_-->.
+You can download my full CV [here](/files/cv_RiccardoGonzo.pdf){:target="_blank"}<!--_-->.
 
 ## Summary
 I am a theoretical physicist with over seven years of research experience spanning high-energy physics and general relativity. My current work focuses on the analytical description of gravitational binary systems and the modelling of their waveforms by combining modern particle physics tools — such as scattering amplitudes — with traditional general relativity methods like the self-force expansion.
