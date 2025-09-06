@@ -39,7 +39,7 @@
     {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
     {% assign authors = post.authors | split: ', ' %}
     {% for author in authors %}
-      {% if author contains 'Giorgio Nicoletti' %}
+      {% if author contains 'Riccardo Gonzo' %}
         <b>{{ author }}</b>,
       {% elsif forloop.last == false %}
         <span style="color: #9BA1A6">{{ author }}, </span>
