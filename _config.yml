@@ -80,41 +80,31 @@ analytics:
 
 # Site Author
 author:
-  name             : "Giorgio Nicoletti"
-  avatar           : "profile_picture.png"
-  bio              : "Postdoctoral researcher at ICTP"
-  location         : "Trieste, Italy"
-  employer         :
-  pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=PVA6lnMAAAAJ"
-  email            : "gnicolet@ictp.it"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "giorgionicoletti"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "https://www.linkedin.com/in/giorgio-nicoletti-023556a3/"
-  orcid            : "https://orcid.org/0000-0002-7682-0596"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "@gnicoletti09"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  # Biographic information
+  avatar     : "profile_picture.jpg"   # add your photo here
+  name       : "Riccardo Gonzo"
+  bio        : "I am a theoretical physicist with over seven years of research experience spanning high-energy physics and general relativity."
+  # I'm a theoretical physicist working on quantum field theory and general relativity who fell in love with scattering amplitudes.
+  employer   : "Queen Mary University of London"
+  email      : "r.gonzo@qmul.ac.uk"
+
+  # Academic profiles
+  googlescholar: "https://scholar.google.com/citations?user=TDT1fI0AAAAJ&hl=en"
+  orcid        : "https://orcid.org/my-orcid?orcid=0000-0001-7285-6295"
+  researchgate : "https://www.researchgate.net/profile/Riccardo-Gonzo?ev=hdr_xprf"
+  inspire-hep  : "https://inspirehep.net/authors/1812058?ui-citation-summary=true"
+  linkedin     : "https://www.linkedin.com/in/riccardogonzo/"
+
+  # Repositories and software development
+  # bitbucket        : # Username - Update with your username on the site
+  # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+
+  # Social media
+  facebook         : # Username
+  instagram        : # Username
+  linkedin         : # Username
+  telegram         : # URL
+  twitter          : # Username for X / Twitter
 
 
 # Reading Files
