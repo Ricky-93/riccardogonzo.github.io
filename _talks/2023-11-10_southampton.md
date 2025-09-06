@@ -2,7 +2,7 @@
 title: Spinning waveforms from classical amplitudes
 collection: talks
 type: Invited seminar
-permalink: null
+permalink: /talks/2023-11-10_southampton
 venue: STAG centre
 date: 2023-11-10
 location: Southampton, UK

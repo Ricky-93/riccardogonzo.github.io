@@ -2,7 +2,7 @@
 title: 'Dirac brackets for classical black hole scattering: from amplitudes to observables'
 collection: talks
 type: Invited talk
-permalink: null
+permalink: /talks/2025-06-17_amplitudes
 venue: Amplitudes 2025
 date: 2025-06-17
 location: Seoul, South Korea

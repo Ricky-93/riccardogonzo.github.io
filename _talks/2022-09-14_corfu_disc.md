@@ -3,7 +3,7 @@ title: Leader of the discussion session 'Connections between gravity, classical 
   and scattering amplitudes'
 collection: talks
 type: Invited talk
-permalink: null
+permalink: /talks/2022-09-14_corfu_disc
 venue: Celestial amplitudes and flat space holography workshop
 date: 2022-09-14
 location: Corfu, Greece
