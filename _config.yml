@@ -22,7 +22,7 @@ repository  : "Ricky-93/riccardogonzo.github.io"  # your repo path
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar     : "images/profile_picture.jpg"   # add your photo here
+  avatar     : "profile_picture.jpg"   # add your photo here
   name       : "Riccardo Gonzo"
   bio        : "I am a theoretical physicist with over seven years of research experience spanning high-energy physics and general relativity."
   # I'm a theoretical physicist working on quantum field theory and general relativity who fell in love with scattering amplitudes.
