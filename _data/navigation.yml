@@ -1,5 +1,7 @@
 # main links links
 main:
+  - title: "Home"
+    url: /                    # ← trailing slash not needed for '/', but ok
 
   - title: "My work"
     url: /publications/
