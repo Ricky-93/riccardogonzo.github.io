@@ -193,8 +193,8 @@ The markers on the map represent a conference, workshop, or institute where I pr
       ]
     }
   ],
-  "url": "https://giorgionicolletti.github.io",
-  "image": "https://giorgionicoletti.github.io/images/profile_picture.png",
+  "url": "https://riccardogonzo.com",
+  "image": "https://riccardogonzo.com/images/profile_picture.jpg",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Trieste",
