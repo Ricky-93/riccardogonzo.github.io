@@ -17,6 +17,19 @@ NODES="nodes.txt"
 URL="hyperlinks.txt"
 LINKS="links.txt"
 
+# --- Load INSPIRE ID map (optional), robust to curly quotes and CRLF ---
+declare -A IDMAP
+if [[ -f inspire_ids.tsv ]]; then
+  while IFS=$'\t' read -r key val || [[ -n "$key" ]]; do
+    # strip CRLF if present
+    key=${key%$'\r'}; val=${val%$'\r'}
+    [[ -z "$key" ]] && continue
+    # normalize curly quotes to straight apostrophes
+    key=${key//’/\'}
+    key=${key//‘/\'}
+    IDMAP["$key"]="$val"
+  done < inspire_ids.tsv
+fi
 
 echo "" > $URL
 echo "" > $TEMP_AUTH		#creates blank temporary file
@@ -68,9 +81,42 @@ do
 	echo -e "$((i-1))\t\""$(sed "${i}q;d" $OUTPUT_AUTH)"\"\t1" >> $NODES
 	else echo -e "$((i-1))\t\""$(sed "${i}q;d" $OUTPUT_AUTH)"\"\t2" >> $NODES
 	fi						#adds to $NODES the line relative to each author
-	echo -e "https://inspirehep.net/authors?search="$(sed "${i}q;d" $OUTPUT_AUTH | sed "s/ /+/g") >> $URL
-	#echo -e "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q="$(sed "${i}q;d" $OUTPUT_AUTH | sed "s/\ /+/g") >> $URL	#adds to $URL the author's weblink (google scholar)
+	
+	#echo -e "https://inspirehep.net/authors?search="$(sed "${i}q;d" $OUTPUT_AUTH | sed "s/ /+/g") >> $URL
+	
+	# name is already set above
+	
+	# Get exact author name from list
+	raw_name="$(sed -n "${i}p" "$OUTPUT_AUTH")"
+	# normalize curly quotes in the lookup key
+	name_key=${raw_name//’/\'}
+	name_key=${name_key//‘/\'}
+	ID="${IDMAP[$name_key]}"
+
+	if [[ -n "$ID" ]]; then
+	  # Direct INSPIRE profile
+	  echo "https://inspirehep.net/authors/${ID}?ui-citation-summary=true" >> "$URL"
+	else
+	  # URL-encode the author name
+	  if command -v python3 >/dev/null 2>&1; then
+	    enc="$(python3 -c 'import urllib.parse,sys; print(urllib.parse.quote(sys.argv[1]))' "$raw_name")"
+	  else
+	    urlencode() { local LC_ALL=C s="$1" out="" c hex
+	      for ((j=0;j<${#s};j++)); do c="${s:j:1}"
+		case "$c" in [a-zA-Z0-9.~_-]) out+="$c" ;; ' ') out+='%20' ;;
+		  *) printf -v hex '%%%02X' "'$c"; out+="$hex" ;; esac
+		done; printf '%s' "$out"; }
+	    enc="$(urlencode "$raw_name")"
+	  fi
+
+	  # Fallback: Scholar search instead of INSPIRE search
+	  echo "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=${enc}" >> "$URL"
+	fi
+
+#echo -e "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q="$(sed "${i}q;d" $OUTPUT_AUTH | sed "s/\ /+/g") >> $URL	#adds to $URL the author's 	weblink (google scholar)
+	
 done	
+
 #sed -i '/^$/d' $URL	#deletes first blank line
 
 
