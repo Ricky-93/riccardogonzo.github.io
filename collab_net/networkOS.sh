@@ -50,7 +50,7 @@ sed -i '' '/^$/d' $OUTPUT_TYPE
 cat $TEMP_AUTH | sed "s/,\ /\n/g" | perl -ne 'print unless $seen{$_}++' > $OUTPUT_AUTH	#deletes duplicate lines and returns a newline separated list of all the authors
 
 
-#sed -i '/Giorgio Nicoletti/d' $OUTPUT_AUTH	#removes "Giorgio Nicoletti" from the author list
+#sed -i '/Riccardo Gonzo/d' $OUTPUT_AUTH	#removes "Riccardo Gonzo" from the author list
 
 
 authN=$(cat $OUTPUT_AUTH | wc -l)		#total number of authors
@@ -60,11 +60,11 @@ titleN=$(cat $OUTPUT_TITLE | wc -l)		#total number of articles
 echo " 	name	group" > $NODES		#creates file with nodes data
 echo "	null source	target	value" > $LINKS	#creates file with link data
 
-#echo -e "0\t\"Giorgio Nicoletti\"\t1" >> $NODES
+#echo -e "0\t\"Riccardo Gonzo\"\t1" >> $NODES
 
 for i in $(seq 1 $authN)	#loops over all authors and add the relative line in $NODES and $URL
 do
-	if [[ "$(sed "${i}q;d" $OUTPUT_AUTH)" == $"Giorgio Nicoletti" ]]; then
+	if [[ "$(sed "${i}q;d" $OUTPUT_AUTH)" == $"Riccardo Gonzo" ]]; then
 	echo -e "$((i-1))\t\""$(sed "${i}q;d" $OUTPUT_AUTH)"\"\t1" >> $NODES
 	else echo -e "$((i-1))\t\""$(sed "${i}q;d" $OUTPUT_AUTH)"\"\t2" >> $NODES
 	fi						#adds to $NODES the line relative to each author

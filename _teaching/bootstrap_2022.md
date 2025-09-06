@@ -2,7 +2,7 @@
 title: 'Conformal Bootstrap course'
 collection: teaching
 type: "Tutor"
-permalink: ''
+permalink: 
 venue: "Higgs Centre School of Theoretical Physics"
 date: 2022-07-01
 courseDates: "1 week"

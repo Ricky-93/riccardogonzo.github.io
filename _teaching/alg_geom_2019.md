@@ -2,7 +2,7 @@
 title: 'Algebraic Geometry (MA341F)'
 collection: teaching
 type: "Teaching Assistant"
-permalink: ''
+permalink: 
 venue: "Trinity College Dublin"
 date: 2019-01-01
 courseDates: "2019"

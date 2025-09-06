@@ -2,7 +2,7 @@
 title: 'Combinatorics (MAU34107)'
 collection: teaching
 type: "Teaching Assistant"
-permalink: ''
+permalink: 
 venue: "Trinity College Dublin"
 date: 2020-01-01
 courseDates: "2020"

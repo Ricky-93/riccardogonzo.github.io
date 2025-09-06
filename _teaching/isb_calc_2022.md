@@ -2,7 +2,7 @@
 title: 'Differential Calculus (Niels Brock program)'
 collection: teaching
 type: "Teacher"
-permalink: ''
+permalink: 
 venue: "International School of Billund (ISB)"
 date: 2022-03-01
 courseDates: "3 months"

@@ -2,7 +2,7 @@
 title: 'BUSSTEPP 2022'
 collection: teaching
 type: "Tutor"
-permalink: ''
+permalink: 
 venue: "Imperial College London"
 date: 2022-07-01
 courseDates: "2 weeks"
