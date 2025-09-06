@@ -1,5 +1,5 @@
  	name	group
-0	"Riccardo Gonzo"	2
+0	"Riccardo Gonzo"	1
 1	"Tristan McLoughlin"	2
 2	"Diego Medrano"	2
 3	"Anne Spiering"	2
