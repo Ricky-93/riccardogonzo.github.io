@@ -37,7 +37,7 @@
 
     {% if post.date %}<p class="page__meta" style = "text-align: right;"><i class="fa fa-calendar-alt" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
     {% if post.venue %}<p class="archive__item-excerpt" itemprop="description" style = "text-align: right; margin-bottom:0px"><i>{{ post.venue }}</i></p>{% endif %}
-    {% if post.paperurl and post.preprinturl %}
+    {% if post.paperurl or post.preprinturl %}
       <p class="archive__item-excerpt" itemprop="description" style = "text-align: right; margin-bottom:0px">
         <a href="{{ post.preprinturl }}" target="_blank">Preprint link <i class="fas fa-external-link-alt"></i></a>
       </p>
