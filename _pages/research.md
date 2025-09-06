@@ -1,22 +1,13 @@
 ---
 permalink: /
-title: ''
+title: 'Research interests'
 excerpt:
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
+permalink: /research/
 ---
 
-I am Riccardo Gonzo, a Postdoctoral Research Associate at the [Centre for Theoretical Physics, Queen Mary University of London](https://www.seresearch.qmul.ac.uk/cfp/){:target="_blank"}<!--_-->. Previously, I was a postdoctoral researcher at the [Higgs Centre for Theoretical Physics, University of Edinburgh](https://www.ph.ed.ac.uk/higgs){:target="_blank"}<!--_-->. My research lies at the interface of scattering amplitudes and general relativity, with the goal of developing new analytical tools for modelling gravitational-wave signals from binary black hole systems.
-
-I obtained my PhD in Theoretical Particle Physics at [Trinity College Dublin](https://www.tcd.ie/){:target="_blank"}<!--_--> under the supervision of Prof. Ruth Britto, as part of the Marie Skłodowska-Curie ITN [SAGEX](https://sagex.org/){:target="_blank"}<!--_-->, with a thesis on *Coherent states and classical radiative observables in the S-matrix formalism*. Before that, I studied Physics at the [University of Padova](https://www.unipd.it/){:target="_blank"}<!--_-->, where I earned both my Bachelor’s and Master’s degrees *cum laude*.
-
-My long-term vision is to build an international research group at the interface of amplitudes, gravity, and gravitational-wave science, developing a unified formalism that combines amplitude-based perturbation theory with self-force resummation. The goal is to provide new analytical waveform models relevant to detectors such as LISA.
-
-## <span style="display: flex; align-items: center;">Research Highlights <span onclick="toggleVisibility('highlights')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-highlights" style="display: inline-block; transform: rotate(0deg); transition: transform 1s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
+## <span style="display: flex; align-items: center;">Research Highlights <span onclick="toggleVisibility('highlights')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-highlights" style="display: inline-block; transform: rotate(0deg); transition: transform 0.5s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
 <div id="highlights" style="max-height: 2000px; overflow: hidden; transition: max-height 0.5s ease-out;">
-<div style="margin-bottom: 10px;"></div>
   <!-- Publication 1 -->
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="/images/PRL_transduction.jpg" alt="Publication 1" style="width: 150px; height: auto; margin-right: 20px;">
@@ -55,6 +46,28 @@ My long-term vision is to build an international research group at the interface
   </div>
 </div>
 
+## <span style="display: flex; align-items: center;">Emergence of Information in Biological and Living Systems <span onclick="toggleVisibility('information')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-information" style="display: inline-block; transform: rotate(0deg); transition: transform 0.5s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
+<div id="information" style="max-height: 1000px; overflow: hidden; transition: max-height 0.5s ease-out; text-align: justify;">
+  With Antonio Celani (ICTP, Italy), Daniel M. Busiello (MPIPKS, Germany) and many other collaborators, I am currently working on understanding <span style="color:#6c757d;font-weight:600;">how biological and artificial agents process information and make decisions</span> in complex and stochastic environments. We are seeking universal principles that can be applied across different scales, from biochemical to neural networks, exploiting ideas from Information Theory and tools from machine learning. <br><br>
+
+  Our work so far has dealt with foundational questions. We have studied how stochastic systems can <span style="color:#6c757d;font-weight:600;">optimize information harvesting</span> from hidden signals, showing the existence of energy-efficient transduction mechanisms and how our results can be applied to understand the links between flickering and mechanical stress in red blood cells.<br>
+  We have also investigated how <span style="color:#6c757d;font-weight:600;">the existence of a spectrum of dynamical timescales</span> shape how information is propagated between the components of multiscale systems, and how it can be used to define functional relationships between different layers of a network.<br>
+  Finally, we have introduced the idea of <span style="color:#6c757d;font-weight:600;">information interference</span> in systems coupled with unpredictable and changing environments. We have studied the conditions upon which the information between internal degrees of freedom can be disentangled from the one due to the external environment, and how this can be used to define the concept of effective interactions in complex systems. In general, however, we have shown how information interference emerges from environmental changes, making the system intrinsically context-dependent.
+</div>
+
+## <span style="display: flex; align-items: center;">Metapopulation Models for Spatial Ecology <span onclick="toggleVisibility('ecology')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-ecology" style="display: inline-block; transform: rotate(0deg); transition: transform 0.5s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
+<div id="ecology" style="max-height: 1000px; overflow: hidden; transition: max-height 0.5s ease-out; text-align: justify;">
+  With Amos Maritan (University of Padova), Andrea Rinaldo (EPFL) and Prajwal Padmanabha (University of Lausanne) I am studying <span style="color:#6c757d;font-weight:600;">spatial metapopulation models</span> through the lenses of Statistical Physics. By studying ecological systems in arbitrary network topologies, we seek to understand how dispersal affects <span style="color:#6c757d;font-weight:600;">survival, coexistence, and dynamics of ecological metacommunities</span>. <br><br>
+
+  Our work focuses on how spatial features can drastically change the fate of ecological communities. We have shown that <span style="color:#6c757d;font-weight:600;">landscape heterogeneity</span> can support the coexistence of competing species by fostering the spontaneous formation of ecological niches. Similarly, the <span style="color:#6c757d;font-weight:600;">connectivity of dispersal network</span> can affect the stability of the system, either helping them survive or pushing them to the brink of extinction. We use methods from the Statistical Physics of disordered systems, allowing us to study the emergence of macroscopic ecological patterns starting from simple microscopic, individual-based rules.
+</div>
+
+## <span style="display: flex; align-items: center;">Modeling and Data Analysis for Neuroscience <span onclick="toggleVisibility('neuro')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-neuro" style="display: inline-block; transform: rotate(0deg); transition: transform 0.5s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
+<div id="neuro" style="max-height: 1000px; overflow: hidden; transition: max-height 0.5s ease-out; text-align: justify;">
+  With Samir Suweis (University of Padova) and several experimental collaborators, I have been studying since the beginning of my PhD the <span style="color:#6c757d;font-weight:600;">emergence of critical signatures in neural activity</span> and how tools from Statistical Physics can be used to understand the dynamics of the brain. <br><br>
+
+  Our work has focused on understanding the emergence of spatiotemporal patterns in brain dynamics, such as the <span style="color:#6c757d;font-weight:600;">formation of scale-free neural avalanches</span> and <span style="color:#6c757d;font-weight:600;">long-range temporal and spatial correlations</span>. We have highlighted how slow drivers of neural activity are necessary for the onset of neural avalanches, and how scale-free neural correlations emerge from LFP recordings in the brain of rodents. We have recovered similar results in whole-brain models on the human connectome, showing how brain-wide oscillations are tightly linked to phase transitions. Finally, we have shown that strong temporal correlations in EEG recordings of newborns are linked to the prenatal experience with language, suggesting that the brain is already shaped by the maternal language before birth.
+</div>
 
 ## <span style="display: flex; align-items: center;">News & Media Coverage <span onclick="toggleVisibility('news')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-news" style="display: inline-block; transform: rotate(0deg); transition: transform 1s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
 <div id="news" style="max-height: 2000px; overflow: hidden; transition: max-height 0.5s ease-out;">
@@ -101,29 +114,6 @@ My long-term vision is to build an international research group at the interface
   </div>
 </div>
 
-## <span style="display: flex; align-items: center;">My Work at a Glance <span onclick="toggleVisibility('glance')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-glance" style="display: inline-block; transform: rotate(0deg); transition: transform 1s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
-<div id="glance" style="max-height: 2000px; overflow: hidden; transition: max-height 0.5s ease-out;">
-My main research interest is the Statistical Physics of Complex Systems and its theoretical and multidisciplinary applications, from Neuroscience to Ecology. With Antonio Celani (ICTP, Italy), Daniel M. Busiello (MPIPKS, Germany) and many other collaborators, I am currently working on understanding <span style="color:#6c757d;font-weight:600;">how biological and artificial agents process information and make decisions</span> in complex and stochastic environments. We are seeking universal principles that can be applied across different scales, from biochemical to neural networks, exploiting ideas from Information Theory and general tools from machine learning.
-
-With Amos Maritan (University of Padova), Andrea Rinaldo (EPFL) and Prajwal Padmanabha (University of Lausanne) I am also studying <span style="color:#6c757d;font-weight:600;">spatial metapopulation models</span> through the lenses of Statistical Physics. By studying ecological systems in arbitrary network topologies, we seek to understand how dispersal affects <span style="color:#6c757d;font-weight:600;">survival, coexistence and dynamics of ecological metacommunities</span>.
-
-<!-- My works have been published in Physical Review X, Physical Review Letters, Proceedings of the National Academy of Sciences (PNAS), and Science Advances, among others. I have presented my work at several international conferences and workshops, -->
-
-<h3>Collaboration network</h3>
-<p>This is my collaboration network: the color of each node specifies either a <span style="color:#d6d2d2;font-weight:600;">co-author</span>, a <span style="color:#79addc;font-weight:600;">preprint</span> or <span style="color:#9e1910;font-weight:600;">journal article</span>. Click on a node for more information.</p>
-
- <iframe src="/collab_net/network.html" height="300" width="100%" style="border: none"></iframe>
-
-<h3>Talks & contributions</h3>
-The markers on the map represent a conference, workshop, or institute where I presented my work, either <span style="color:#a23336;font-weight:600;">invited talks</span> or <span style="color:#065b92;font-weight:600;">contributed talks and posters</span>. Click on a marker for more information.
-<div style="margin-bottom: 20px;"></div>
- <iframe src="/talkmap/talks_map.html" height="300" width="100%" style="border: none"></iframe>
-</div>
-
-
-
-
-
 <script>
   function toggleVisibility(id) {
     var element = document.getElementById(id);
@@ -136,83 +126,5 @@ The markers on the map represent a conference, workshop, or institute where I pr
       arrow.style.transform = "rotate(0deg)";
     }
   }
-</script>
-
-
-<script type="application/ld+json">
-{
-    "@context" : "http://schema.org",
-    "@type" : "ProfilePage",
-    "mainEntity" : {
-  "@type": "Person",
-  "@id": "https://giorgionicoletti.github.io",
-  "name": "Giorgio Nicoletti",
-  "nationality": "Italian",
-  "award": [
-    "Graduate Alumni Award, University of Padova"
-  ],
-  "affiliation": [
-    {
-      "@type": "Organization",
-      "name": "International Center for Theoretical Physics",
-      "sameAs": [
-        "https://x.com/ictpnews",
-        "https://www.ictp.it/",
-        "https://www.linkedin.com/company/ictp-page/",
-        "https://www.youtube.com/channel/UChFTAv9bS-LJjXSVkFBkK5g"
-      ]
-      }
-  ],
-  "alumniOf": [
-    {
-    "@type": "CollegeOrUniversity",
-    "name": "University of Padova",
-    "sameAs": "https://www.unipd.it/"
-    },
-    {
-    "@type": "CollegeOrUniversity",
-    "name": "EPFL",
-      "sameAs": "https://www.epfl.ch/en/"
-    }
-  ],
-  "gender": "Male",
-  "honorificPrefix": "Dr.",
-  "jobTitle": "ICTP Postdoctoral Fellow",
-  "Description": "Researcher in Theoretical Physics",
-  "disambiguatingDescription": "Theoretical physicist working on Complex Systems, at the interface between Physics, Biology, and Ecology.",
-  "worksFor": [
-    {
-      "@type": "Organization",
-      "name": "Quantitative Life Sciences Section at ICTP",
-          "sameAs": [
-        "https://x.com/ictpnews",
-        "https://www.ictp.it/",
-        "https://www.ictp.it/qls",
-        "https://www.linkedin.com/company/ictp-page/",
-        "https://www.youtube.com/channel/UChFTAv9bS-LJjXSVkFBkK5g"
-      ]
-    }
-  ],
-  "url": "https://giorgionicolletti.github.io",
-  "image": "https://giorgionicoletti.github.io/images/profile_picture.png",
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "Trieste",
-    "addressCountry": "Italy"
-  },
-  "sameAs": [
-    "https://twitter.com/@gnicoletti09",
-    "https://www.linkedin.com/in/giorgio-nicoletti-023556a3/",
-    "https://github.com/giorgionicoletti",
-    "https://scholar.google.com/citations?user=PVA6lnMAAAAJ",
-    "https://orcid.org/0000-0002-7682-0596",
-    "https://www.webofscience.com/wos/author/record/GIW-7237-2022",
-    "https://bsky.app/profile/giorgionicoletti.bsky.social",
-      "https://www.ictp.it/member/giorgio-nicoletti",
-      "https://people.epfl.ch/giorgio.nicoletti?lang=en",
-      "https://www.researchgate.net/profile/Giorgio-Nicoletti-2"
-    ]
-  }
-}
 </script>
 

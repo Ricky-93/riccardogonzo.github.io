@@ -3,49 +3,118 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
+# `jekyll serve`. If you change this file, please restart the server process.
 
-# Basic Site Settings
-locale      : "en-GB"
-site_theme  : "default"
-title       : "Riccardo Gonzo"
-title_separator: "-"
-name        : &name "Dr. Riccardo Gonzo"
-description : &description "Postdoctoral Research Associate, Queen Mary University of London"
-url         : "https://riccardogonzo.com"
-baseurl     : ""      # keep empty when using a custom domain at the root
-repository  : "Ricky-93/riccardogonzo.github.io"  # your repo path
+# Site Settings
+locale                   : "en-GB"
+title                    : "Riccardo Gonzo"
+title_separator          : " &#124; "
+name                     : &name "Riccardo Gonzo"
+description              : &description "Postdoc at QMUL"
+url                      : https://riccardogonzo.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "Ricky-93/riccardogonzo.github.io"  # your repo path
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs              : false # true, false (default)
+words_per_minute         : 160
+future                   : true
+read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link             : false #change to true to add link to talkmap on talks page
+comments:
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  disqus:
+    shortname            :
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
+staticman:
+  allowedFields          : ['name', 'email', 'url', 'message']
+  branch                 : "gh-pages" # "master", "gh-pages"
+  commitMessage          : "New comment."
+  filename               : comment-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "_data/comments/{options.slug}"
+  requiredFields         : ['name', 'email', 'message']
+  transforms:
+    email                : "md5"
+  generatedFields:
+    date:
+      type               : "date"
+      options:
+        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+atom_feed:
+  path                   : # blank (default) uses feed.xml
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+alexa_site_verification  :
+yandex_site_verification :
+
+# Social Sharing
+twitter:
+  username               : &twitter
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 :  # Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+
+
+# Analytics
+analytics:
+  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          :
+
+
+# Site Author
 author:
-  # Biographic information
-  avatar     : "profile_picture.jpg"   # add your photo here
-  name       : "Riccardo Gonzo"
-  bio        : "I am a theoretical physicist with over seven years of research experience spanning high-energy physics and general relativity."
-  # I'm a theoretical physicist working on quantum field theory and general relativity who fell in love with scattering amplitudes.
-  employer   : "Queen Mary University of London"
-  email      : "r.gonzo@qmul.ac.uk"
-
-  # Academic profiles
-  googlescholar: "https://scholar.google.com/citations?user=TDT1fI0AAAAJ&hl=en"
-  orcid        : "https://orcid.org/my-orcid?orcid=0000-0001-7285-6295"
-  researchgate : "https://www.researchgate.net/profile/Riccardo-Gonzo?ev=hdr_xprf"
-  inspire-hep  : "https://inspirehep.net/authors/1812058?ui-citation-summary=true"
-  linkedin     : "https://www.linkedin.com/in/riccardogonzo/"
-
-  # Repositories and software development
-  # bitbucket        : # Username - Update with your username on the site
-  # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
-  # Social media
-  facebook         : # Username
-  instagram        : # Username
-  linkedin         : # Username
-  telegram         : # URL
-  twitter          : # Username for X / Twitter
+  name             : "Giorgio Nicoletti"
+  avatar           : "profile_picture.png"
+  bio              : "Postdoctoral researcher at ICTP"
+  location         : "Trieste, Italy"
+  employer         :
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=PVA6lnMAAAAJ"
+  email            : "gnicolet@ictp.it"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "giorgionicoletti"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         : "https://www.linkedin.com/in/giorgio-nicoletti-023556a3/"
+  orcid            : "https://orcid.org/0000-0002-7682-0596"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : "@gnicoletti09"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
 
 # Reading Files

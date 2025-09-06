@@ -6,6 +6,7 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
 
 You can download my full CV [here](/files/cv_Riccardo_Gonzo.pdf){:target="_blank"}<!--_-->.
 

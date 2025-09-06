@@ -46,13 +46,13 @@
     {% assign authors = post.authors | split: ', ' %}
     {% for author in authors %}
       {% if forloop.last == false %}
-        {% if author contains 'Giorgio Nicoletti' %}
+        {% if author contains 'Riccardo Gonzo' %}
           <b>{{ author }}</b>,
         {% else %}
           <span style="color: #9BA1A6">{{ author }}, </span>
         {% endif %}
       {% else %}
-        {% if author contains 'Giorgio Nicoletti' %}
+        {% if author contains 'Riccardo Gonzo' %}
           <b>{{ author }}</b>
         {% else %}
           <span style="color: #9BA1A6">{{ author }}</span>
