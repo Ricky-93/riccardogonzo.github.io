@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: 'Home'
+permalink: /
+title: ''
 excerpt:
 author_profile: true
 redirect_from:
