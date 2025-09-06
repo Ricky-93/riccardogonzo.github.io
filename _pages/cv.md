@@ -46,7 +46,7 @@ My long-term vision is to develop a unified formalism that combines amplitude-ba
 <table>
 <tr>
   <td width="22%"><div align="right">2018&nbsp;–&nbsp;2022<br>
-    <img src='/images/tcd_logo.png' style="padding-top:7px;display:block;margin-right:10px;" width="130"></div>
+    <img src='/images/tcd_logo.jpg' style="padding-top:7px;display:block;margin-right:10px;" width="130"></div>
   </td>
   <td width="80%">PhD in Theoretical Particle Physics, Trinity College Dublin (Ireland)<br>
     <span style="font-weight:600">Thesis:</span> <i>Coherent states and classical radiative observables in the S-matrix formalism</i> (<a href="http://www.tara.tcd.ie/handle/2262/98491" target="_blank">link</a>)<br>
