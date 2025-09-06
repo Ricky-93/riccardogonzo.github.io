@@ -1,5 +1,4 @@
 ---
-permalink: /
 title: 'Research interests'
 excerpt:
 author_profile: true
