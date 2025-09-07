@@ -34,6 +34,11 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
+      
+            {% if author.inspire-hep %}
+      <li><a href="{{ author.inspire-hep }}"><i class="ai ai-inspire ai-fw" aria-hidden="true"></i> INSPIRE-HEP</a></li>
+      {% endif %}
+      
       {% if author.googlescholar %}
       <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
