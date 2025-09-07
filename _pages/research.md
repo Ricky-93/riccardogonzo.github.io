@@ -30,7 +30,7 @@ permalink: /research/
 
   <!-- Publication 3 -->
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="/images/JHEP_bound_waveforms.png" alt="Publication 3" style="width: 150px; height: auto; margin-right: 20px;">
+    <img src="/images/JHEP_bound_waveforms.png" alt="Publication 3" style="width: 220px; height: auto; margin-right: 20px;">
     <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
       <h3 style="margin: 0;"><a href="https://doi.org/10.1007/JHEP05(2024)034" target="_blank">Gravitational bound waveforms from amplitudes</a></h3>
       <p style="font-size: 0.9em; margin: 5px 0;color:#9BA1A6">Tim Adamo, <b>Riccardo Gonzo</b>, Anton Ilderton — <i>JHEP</i> 05 (2024) 034</p>
