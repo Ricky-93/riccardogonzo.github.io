@@ -12,7 +12,7 @@ You can download my full CV [here](/files/cv_Riccardo_Gonzo.pdf){:target="_blank
 
 ## Summary
 I am a theoretical physicist with over seven years of research experience spanning high-energy physics and general relativity. My current work focuses on the analytical description of gravitational binary systems and the modelling of their waveforms by combining modern particle physics tools — such as scattering amplitudes — with traditional general relativity methods like the self-force expansion.
-My long-term vision is to develop a unified formalism that combines amplitude-based perturbation theory with self-force resummation, producing new waveform models relevant to detectors such as LISA, and to build an international research group at the interface of amplitudes, gravity, and gravitational-wave science.
+My dream is to develop a unified formalism that combines amplitude-based perturbation theory with self-force resummation, producing new waveform models relevant to detectors such as LISA, and to build an international research group at the interface of amplitudes, gravity, and gravitational-wave science.
 
 
 ## Academic appointments
