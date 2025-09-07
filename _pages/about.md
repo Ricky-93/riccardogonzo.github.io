@@ -14,88 +14,80 @@ I obtained my PhD in Theoretical Particle Physics at [Trinity College Dublin](ht
 
 My long-term vision is to build an international research group at the interface of amplitudes, gravity, and gravitational-wave science, developing a unified formalism that combines amplitude-based perturbation theory with self-force resummation. The goal is to provide new analytical waveform models relevant to detectors such as LISA.
 
-## <span style="display: flex; align-items: center;">Research Highlights <span onclick="toggleVisibility('highlights')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-highlights" style="display: inline-block; transform: rotate(0deg); transition: transform 1s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
+## <span style="display: flex; align-items: center;">Research Highlights <span onclick="toggleVisibility('highlights')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-highlights" style="display: inline-block; transform: rotate(0deg); transition: transform 0.5s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
 <div id="highlights" style="max-height: 2000px; overflow: hidden; transition: max-height 0.5s ease-out;">
-<div style="margin-bottom: 10px;"></div>
+
   <!-- Publication 1 -->
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="/images/PRL_transduction.jpg" alt="Publication 1" style="width: 150px; height: auto; margin-right: 20px;">
+    <img src="/images/PRD_1SF_spinning.jpeg" alt="Publication 1" style="width: 150px; height: auto; margin-right: 20px;">
     <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
-      <h3 style="margin: 0;"><a href="https://link.aps.org/pdf/10.1103/PhysRevLett.133.158401" target="_blank">Tuning transduction from hidden observables to optimize information harvesting</a></h3>
-      <p style="font-size: 0.9em; margin: 5px 0;color:#9BA1A6">Giorgio Nicoletti and D. M. Busiello, Physical Review Letters 133, 158401 (2024) - Editors' Suggestion, <a href="https://physics.aps.org/articles/v17/143" target="_blank" style="color:#9BA1A6">Physics Viewpoint</a></p>
-      <p style="font-size: 0.9em; margin: 5px 0;color:#51585e"><i>How can we extract information on hidden signals via transduction mechanisms?</i></p>
+      <h3 style="margin: 0;"><a href="https://arxiv.org/abs/2504.02025" target="_blank">The spinning self-force EFT: 1SF waveform recursion relation and Compton scattering</a></h3>
+      <p style="font-size: 0.9em; margin: 5px 0;color:#9BA1A6">Dogan Akpinar, Vittorio Del Duca, <b>Riccardo Gonzo</b> — <i>Phys. Rev. D</i> (2025), accepted.</p>
+      <p style="font-size: 0.9em; margin: 5px 0;color:#51585e"><i>Effective-field-theory framework at first self-force order for spinning binaries; new 1SF waveform recursion relation and all order resummation near the separatrix.</i></p>
     </div>
   </div>
+
   <!-- Publication 2 -->
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
-      <h3 style="margin: 0;"><a href="https://link.aps.org/pdf/10.1103/PhysRevX.14.021007" target="_blank">Information propagation in multilayer systems with higher-order interactions across timescales</a></h3>
-      <p style="font-size: 0.9em; margin: 5px 0;color:#9BA1A6">Giorgio Nicoletti and D. M. Busiello, Physical Review X 14, 021007 (2024)</p>
-      <p style="font-size: 0.9em; margin: 5px 0;color:#51585e"><i>How do timescales shape the information content of complex multiscale systems?</i></p>
+      <h3 style="margin: 0;"><a href="https://doi.org/10.1103/PhysRevLett.133.221401" target="_blank">Scattering and bound observables for spinning particles in Kerr spacetime with generic spin orientations</a></h3>
+      <p style="font-size: 0.9em; margin: 5px 0;color:#9BA1A6"><b>Riccardo Gonzo</b>, Canxin Shi — <i>Physical Review Letters</i> 133, 221401 (2024)</p>
+      <p style="font-size: 0.9em; margin: 5px 0;color:#51585e"><i>Unified on-shell Dirac bracket framework relating the radial action to observables for test spinning particles in Kerr.</i></p>
     </div>
-    <img src="/images/PRX_multiscale.png" alt="Publication 2" style="width: 150px; height: auto; margin-left: 20px;">
+    <img src="/images/PRL_scattering_bound.png" alt="Publication 2" style="width: 220px; height: auto; margin-left: 20px;">
   </div>
+
   <!-- Publication 3 -->
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="/images/PNAS_multispecies.png" alt="Publication 3" style="width: 150px; height: auto; margin-right: 20px;">
+    <img src="/images/JHEP_bound_waveforms.png" alt="Publication 3" style="width: 220px; height: auto; margin-right: 20px;">
     <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
-      <h3 style="margin: 0;"><a href="https://www.pnas.org/doi/full/10.1073/pnas.2410932121" target="_blank">Landscape and environmental heterogeneity support coexistence in competitive metacommunities</a></h3>
-      <p style="font-size: 0.9em; margin: 5px 0;color:#9BA1A6">P. Padmanabha*, Giorgio Nicoletti*, D. Bernardi*, S. Suweis, S. Azaele, A. Rinaldo, A. Maritan, Proceedings of the National Academy of Sciences 121 (44), e2410932121 (2024)</p>
-      <p style="font-size: 0.9em; margin: 5px 0;color:#51585e"><i>How can competitive ecological communities survive in complex spatial landscapes?</i></p>
+      <h3 style="margin: 0;"><a href="https://doi.org/10.1007/JHEP05(2024)034" target="_blank">Gravitational bound waveforms from amplitudes</a></h3>
+      <p style="font-size: 0.9em; margin: 5px 0;color:#9BA1A6">Tim Adamo, <b>Riccardo Gonzo</b>, Anton Ilderton — <i>JHEP</i> 05 (2024) 034</p>
+      <p style="font-size: 0.9em; margin: 5px 0;color:#51585e"><i> New scatter-to-bound map for waveforms from the S-matrix, opening a new on-shell route to GW modeling.</i></p>
     </div>
   </div>
-  <!-- Publication 4 -->
-  <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
-      <h3 style="margin: 0;"><a href="https://www.science.org/doi/full/10.1126/sciadv.adj3524" target="_blank">Prenatal experience with language shapes the brain</a></h3>
-      <p style="font-size: 0.9em; margin: 5px 0;color:#9BA1A6">B. Mariani, Giorgio Nicoletti, G. Barzon, M. C. Ortiz Barajas, M. Shukla, R. Guevara, S. Suweis, J. Gervain, Science Advances 9 (47) eadj3524 (2023)</p>
-      <p style="font-size: 0.9em; margin: 5px 0;color:#51585e"><i>How does the newborn brain respond to sounds from the maternal language?</i></p>
-    </div>
-    <img src="/images/SciAdv_eeg.png" alt="Publication 4" style="width: 150px; height: auto; margin-left: 20px;">
-  </div>
-</div>
 
+</div>
 
 ## <span style="display: flex; align-items: center;">News & Media Coverage <span onclick="toggleVisibility('news')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-news" style="display: inline-block; transform: rotate(0deg); transition: transform 1s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
 <div id="news" style="max-height: 2000px; overflow: hidden; transition: max-height 0.5s ease-out;">
-<div style="margin-bottom: 10px;"></div>
-  <!-- News -->
+  <div style="margin-bottom: 10px;"></div>
+
+  <!-- 1SF SPINNING — PRD Editors' Suggestion -->
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
-      <h3 style="margin: 0;color:#51585e">Excitation-Inhibition balance controls information encoding in neural populations</h3>
+      <h3 style="margin: 0;color:#51585e">The spinning self-force EFT: 1SF waveform recursion relation and Compton scattering</h3>
       <ul style="font-size: 0.95em; margin: 5px 0;color:#51585e;text-align:justify">
-        <li style="font-size: 0.9em; color: #9BA1A6;"><a href="https://phys.org/news/2025-03-optimal-brain-requires-excitatory-inhibitory.html" target="_blank">Phys.org</a> featured article</li>
+        <li style="font-size: 0.9em; color: #9BA1A6;">
+          <a href="https://doi.org/10.1103/PhysRevD" target="_blank">Physical Review D</a> — <strong>Editors’ Suggestion</strong>
+        </li>
       </ul>
     </div>
   </div>
-  <!-- News -->
+
+  <!-- WAVEFORMS FROM AMPLITUDES — PRD Editors' Suggestion -->
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
-      <h3 style="margin: 0;color:#51585e">Tuning transduction from hidden observables to optimize information harvesting</h3>
+      <h3 style="margin: 0;color:#51585e">Waveforms from amplitudes</h3>
       <ul style="font-size: 0.95em; margin: 5px 0;color:#51585e;text-align:justify">
-        <li style="font-size: 0.9em; color: #9BA1A6;"><a href="https://physics.aps.org/articles/v17/143" target="_blank">Physics magazine viewpoint</a> by the American Physical Society</li>
-        <li style="font-size: 0.9em; color: #9BA1A6;"><a href="https://phys.org/news/2024-10-theoretical-framework-biological.html" target="_blank">Phys.org</a> featured article</li>
+        <li style="font-size: 0.9em; color: #9BA1A6;">
+          <a href="https://doi.org/10.1103/PhysRevD.106.056007" target="_blank">Physical Review D</a> — <strong>Editors’ Suggestion</strong>
+        </li>
       </ul>
     </div>
   </div>
-    <!-- News -->
+
+  <!-- MEDIA COVERAGE — 4Gravitons & Quanta -->
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
-      <h3 style="margin: 0;color:#51585e">Mutual information disentangles interactions from changing environments</h3>
+      <h3 style="margin: 0;color:#51585e">Media & popular-science coverage</h3>
       <ul style="font-size: 0.95em; margin: 5px 0;color:#51585e;text-align:justify">
-        <li style="font-size: 0.9em; color: #9BA1A6"><a href="https://physics.aps.org/articles/v14/162" target="_blank">Physics magazine viewpoint</a> by the American Physical Society</li>
-      </ul>
-    </div>
-  </div>
-  <!-- News -->
-  <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
-      <h3 style="margin: 0;color:#51585e">Prenatal experience with language shapes the brain</h3>
-      <ul style="font-size: 0.95em; margin: 5px 0;color:#51585e;text-align:justify">
-        <li style="font-size: 0.9em; color: #9BA1A6;">Coverage by several international news outlets, such as <a href="https://www.thetimes.co.uk/article/chatty-mums-boost-their-unborn-babies-language-skills-wjl2bxbzl" target="_blank">The Times</a>, <a href="https://elpais.com/salud-y-bienestar/2023-11-22/la-exposicion-al-habla-antes-de-nacer-puede-facilitar-el-aprendizaje-de-los-recien-nacidos.html" target="_blank">El Pais</a>, <a href="https://www.dailymail.co.uk/sciencetech/article-12783189/Why-pays-chatty-mum-Babies-start-learning-language-birth-study-finds.html" target="_blank">Daily Mail</a>, <a href="https://www.lefigaro.fr/sciences/l-acquisition-du-langage-chez-le-bebe-commence-avant-la-naissance-20231124" target="_blank">Le Figaro</a>, <a href="https://www.haaretz.co.il/science/2023-11-23/ty-article/.premium/0000018b-f8e0-d473-affb-f9e851a40000?gift=8e2c603a9be8400cb925edf53ce36268" target="_blank">Haarez</a>, <a href="https://www.corriere.it/salute/23_novembre_30/apprendimento-bambini-piccoli-piu-facile-quando-si-ascolta-lingua-grembo-materno-72cb8baa-8dea-11ee-80d7-6428e39ac8b7.shtml?refresh_ce" target="_blank">Corriere della Sera</a>, <a href="https://www.ansa.it/canale_scienza/notizie/biotech/2023/11/30/lapprendimento-del-linguaggio-inizia-nel-grembo-materno_2bb70f74-8efb-480a-8ef8-631f94fb44df.html" target="_blank">ANSA</a>, and more</li>
-        <li style="font-size: 0.9em; color: #9BA1A6;">Coverage by several popular science publications, such as <a href="https://www.newscientist.com/article/2404345-babies-may-start-to-learn-language-before-they-are-born/" target="_blank">New Scientist</a>, <a href="https://www.nature.com/articles/d43978-023-00181-x" target="_blank">Nature Italy</a>, <a href="https://www.lescienze.it/news/2023/11/23/news/linguaggio_mamma_cervello_neonati-14259373/" target="_blank">Le Scienze</a>, <a href="https://www.psypost.org/new-research-suggests-babies-start-learning-language-before-birth/" target="_blank">PsyPost</a>, <a href="https://www.sciencealert.com/what-your-baby-hears-before-theyre-born-really-can-shape-their-brain" target="_blank">Science Alert</a>, and more</li>
-        <li style="font-size: 0.9em; color: #9BA1A6;">Featuring in BBC's <a href="https://www.thenakedscientists.com/podcasts/naked-scientists-podcast" target="_blank">The Naked Scientists</a> podcast</li>
-        <li style="font-size: 0.9em; color: #9BA1A6;"><a href="https://www.aaas.org/news/babies-brains-are-primed-their-native-language-birth" target="_blank">Press release</a> by the American Association for the Advancement of Science (AAAS)</li>
+        <li style="font-size: 0.9em; color: #9BA1A6;">
+          Discussion on 4Gravitons blog: <a href="https://4gravitons.com/2021/12/31/classicality-has-consequences/" target="_blank">Classicality Has Consequences</a>
+        </li>
+        <li style="font-size: 0.9em; color: #9BA1A6;">
+          <em>Quanta Magazine</em> article: <a href="http://www.quantamagazine.org/massive-black-holes-shown-to-act-like-quantum-particles-20220329/" target="_blank">Massive Black Holes Shown to Act Like Quantum Particles</a>
+        </li>
       </ul>
     </div>
   </div>
