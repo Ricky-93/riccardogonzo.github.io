@@ -132,78 +132,59 @@ The markers on the map represent a conference, workshop, or institute where I pr
 
 <script type="application/ld+json">
 {
-    "@context" : "http://schema.org",
-    "@type" : "ProfilePage",
-    "mainEntity" : {
-  "@type": "Person",
-  "@id": "https://giorgionicoletti.github.io",
-  "name": "Giorgio Nicoletti",
-  "nationality": "Italian",
-  "award": [
-    "Graduate Alumni Award, University of Padova"
-  ],
-  "affiliation": [
-    {
-      "@type": "Organization",
-      "name": "International Center for Theoretical Physics",
-      "sameAs": [
-        "https://x.com/ictpnews",
-        "https://www.ictp.it/",
-        "https://www.linkedin.com/company/ictp-page/",
-        "https://www.youtube.com/channel/UChFTAv9bS-LJjXSVkFBkK5g"
-      ]
+  "@context": "http://schema.org",
+  "@type": "ProfilePage",
+  "mainEntity": {
+    "@type": "Person",
+    "@id": "https://riccardogonzo.com",
+    "name": "Riccardo Gonzo",
+    "nationality": "Italian",
+    "honorificPrefix": "Dr.",
+    "jobTitle": "Postdoctoral Research Associate",
+    "affiliation": [
+      {
+        "@type": "Organization",
+        "name": "University of Edinburgh, School of Physics and Astronomy",
+        "sameAs": [
+          "https://www.ed.ac.uk/physics-astronomy"
+        ]
+      },
+      {
+        "@type": "Organization",
+        "name": "Queen Mary University of London",
+        "sameAs": [
+          "https://www.qmul.ac.uk/"
+        ]
       }
-  ],
-  "alumniOf": [
-    {
-    "@type": "CollegeOrUniversity",
-    "name": "University of Padova",
-    "sameAs": "https://www.unipd.it/"
+    ],
+    "alumniOf": [
+      {
+        "@type": "CollegeOrUniversity",
+        "name": "Trinity College Dublin",
+        "sameAs": "https://www.tcd.ie/"
+      },
+      {
+        "@type": "CollegeOrUniversity",
+        "name": "University of Padova",
+        "sameAs": "https://www.unipd.it/"
+      }
+    ],
+    "gender": "Male",
+    "description": "Theoretical physicist working on scattering amplitudes, gauge and gravitational theories, and the two-body problem in general relativity.",
+    "url": "https://riccardogonzo.com",
+    "image": "https://riccardogonzo.com/images/profile_picture.jpg",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Edinburgh",
+      "addressCountry": "United Kingdom"
     },
-    {
-    "@type": "CollegeOrUniversity",
-    "name": "EPFL",
-      "sameAs": "https://www.epfl.ch/en/"
-    }
-  ],
-  "gender": "Male",
-  "honorificPrefix": "Dr.",
-  "jobTitle": "ICTP Postdoctoral Fellow",
-  "Description": "Researcher in Theoretical Physics",
-  "disambiguatingDescription": "Theoretical physicist working on Complex Systems, at the interface between Physics, Biology, and Ecology.",
-  "worksFor": [
-    {
-      "@type": "Organization",
-      "name": "Quantitative Life Sciences Section at ICTP",
-          "sameAs": [
-        "https://x.com/ictpnews",
-        "https://www.ictp.it/",
-        "https://www.ictp.it/qls",
-        "https://www.linkedin.com/company/ictp-page/",
-        "https://www.youtube.com/channel/UChFTAv9bS-LJjXSVkFBkK5g"
-      ]
-    }
-  ],
-  "url": "https://riccardogonzo.com",
-  "image": "https://riccardogonzo.com/images/profile_picture.jpg",
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "Trieste",
-    "addressCountry": "Italy"
-  },
-  "sameAs": [
-    "https://twitter.com/@gnicoletti09",
-    "https://www.linkedin.com/in/giorgio-nicoletti-023556a3/",
-    "https://github.com/giorgionicoletti",
-    "https://scholar.google.com/citations?user=PVA6lnMAAAAJ",
-    "https://orcid.org/0000-0002-7682-0596",
-    "https://www.webofscience.com/wos/author/record/GIW-7237-2022",
-    "https://bsky.app/profile/giorgionicoletti.bsky.social",
-      "https://www.ictp.it/member/giorgio-nicoletti",
-      "https://people.epfl.ch/giorgio.nicoletti?lang=en",
-      "https://www.researchgate.net/profile/Giorgio-Nicoletti-2"
+    "sameAs": [
+      "https://scholar.google.com/citations?user=TDT1fI0AAAAJ&hl=en",
+      "https://orcid.org/0000-0001-7285-6295",
+      "https://inspirehep.net/authors/1812058?ui-citation-summary=true",
+      "https://www.researchgate.net/profile/Riccardo-Gonzo",
+      "https://www.linkedin.com/in/riccardogonzo/"
     ]
   }
 }
 </script>
-
