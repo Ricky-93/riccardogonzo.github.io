@@ -10,7 +10,7 @@ permalink: /research/
 
   <!-- Publication 1 -->
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="/images/PRD_1SF_spinning.png" alt="Publication 1" style="width: 150px; height: auto; margin-right: 20px;">
+    <img src="/images/PRD_1SF_spinning.jpg" alt="Publication 1" style="width: 150px; height: auto; margin-right: 20px;">
     <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
       <h3 style="margin: 0;"><a href="https://arxiv.org/abs/2504.02025" target="_blank">The spinning self-force EFT: 1SF waveform recursion relation and Compton scattering</a></h3>
       <p style="font-size: 0.9em; margin: 5px 0;color:#9BA1A6">Dogan Akpinar, Vittorio Del Duca, <b>Riccardo Gonzo</b> — <i>Phys. Rev. D</i> (2025), accepted.</p>
@@ -58,7 +58,7 @@ permalink: /research/
 <div id="selforce" style="max-height: 1000px; overflow: hidden; transition: max-height 0.5s ease-out; text-align: justify;">
   With D. Akpinar and V. del Duca, I constructed the <span style="color:#6c757d;font-weight:600;">first spinning self-force EFT</span>, deriving the effective action for Kerr black holes to quadratic order in spin and reformulating the linear metric perturbation in this framework. <br><br>
 
-  This approach revealed new recoil operators and provided a <span style="color:#6c757d;font-weight:600;">bridge between weak-field PM expansions and strong-field self-force results</span>. It also underpins a new interpolation formula for radiative fluxes that combines PM input with strong-field data, capturing universal divergences and paving the way for analytic inspiral templates.
+  This framework uncovered new spinning recoil operators and established a <span style="color:#6c757d;font-weight:600;">direct link between weak-field post-Minkowskian expansions and strong-field self-force results</span>. It also points toward <span style="color:#6c757d;font-weight:600;">novel resummation strategies in the strong-field regime, particularly around the separatrix where divergences arise</span>.
 </div>
 
 
