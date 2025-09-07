@@ -173,14 +173,13 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path/:name.html
   portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
