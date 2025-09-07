@@ -25,7 +25,7 @@ permalink: /research/
       <p style="font-size: 0.9em; margin: 5px 0;color:#9BA1A6"><b>Riccardo Gonzo</b>, Canxin Shi — <i>Physical Review Letters</i> 133, 221401 (2024)</p>
       <p style="font-size: 0.9em; margin: 5px 0;color:#51585e"><i>Unified on-shell Dirac bracket framework relating the radial action to observables for test spinning particles in Kerr.</i></p>
     </div>
-    <img src="/images/PRL_scattering_bound.png" alt="Publication 2" style="width: 150px; height: auto; margin-left: 20px;">
+    <img src="/images/PRL_scattering_bound.png" alt="Publication 2" style="width: 220px; height: auto; margin-left: 20px;">
   </div>
 
   <!-- Publication 3 -->
