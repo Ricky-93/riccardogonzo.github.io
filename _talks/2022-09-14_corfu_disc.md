@@ -1,7 +1,7 @@
 ---
 title: "Leader of the discussion session 'Connections between gravity, classical observables"
 collection: talks
-type: Discussion session
+type: "Discussion session"
 permalink: 
 venue: "Celestial amplitudes and flat space holography workshop"
 date: 2022-09-14
