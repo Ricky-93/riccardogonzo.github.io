@@ -61,7 +61,7 @@ permalink: /research/
 <div id="selforce" style="max-height: 1000px; overflow: hidden; transition: max-height 0.5s ease-out; text-align: justify;">
   With D. Akpinar and V. del Duca, I constructed the <span style="color:#6c757d;font-weight:600;">first spinning self-force EFT</span>, deriving the 1SF effective action for Kerr black holes to quadratic order in spin and reformulating the metric perturbation in this framework. <br><br>
 
-  This framework revealed new spinning recoil operators and established a <span style="color:#6c757d;font-weight:600;">direct correspondence between weak-field post-Minkowskian expansions and strong-field self-force results</span>. It further highlights <span style="color:#6c757d;font-weight:600;">promising resummation strategies for extending the weak-field expansion into the strong-field regime, especially near the separatrix between scattering and plunging orbits where point-particle divergences emerge</span>.
+  This framework revealed new spinning recoil operators and established a <span style="color:#6c757d;font-weight:600;">direct correspondence between weak-field post-Minkowskian expansions and strong-field self-force results</span>. It further highlights <span style="color:#6c757d;font-weight:600;">promising resummation strategies for extending the weak-field expansion into the strong-field regime</span>, especially near the separatrix between scattering and plunging orbits where point-particle divergences emerge.
 </div>
 
 
