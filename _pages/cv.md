@@ -119,51 +119,116 @@ My long-term vision is to develop a unified formalism that combines amplitude-ba
 
 ## Organized conferences, schools and workshops
 
-<font size="5">
-<table>
-<tr>
-  <td width="22%"><div align="right">2026<br>
-    <img src='/images/nordita_logo.png' style="padding-top:7px;display:block;margin-right:10px;" width="130"></div>
-  </td>
-  <td width="80%">Organizer — Nordita program <i>Amplitudes, Strong-Field Gravity, and Resummation</i><br>
-    Nordita Institute, Stockholm
-  </td>
-</tr>
+<style>
+  /* EVENTS LIST */
+  .events { font-size: 1.05rem; }
+  .event {
+    display: flex;
+    gap: 1rem;
+    padding: 1rem 0;
+    border-top: 1px solid #eee;
+  }
+  .event:first-child { border-top: 0; }
 
-<tr><td></td></tr>
+  .event .year {
+    width: 4.5rem;
+    text-align: right;
+    color: #6c757d;
+    font-weight: 600;
+    line-height: 1.2;
+    flex: 0 0 auto;
+  }
 
-<tr>
-  <td width="22%"><div align="right">2025<br>
-    <img src='/images/SFmeetsAmpl2.png' style="padding-top:7px;display:block;margin-right:10px;" width="130"></div>
-  </td>
-  <td width="80%">Organizer — <i>2nd Annual Workshop on Self-Force and Amplitudes</i> (<a href="https://indico.cern.ch/event/1485758/" target="_blank">link</a>)<br>
-    University of Southampton
-  </td>
-</tr>
+  .event .thumb {
+    width: 120px;
+    height: 160px;
+    flex: 0 0 auto;
+    object-fit: cover;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+    background: #f8f9fa; /* graceful if image missing */
+  }
 
-<tr><td></td></tr>
+  .event .body { flex: 1 1 auto; }
 
-<tr>
-  <td width="22%"><div align="right">2024<br>
-    <img src='/images/SFmeetsAmpl1.png' style="padding-top:7px;display:block;margin-right:10px;" width="130"></div>
-  </td>
-  <td width="80%">Organizer — <i>Gravitational self-force and scattering amplitudes</i> (<a href="https://higgs.ph.ed.ac.uk/workshops/gravitational-self-force-and-scattering-amplitudes/" target="_blank">link</a>)<br>
-    Higgs Centre, University of Edinburgh
-  </td>
-</tr>
+  .event .title { font-weight: 600; }
+  .event .role  { color: #6c757d; }
+  .event .loc   { color: #6c757d; margin-top: 0.25rem; }
 
-<tr><td></td></tr>
+  .event .links { margin-top: 0.35rem; }
+  .event .link {
+    display: inline-block;
+    padding: 0.15rem 0.5rem;
+    border-radius: 6px;
+    border: 1px solid #dee2e6;
+    text-decoration: none;
+    color: #0d6efd;
+    font-weight: 500;
+    line-height: 1.2;
+  }
+  .event .link:hover { text-decoration: underline; }
 
-<tr>
-  <td width="22%"><div align="right">2021<br>
-    <img src='/images/SAGEX_school.JPG' style="padding-top:7px;display:block;margin-right:10px;" width="130"></div>
-  </td>
-  <td width="80%">Organizer — SAGEX amplitude school (<a href="https://indico.nbi.ku.dk/event/1530/" target="_blank">link</a>)<br>
-    NBI Institute, Copenhagen
-  </td>
-</tr>
-</table>
-</font>
+  /* Mobile tweaks */
+  @media (max-width: 640px) {
+    .event { align-items: flex-start; }
+    .event .year { width: 3.2rem; text-align: left; }
+    .event .thumb { width: 100px; height: 140px; }
+  }
+</style>
+
+<div class="events">
+
+  <div class="event">
+    <div class="year">2026</div>
+    <img class="thumb" src="/images/nordita_logo.png" alt="Nordita program" loading="lazy">
+    <div class="body">
+      <div class="role">Organizer —</div>
+      <div class="title"><i>Nordita program: Amplitudes, Strong-Field Gravity, and Resummation</i></div>
+      <div class="loc">Nordita Institute, Stockholm</div>
+      <!-- <div class="links"><a class="link" href="#" target="_blank" rel="noopener">Details</a></div> -->
+    </div>
+  </div>
+
+  <div class="event">
+    <div class="year">2025</div>
+    <img class="thumb" src="/images/SFmeetsAmpl2.png" alt="2nd Annual Workshop on Self-Force and Amplitudes" loading="lazy">
+    <div class="body">
+      <div class="role">Organizer —</div>
+      <div class="title"><i>2nd Annual Workshop on Self-Force and Amplitudes</i></div>
+      <div class="loc">University of Southampton</div>
+      <div class="links">
+        <a class="link" href="https://indico.cern.ch/event/1485758/" target="_blank" rel="noopener">Event page</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="event">
+    <div class="year">2024</div>
+    <img class="thumb" src="/images/SFmeetsAmpl1.png" alt="Gravitational self-force and scattering amplitudes" loading="lazy">
+    <div class="body">
+      <div class="role">Organizer —</div>
+      <div class="title"><i>Gravitational self-force and scattering amplitudes</i></div>
+      <div class="loc">Higgs Centre, University of Edinburgh</div>
+      <div class="links">
+        <a class="link" href="https://higgs.ph.ed.ac.uk/workshops/gravitational-self-force-and-scattering-amplitudes/" target="_blank" rel="noopener">Workshop page</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="event">
+    <div class="year">2021</div>
+    <img class="thumb" src="/images/SAGEX_school.JPG" alt="SAGEX amplitude school" loading="lazy">
+    <div class="body">
+      <div class="role">Organizer —</div>
+      <div class="title"><i>SAGEX amplitude school</i></div>
+      <div class="loc">NBI Institute, Copenhagen</div>
+      <div class="links">
+        <a class="link" href="https://indico.nbi.ku.dk/event/1530/" target="_blank" rel="noopener">School page</a>
+      </div>
+    </div>
+  </div>
+
+</div>
 
 
 ## Talks, presentations and posters
