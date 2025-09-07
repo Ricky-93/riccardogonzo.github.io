@@ -14,7 +14,7 @@ permalink: /research/
     <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
       <h3 style="margin: 0;"><a href="https://arxiv.org/abs/2504.02025" target="_blank">The spinning self-force EFT: 1SF waveform recursion relation and Compton scattering</a></h3>
       <p style="font-size: 0.9em; margin: 5px 0;color:#9BA1A6">Dogan Akpinar, Vittorio Del Duca, <b>Riccardo Gonzo</b> — <i>Phys. Rev. D</i> (2025), accepted.</p>
-      <p style="font-size: 0.9em; margin: 5px 0;color:#51585e"><i>Effective-field-theory framework at first self-force order for spinning binaries; recursion for waveform multipoles and a “Compton-like” structure.</i></p>
+      <p style="font-size: 0.9em; margin: 5px 0;color:#51585e"><i>Effective-field-theory framework at first self-force order for spinning binaries; new 1SF waveform recursion relation and all order resummation near the separatrix.</i></p>
     </div>
   </div>
 
@@ -23,7 +23,7 @@ permalink: /research/
     <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
       <h3 style="margin: 0;"><a href="https://doi.org/10.1103/PhysRevLett.133.221401" target="_blank">Scattering and bound observables for spinning particles in Kerr spacetime with generic spin orientations</a></h3>
       <p style="font-size: 0.9em; margin: 5px 0;color:#9BA1A6"><b>Riccardo Gonzo</b>, Canxin Shi — <i>Physical Review Letters</i> 133, 221401 (2024)</p>
-      <p style="font-size: 0.9em; margin: 5px 0;color:#51585e"><i>Unified on-shell framework relating gauge-invariant scattering data and bound-orbit observables for generically spinning particles in Kerr.</i></p>
+      <p style="font-size: 0.9em; margin: 5px 0;color:#51585e"><i>Unified on-shell Dirac bracket framework relating the radial action to observables for test spinning particles in Kerr.</i></p>
     </div>
     <img src="/images/PRL_scattering_bound.png" alt="Publication 2" style="width: 150px; height: auto; margin-left: 20px;">
   </div>
@@ -34,7 +34,7 @@ permalink: /research/
     <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
       <h3 style="margin: 0;"><a href="https://doi.org/10.1007/JHEP05(2024)034" target="_blank">Gravitational bound waveforms from amplitudes</a></h3>
       <p style="font-size: 0.9em; margin: 5px 0;color:#9BA1A6">Tim Adamo, <b>Riccardo Gonzo</b>, Anton Ilderton — <i>JHEP</i> 05 (2024) 034</p>
-      <p style="font-size: 0.9em; margin: 5px 0;color:#51585e"><i>Constructs waveform observables for gravitationally bound motions directly from the S-matrix, opening a clean on-shell route to waveform modeling.</i></p>
+      <p style="font-size: 0.9em; margin: 5px 0;color:#51585e"><i> New scatter-to-bound map for waveforms from the S-matrix, opening a new on-shell route to GW modeling.</i></p>
     </div>
   </div>
 
