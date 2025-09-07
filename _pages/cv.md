@@ -118,8 +118,6 @@ My long-term vision is to develop a unified formalism that combines amplitude-ba
 
 
 ## Organized conferences, schools and workshops
-* [Robustness, Adaptability and Critical Transitions in Living Systems Satellite](https://liphlab.github.io/REACT2021){:target="_blank"}<!--_-->, *Conference on Complex Systems 2021, Lyon, France*, 27th October 2021
-
 
 <font size="5">
 <table>
