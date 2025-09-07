@@ -136,7 +136,7 @@ My long-term vision is to develop a unified formalism that combines amplitude-ba
 
 <tr>
   <td width="22%"><div align="right">2025<br>
-    <img src='/images/southampton_logo.png' style="padding-top:7px;display:block;margin-right:10px;" width="130"></div>
+    <img src='/images/SFmeetsAmpl2.png' style="padding-top:7px;display:block;margin-right:10px;" width="130"></div>
   </td>
   <td width="80%">Organizer — <i>2nd Annual Workshop on Self-Force and Amplitudes</i> (<a href="https://indico.cern.ch/event/1485758/" target="_blank">link</a>)<br>
     University of Southampton
@@ -147,7 +147,7 @@ My long-term vision is to develop a unified formalism that combines amplitude-ba
 
 <tr>
   <td width="22%"><div align="right">2024<br>
-    <img src='/images/edinburgh_logo.png' style="padding-top:7px;display:block;margin-right:10px;" width="130"></div>
+    <img src='/images/SFmeetsAmpl1.png' style="padding-top:7px;display:block;margin-right:10px;" width="130"></div>
   </td>
   <td width="80%">Organizer — <i>Gravitational self-force and scattering amplitudes</i> (<a href="https://higgs.ph.ed.ac.uk/workshops/gravitational-self-force-and-scattering-amplitudes/" target="_blank">link</a>)<br>
     Higgs Centre, University of Edinburgh
