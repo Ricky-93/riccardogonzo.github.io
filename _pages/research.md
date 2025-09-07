@@ -10,7 +10,7 @@ permalink: /research/
 
   <!-- Publication 1 -->
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="/images/PRD_1SF_spinning.jpg" alt="Publication 1" style="width: 150px; height: auto; margin-right: 20px;">
+    <img src="/images/PRD_1SF_spinning.jpeg" alt="Publication 1" style="width: 150px; height: auto; margin-right: 20px;">
     <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
       <h3 style="margin: 0;"><a href="https://arxiv.org/abs/2504.02025" target="_blank">The spinning self-force EFT: 1SF waveform recursion relation and Compton scattering</a></h3>
       <p style="font-size: 0.9em; margin: 5px 0;color:#9BA1A6">Dogan Akpinar, Vittorio Del Duca, <b>Riccardo Gonzo</b> — <i>Phys. Rev. D</i> (2025), accepted.</p>
