@@ -158,7 +158,7 @@ My long-term vision is to develop a unified formalism that combines amplitude-ba
 
 <tr>
   <td width="22%"><div align="right">2021<br>
-    <img src='/images/nbi_logo.png' style="padding-top:7px;display:block;margin-right:10px;" width="130"></div>
+    <img src='/images/SAGEX_school.JPG' style="padding-top:7px;display:block;margin-right:10px;" width="130"></div>
   </td>
   <td width="80%">Organizer — SAGEX amplitude school (<a href="https://indico.nbi.ku.dk/event/1530/" target="_blank">link</a>)<br>
     NBI Institute, Copenhagen
