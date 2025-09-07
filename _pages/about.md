@@ -106,7 +106,8 @@ physics. Over the past seven years, I have worked to unify techniques from scatt
  <iframe src="/collab_net/network.html" height="300" width="100%" style="border: none"></iframe>
 
 <h3>Talks & contributions</h3>
-The markers on the map represent a conference, workshop, or institute where I presented my work, either <span style="color:#a23336;font-weight:600;">invited talks</span> or <span style="color:#065b92;font-weight:600;">contributed talks and posters</span>. Click on a marker for more information.
+The markers on the map represent a conference, workshop, or institute where I presented my work, either <span style="color:#a23336;font-weight:600;">invited conference talks</span>, <span style="color:#065b92;font-weight:600;">contributed talks and posters</span>, or <span style="color:gray;font-weight:600;">discussion sessions</span>.  Click on a marker for more information.
+
 <div style="margin-bottom: 20px;"></div>
  <iframe src="/talkmap/talks_map.html" height="300" width="100%" style="border: none"></iframe>
 </div>
