@@ -12,8 +12,6 @@ I am Riccardo Gonzo, a Postdoctoral Research Associate at the [Centre for Theore
 
 I obtained my PhD in Theoretical Particle Physics at [Trinity College Dublin](https://www.tcd.ie/){:target="_blank"}<!--_--> under the supervision of Prof. Ruth Britto, as part of the Marie Skłodowska-Curie ITN [SAGEX](https://sagex.org/){:target="_blank"}<!--_-->, with a thesis on *Coherent states and classical radiative observables in the S-matrix formalism*. Before that, I studied Physics at the [University of Padova](https://www.unipd.it/){:target="_blank"}<!--_-->, where I earned both my Bachelor’s and Master’s degrees *cum laude*.
 
-My long-term vision is to build an international research group at the interface of amplitudes, gravity, and gravitational-wave science, developing a unified formalism that combines amplitude-based perturbation theory with self-force resummation. The goal is to provide new analytical waveform models relevant to detectors such as LISA.
-
 ## <span style="display: flex; align-items: center;">Research Highlights <span onclick="toggleVisibility('highlights')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-highlights" style="display: inline-block; transform: rotate(0deg); transition: transform 0.5s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
 <div id="highlights" style="max-height: 2000px; overflow: hidden; transition: max-height 0.5s ease-out;">
 
