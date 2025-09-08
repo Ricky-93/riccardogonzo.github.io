@@ -56,16 +56,15 @@ My dream is to develop a unified formalism that combines amplitude-based perturb
 </tr>
 
 <tr><td></td></tr>
-
 <tr>
   <td width="22%"><div align="right">2015&nbsp;–&nbsp;2017<br>
     <img src='/images/padova_logo.png' style="padding-top:7px;display:block;margin-right:10px;" width="130"></div>
   </td>
-  <td width="80%">Master of Physics, University of Padova (Italy)<br>
-    <span style="font-weight:600">Thesis:</span> <i>[Thesis title here]</i><br>
-    <span style="font-weight:600">Advisors:</span> [Advisor names here]<br>
+  <td width="80%">Master of Theoretical Physics, University of Padova (Italy)<br>
+    <span style="font-weight:600">Thesis:</span> <i>The infinite-spin representations of the Poincar&eacute; group</i><br>
+    <span style="font-weight:600">Advisors:</span> Prof. Karl-Henning Rehren &amp; Prof. Pieralberto Marchetti<br>
     <span style="font-weight:600">Final grade:</span> 110/110 cum laude &nbsp; &nbsp; &nbsp;
-    <span style="font-weight:600">GPA:</span> [GPA here]
+    <span style="font-weight:600">GPA:</span> 29.5/30
   </td>
 </tr>
 
@@ -76,14 +75,12 @@ My dream is to develop a unified formalism that combines amplitude-based perturb
     <img src='/images/padova_logo.png' style="padding-top:7px;display:block;margin-right:10px;" width="130"></div>
   </td>
   <td width="80%">Bachelor of Physics, University of Padova (Italy)<br>
-    <span style="font-weight:600">Thesis:</span> <i>[Thesis title here]</i><br>
-    <span style="font-weight:600">Advisors:</span> [Advisor names here]<br>
+    <span style="font-weight:600">Thesis:</span> <i>A theoretical and computational study of orbital angular momentum modes in optical fiber</i><br>
+    <span style="font-weight:600">Advisors:</span> Prof. Filippo Romanato &amp; Dr. Enrico Gazzola<br>
     <span style="font-weight:600">Final grade:</span> 110/110 cum laude &nbsp; &nbsp; &nbsp;
-    <span style="font-weight:600">GPA:</span> [GPA here]
+    <span style="font-weight:600">GPA:</span> 29.6/30
   </td>
 </tr>
-</table>
-</font>
 
 <!---
 ## Funding
