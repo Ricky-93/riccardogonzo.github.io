@@ -19,7 +19,7 @@ hr.section { margin: 1.25rem 0; border: 0; border-top: 1px solid #ddd; }
 </style>
 
 <div class="video-lectures">
-  <p class="lead">A curated list of lecture series and schools (external links). I don't host this content; all credit to the institutions and lecturers.</p>
+  <p class="lead">A curated collection of video lecture series and schools for <strong>new PhD students in theoretical physics</strong>. All links are external; I don’t host the content. Credit to all the lecturers and institutions.</p>
   <hr class="section"/>
   <ul>
     <li><a href="https://www.youtube.com/watch?v=iwQ49oG-DO8&list=PLUl4u3cNGP62FPGcyFJkzhqq9c5cHCK32" target="_blank" rel="noopener">Atomic and optical physics I</a> <span class="host">(MIT, W. Ketterle)</span></li>
