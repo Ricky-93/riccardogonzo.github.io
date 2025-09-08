@@ -1,8 +1,10 @@
 ---
-layout: page
-title: Video Lectures — Theoretical Physics
+title: 'Video Lectures'
+excerpt:
+author_profile: true
 permalink: /video-lectures/
 ---
+
 
 <style>
 /* clean, minimal look; uses site defaults without custom background */
