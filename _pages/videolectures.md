@@ -1,5 +1,5 @@
 ---
-title: 'Video Lectures'
+title: 'Video Lectures  — Theoretical Physics'
 excerpt:
 author_profile: true
 permalink: /video-lectures/
@@ -19,7 +19,6 @@ hr.section { margin: 1.25rem 0; border: 0; border-top: 1px solid #ddd; }
 </style>
 
 <div class="video-lectures">
-  <h1>Video Lectures — Theoretical Physics</h1>
   <p class="lead">A curated list of lecture series and schools (external links). I don't host this content; all credit to the institutions and lecturers.</p>
   <hr class="section"/>
   <ul>
