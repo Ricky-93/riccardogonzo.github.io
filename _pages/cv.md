@@ -81,6 +81,7 @@ My dream is to develop a unified formalism that combines amplitude-based perturb
     <span style="font-weight:600">GPA:</span> 29.6/30
   </td>
 </tr>
+</table>
 </font>
 
 <!---
