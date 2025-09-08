@@ -8,4 +8,4 @@ date: 2025-06-01
 courseDates: "2025"
 location: "Atrani, Italy"
 ---
-Lecturer for the PhD school in Atrani on 'Analytic Computing in High-Energy and Gravitational Theoretical Physics'.
+Lecturer for the PhD school in Atrani on 'Analytic Computing in High-Energy and Gravitational Theoretical Physics'. Topic: <i>On-shell Observables in the gravitational two-body problem</i>. PhD-level lectures for graduate students and early-career researchers.

@@ -8,4 +8,4 @@ date: 2020-01-01
 courseDates: "2020"
 location: "Dublin, Ireland"
 ---
-Teaching Assistant of Combinatorics class MAU34107.
+Teaching Assistant for Combinatorics (MAU34107) (Master’s level, ~30–40 students; 4 months).

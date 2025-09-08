@@ -8,4 +8,4 @@ date: 2019-01-01
 courseDates: "2019"
 location: "Dublin, Ireland"
 ---
-Teaching Assistant of Algebraic Geometry class MA341F.
+Teaching Assistant for Algebraic Geometry (MA341F) (Master’s level, ~30–40 students; 4 months).
