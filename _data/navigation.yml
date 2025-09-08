@@ -4,6 +4,9 @@ main:
   - title: "Research"
     url: /research/   
 
+  - title: "Curriculum"
+    url: /cv/ 
+
   - title: "Publications"
     url: /publications/
 
@@ -12,6 +15,3 @@ main:
 
   - title: "Teaching"
     url: /teaching/
-    
-  - title: "Curriculum"
-    url: /cv/ 
