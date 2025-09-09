@@ -15,10 +15,19 @@ I obtained my PhD in Theoretical Particle Physics at [Trinity College Dublin](ht
 ## <span style="display: flex; align-items: center;">Research Highlights <span onclick="toggleVisibility('highlights')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-highlights" style="display: inline-block; transform: rotate(0deg); transition: transform 0.5s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
 <div id="highlights" style="max-height: 2000px; overflow: hidden; transition: max-height 0.5s ease-out;">
 
-    <!-- Publication 1 -->
-  <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="/images/PRD_1SF_spinning.jpeg" alt="Publication 1" style="width: 150px; height: auto; margin-right: 20px;">
-    <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
+  <!-- NEW: responsive CSS to prevent squeezing on mobile -->
+  <style>
+    #highlights .pub-body { flex: 1 1 0; min-width: 0; } /* NEW */
+    @media (max-width: 720px) {
+      #highlights .pub { flex-direction: column !important; align-items: flex-start !important; } /* NEW */
+      #highlights .pub-thumb { width: 100% !important; max-width: 420px; margin: 0 0 8px 0 !important; height: auto !important; } /* NEW */
+    }
+  </style>
+
+  <!-- Publication 1 -->
+  <div class="pub" style="display: flex; align-items: center; margin-bottom: 20px;"><!-- CHANGED: added class="pub" -->
+    <img class="pub-thumb" src="/images/PRD_1SF_spinning.jpeg" alt="Publication 1" style="width: 150px; height: auto; margin-right: 20px;"><!-- CHANGED: added class="pub-thumb" -->
+    <div class="pub-body" style="flex: 1; display: flex; flex-direction: column; justify-content: center;"><!-- CHANGED: added class="pub-body" -->
       <h3 style="margin: 0;"><a href="https://arxiv.org/abs/2504.02025" target="_blank">The spinning self-force EFT: 1SF waveform recursion relation and Compton scattering</a></h3>
       <p style="font-size: 0.9em; margin: 5px 0;color:#9BA1A6">Dogan Akpinar, Vittorio Del Duca, <b>Riccardo Gonzo</b> — <i>Phys. Rev. D</i> (2025), accepted.</p>
       <p style="font-size: 0.9em; margin: 5px 0;color:#51585e"><i>Development of an effective-field-theory framework at first self-force order for spinning binaries; with a new waveform recursion relation and novel connections between weak and strong-field.</i></p>
@@ -26,19 +35,19 @@ I obtained my PhD in Theoretical Particle Physics at [Trinity College Dublin](ht
   </div>
 
   <!-- Publication 2 -->
-  <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
+  <div class="pub" style="display: flex; align-items: center; margin-bottom: 20px;"><!-- CHANGED -->
+    <div class="pub-body" style="flex: 1; display: flex; flex-direction: column; justify-content: center;"><!-- CHANGED -->
       <h3 style="margin: 0;"><a href="https://doi.org/10.1103/PhysRevLett.133.221401" target="_blank">Scattering and bound observables for spinning particles in Kerr spacetime with generic spin orientations</a></h3>
       <p style="font-size: 0.9em; margin: 5px 0;color:#9BA1A6"><b>Riccardo Gonzo</b>, Canxin Shi — <i>Physical Review Letters</i> 133, 221401 (2024)</p>
       <p style="font-size: 0.9em; margin: 5px 0;color:#51585e"><i>Novel on-shell Dirac bracket framework relating the radial action to observables for test spinning particles in Kerr, with new implications for the scatter-to-bound map for spinning binaries.</i></p>
     </div>
-    <img src="/images/PRL_scattering_bound.png" alt="Publication 2" style="width: 220px; height: auto; margin-left: 20px;">
+    <img class="pub-thumb" src="/images/PRL_scattering_bound.png" alt="Publication 2" style="width: 220px; height: auto; margin-left: 20px;"><!-- CHANGED -->
   </div>
 
   <!-- Publication 3 -->
-  <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="/images/JHEP_bound_waveforms.png" alt="Publication 3" style="width: 220px; height: auto; margin-right: 20px;">
-    <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
+  <div class="pub" style="display: flex; align-items: center; margin-bottom: 20px;"><!-- CHANGED -->
+    <img class="pub-thumb" src="/images/JHEP_bound_waveforms.png" alt="Publication 3" style="width: 220px; height: auto; margin-right: 20px;"><!-- CHANGED -->
+    <div class="pub-body" style="flex: 1; display: flex; flex-direction: column; justify-content: center;"><!-- CHANGED -->
       <h3 style="margin: 0;"><a href="https://doi.org/10.1007/JHEP05(2024)034" target="_blank">Gravitational bound waveforms from amplitudes</a></h3>
       <p style="font-size: 0.9em; margin: 5px 0;color:#9BA1A6">Tim Adamo, <b>Riccardo Gonzo</b>, Anton Ilderton — <i>JHEP</i> 05 (2024) 034</p>
       <p style="font-size: 0.9em; margin: 5px 0;color:#51585e"><i> New scatter-to-bound map for waveforms from the S-matrix, opening a new on-shell route to GW modeling.</i></p>
@@ -46,6 +55,7 @@ I obtained my PhD in Theoretical Particle Physics at [Trinity College Dublin](ht
   </div>
 
 </div>
+
 
 ## <span style="display: flex; align-items: center;">News & Media Coverage <span onclick="toggleVisibility('news')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-news" style="display: inline-block; transform: rotate(0deg); transition: transform 1s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
 <div id="news" style="max-height: 2000px; overflow: hidden; transition: max-height 0.5s ease-out;">
