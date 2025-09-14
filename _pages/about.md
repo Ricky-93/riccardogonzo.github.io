@@ -72,7 +72,7 @@ I obtained my PhD in Theoretical Particle Physics at [Trinity College Dublin](ht
         </h3>
         <ul style="font-size: 0.95em; margin: 5px 0;color:#51585e;text-align:justify">
           <li style="font-size: 0.9em; color: #9BA1A6;">
-            <a href="https://doi.org/10.1103/PhysRevLett" target="_blank">Physical Review Letters</a> — <strong>Highlight</strong>
+            <a href="https://doi.org/10.1103/PhysRevLett" target="_blank">Physical Review Letters</a> — <strong>Editors’ Suggestion</strong>
           </li>
         </ul>
       </div>
@@ -121,8 +121,7 @@ I obtained my PhD in Theoretical Particle Physics at [Trinity College Dublin](ht
 
 ## <span style="display: flex; align-items: center;">My Work at a Glance <span onclick="toggleVisibility('glance')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-glance" style="display: inline-block; transform: rotate(0deg); transition: transform 1s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
 <div id="glance" style="max-height: 2000px; overflow: hidden; transition: max-height 0.5s ease-out;">
-My research lies at the interface of high-energy theory and gravitation, where I use modern quantum field theory methods to tackle outstanding challenges in black-hole dynamics and gravitational-wave
-physics. Over the past seven years, I have worked to unify techniques from scattering amplitudes, effective field theory, and general relativity into a coherent framework for describing binary systems.
+My research lies at the interface of high-energy theory and gravitation, where I use modern quantum field theory methods to tackle outstanding challenges in black-hole dynamics and gravitational-wave physics. Over the past seven years, I have worked to unify techniques from scattering amplitudes, effective field theory, and general relativity into a coherent framework for describing binary systems.
 
 <!-- My works have been published in Physical Review X, Physical Review Letters, Proceedings of the National Academy of Sciences (PNAS), and Science Advances, among others. I have presented my work at several international conferences and workshops, -->
 

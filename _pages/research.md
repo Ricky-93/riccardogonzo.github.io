@@ -66,7 +66,7 @@ permalink: /research/
 
   With T. Adamo and A. Ilderton, we developed a classical Bethe–Salpeter framework that connects S-matrix analyticity to bound dynamics, showing how <span style="color:#6c757d;font-weight:600;">scattering waveforms can be resummed into periodic bound-state waveforms</span>. This construction shows that a <span style="color:#6c757d;font-weight:600;">resummation of the weak-field expansion is essential to recover orbital periodicity</span>. 
   
-  The gravitational self-force framework naturally implements this resummation, providing a bridge between perturbative scattering data and bound-state dynamics. Along this line, I co-authored with J. Lewis and A. Pound the first “law of black-hole scattering,” relating elapsed proper time directly to the Detweiler redshift — a central gauge-invariant building block for waveform modeling.
+  The gravitational self-force framework naturally implements this resummation, providing a bridge between perturbative scattering data and bound-state dynamics. Along this line, I co-authored with J. Lewis and A. Pound the <span style="color:#6c757d;font-weight:600;">"first law of black-hole scattering"</span>, relating elapsed proper time directly to the Detweiler redshift — a central gauge-invariant building block for waveform modeling.
 </div>
 
 ## <span style="display: flex; align-items: center;">Self-Force EFT for Kerr BHs: Resummation from Weak to Strong-field <span onclick="toggleVisibility('selforce')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-selforce" style="display: inline-block; transform: rotate(0deg); transition: transform 0.5s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
@@ -80,6 +80,20 @@ permalink: /research/
 ## <span style="display: flex; align-items: center;">News & Media Coverage <span onclick="toggleVisibility('news')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-news" style="display: inline-block; transform: rotate(0deg); transition: transform 1s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
 <div id="news" style="max-height: 2000px; overflow: hidden; transition: max-height 0.5s ease-out;">
   <div style="margin-bottom: 10px;"></div>
+  
+     <!-- FIRST LAW SCATTERING — PRL Highlights -->
+    <div style="display: flex; align-items: center; margin-bottom: 20px;">
+      <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
+        <h3 style="margin: 0;color:#51585e">
+          The First Law of Black Hole Scattering
+        </h3>
+        <ul style="font-size: 0.95em; margin: 5px 0;color:#51585e;text-align:justify">
+          <li style="font-size: 0.9em; color: #9BA1A6;">
+            <a href="https://doi.org/10.1103/PhysRevLett" target="_blank">Physical Review Letters</a> — <strong>Editors’ Suggestion</strong>
+          </li>
+        </ul>
+      </div>
+    </div>
 
   <!-- 1SF SPINNING — PRD Editors' Suggestion -->
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
