@@ -1,5 +1,5 @@
 ---
-title: "Classical scattering and bound observables from the worldline approach to the"
+title: "Classical scattering and bound observables from the worldline approach to the two-body problem"
 collection: talks
 type: "Invited seminar"
 permalink: 

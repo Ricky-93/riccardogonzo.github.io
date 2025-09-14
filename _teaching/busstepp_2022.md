@@ -1,5 +1,5 @@
 ---
-title: 'BUSSTEPP 2022'
+title: 'PhD school BUSSTEPP 2022'
 collection: teaching
 type: "Tutor"
 permalink: 
