@@ -174,7 +174,7 @@ My dream is to develop a unified formalism that combines amplitude-based perturb
 * **Marie Skłodowska-Curie grant “SAGEX”** from the European Union’s Horizon 2020 programme (2019) — *Scattering Amplitudes: from Geometry to Experiments*  
 * **First place, “Riccardo Rossi” scholarship** (2011), awarded by Associazione Nemesis, Italy  
 * **Funding award** of £10.4k for the organization of the workshop *Gravitational Self-Force and Amplitudes* at the Higgs Centre, University of Edinburgh (2023)  
-* **Funding award** of £16.4k for the Nordita program *Amplitudes, Strong-Field Gravity, and Resummation* (2025)  
+* **Funding award** of £16.4k for the organization of the Nordita program *Amplitudes, Strong-Field Gravity, and Resummation* (2025)  
 
 ## Supervision
 * Co-supervision of one PhD student at Sapienza University of Rome (Emanuele Rosi), with Vittorio Del Duca.

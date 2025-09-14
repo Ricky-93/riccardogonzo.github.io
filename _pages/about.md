@@ -63,6 +63,21 @@ I obtained my PhD in Theoretical Particle Physics at [Trinity College Dublin](ht
 ## <span style="display: flex; align-items: center;">News & Media Coverage <span onclick="toggleVisibility('news')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-news" style="display: inline-block; transform: rotate(0deg); transition: transform 1s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
 <div id="news" style="max-height: 2000px; overflow: hidden; transition: max-height 0.5s ease-out;">
   <div style="margin-bottom: 10px;"></div>
+  
+      <!-- FIRST LAW SCATTERING — PRL Highlights -->
+    <div style="display: flex; align-items: center; margin-bottom: 20px;">
+      <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
+        <h3 style="margin: 0;color:#51585e">
+          The First Law of Black Hole Scattering
+        </h3>
+        <ul style="font-size: 0.95em; margin: 5px 0;color:#51585e;text-align:justify">
+          <li style="font-size: 0.9em; color: #9BA1A6;">
+            <a href="https://doi.org/10.1103/PhysRevLett" target="_blank">Physical Review Letters</a> — <strong>Highlight</strong>
+          </li>
+        </ul>
+      </div>
+    </div>
+
 
   <!-- 1SF SPINNING — PRD Editors' Suggestion -->
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
