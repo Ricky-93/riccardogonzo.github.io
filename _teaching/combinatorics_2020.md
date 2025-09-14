@@ -8,4 +8,4 @@ date: 2020-01-01
 courseDates: "2020"
 location: "Dublin, Ireland"
 ---
-Teaching Assistant for Combinatorics (MAU34107) (Master’s level, ~30–40 students; 4 months).
+Teaching Assistant for the Combinatorics course MAU34107 at Trinity College Dublin (Master’s level, ~30–40 students; 4 months).

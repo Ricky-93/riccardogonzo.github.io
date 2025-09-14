@@ -8,4 +8,4 @@ date: 2022-07-01
 courseDates: "1 week"
 location: "Edinburgh, UK"
 ---
-Tutor for the <i>Conformal Bootstrap</i> course at the Higgs Centre School of Theoretical Physics (1 week).
+Tutor for the <i>Conformal Bootstrap</i> course at the Higgs Centre School of Theoretical Physics (1 week), instructing approximately 40 graduate students.
