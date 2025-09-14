@@ -18,7 +18,7 @@ permalink: /research/
     }
   </style>
 
-  <!-- Publication 1 -->
+   <!-- Publication 1 -->
   <div class="pub" style="display: flex; align-items: center; margin-bottom: 20px;">
     <img class="pub-thumb" src="/images/PRD_1SF_spinning.jpeg" alt="Publication 1" style="width: 150px; height: auto; margin-right: 20px;">
     <div class="pub-body" style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
@@ -35,7 +35,7 @@ permalink: /research/
     <div class="pub-body" style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
       <h3 style="margin: 0;"><a href="https://doi.org/10.1103/PhysRevLett.133.221401" target="_blank">Scattering and bound observables for spinning particles in Kerr spacetime with generic spin orientations</a></h3>
       <p style="font-size: 0.9em; margin: 5px 0;color:#9BA1A6"><b>Riccardo Gonzo</b>, Canxin Shi — <i>Physical Review Letters</i> 133, 221401 (2024)</p>
-      <p style="font-size: 0.9em; margin: 5px 0;color:#51585e"><i>Novel on-shell Dirac bracket framework relating the radial action to observables for test spinning particles in Kerr, with new implications for the scatter-to-bound map for spinning binaries.</i></p>
+      <p style="font-size: 0.9em; margin: 5px 0;color:#51585e"><i>Novel on-shell Dirac bracket framework relating the radial action to observables for test spinning particles in Kerr, with interesting implications for the scatter-to-bound map for precessing spinning binaries.</i></p>
     </div>
   </div>
 
@@ -45,7 +45,7 @@ permalink: /research/
     <div class="pub-body" style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
       <h3 style="margin: 0;"><a href="https://doi.org/10.1007/JHEP05(2024)034" target="_blank">Gravitational bound waveforms from amplitudes</a></h3>
       <p style="font-size: 0.9em; margin: 5px 0;color:#9BA1A6">Tim Adamo, <b>Riccardo Gonzo</b>, Anton Ilderton — <i>JHEP</i> 05 (2024) 034</p>
-      <p style="font-size: 0.9em; margin: 5px 0;color:#51585e"><i> New scatter-to-bound map for waveforms from the S-matrix, opening a new on-shell route to GW modeling.</i></p>
+      <p style="font-size: 0.9em; margin: 5px 0;color:#51585e"><i> New scatter-to-bound map for the instantaneous contributions to the classical gravitational waveform from the S-matrix, opening a new on-shell route to GW modeling for binary black holes.</i></p>
     </div>
   </div>
 
