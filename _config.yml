@@ -242,6 +242,8 @@ sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
+github:
+  is_project_page: false
 
 # Outputting
 permalink: /:categories/:title/
