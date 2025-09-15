@@ -61,7 +61,7 @@ My dream is to develop a unified formalism that combines amplitude-based perturb
     <img src='/images/padova_logo.png' style="padding-top:7px;display:block;margin-right:10px;" width="130"></div>
   </td>
   <td width="80%">Master of Theoretical Physics, University of Padova (Italy)<br>
-    <span style="font-weight:600">Thesis:</span> <i>The infinite-spin representations of the Poincar&eacute; group</i><br>
+    <span style="font-weight:600">Thesis:</span> <i>The infinite-spin representations of the Poincar&eacute; group</i>  (<a href="/files/thesis_master.pdf" target="_blank">link</a>)<br>
     <span style="font-weight:600">Advisors:</span> Prof. Karl-Henning Rehren &amp; Prof. Pieralberto Marchetti<br>
     <span style="font-weight:600">Final grade:</span> 110/110 cum laude &nbsp; &nbsp; &nbsp;
     <span style="font-weight:600">GPA:</span> 29.5/30
@@ -75,7 +75,7 @@ My dream is to develop a unified formalism that combines amplitude-based perturb
     <img src='/images/padova_logo.png' style="padding-top:7px;display:block;margin-right:10px;" width="130"></div>
   </td>
   <td width="80%">Bachelor of Physics, University of Padova (Italy)<br>
-    <span style="font-weight:600">Thesis:</span> <i>A theoretical and computational study of orbital angular momentum modes in optical fiber</i><br>
+    <span style="font-weight:600">Thesis:</span> <i>A theoretical and computational study of orbital angular momentum modes in optical fiber</i>  (<a href="/files/thesis_bachelor.pdf" target="_blank">link</a>)<br>
     <span style="font-weight:600">Advisors:</span> Prof. Filippo Romanato &amp; Dr. Enrico Gazzola<br>
     <span style="font-weight:600">Final grade:</span> 110/110 cum laude &nbsp; &nbsp; &nbsp;
     <span style="font-weight:600">GPA:</span> 29.6/30
@@ -169,6 +169,12 @@ My dream is to develop a unified formalism that combines amplitude-based perturb
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+  
+## Outreach & Public Engagement 
+
+* **Film contribution (2023)** — Contributed personal video footage to the documentary *Doing a PhD in Physics*. [Watch here](https://www.youtube.com/watch?v=ZbV0YnzeTzQ){:target="_blank"}<!--_-->  
+* **SAGEX Online Exhibition (2021)** — Created content for the Feynman diagram section of the particle physics exhibition. [Explore here](https://exhibition.sagex.org/#/exhibition-hub){:target="_blank"}<!--_-->  
+
 
 ## Honors and awards
 * **Marie Skłodowska-Curie grant “SAGEX”** from the European Union’s Horizon 2020 programme (2019) — *Scattering Amplitudes: from Geometry to Experiments*  
