@@ -1,8 +1,9 @@
 ---
 permalink: /
-title: ''
+title: 'Riccardo Gonzo'
 excerpt:
 author_profile: true
+description: 'A theoretical physicist exploring the intersection of high-energy physics and general relativity, who fell in love with amplitudes and gravitational waves.'
 redirect_from:
   - /about/
   - /about.html
@@ -198,7 +199,7 @@ The markers on the map represent a conference, workshop, or institute where I pr
       }
     ],
     "gender": "Male",
-    "description": "Theoretical physicist working on scattering amplitudes, gauge and gravitational theories, and the two-body problem in general relativity.",
+    "description": "A theoretical physicist exploring the intersection of high-energy physics and general relativity, who fell in love with amplitudes and gravitational waves.",
     "url": "https://riccardogonzo.com",
     "image": "https://riccardogonzo.com/images/profile_picture.jpg",
     "address": {
