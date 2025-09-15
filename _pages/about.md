@@ -52,7 +52,7 @@ I obtained my PhD in Theoretical Particle Physics at [Trinity College Dublin](ht
     <div class="pub-body" style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
       <h3 style="margin: 0;"><a href="https://doi.org/10.1007/JHEP05(2024)034" target="_blank">Gravitational bound waveforms from amplitudes</a></h3>
       <p style="font-size: 0.9em; margin: 5px 0;color:#9BA1A6">Tim Adamo, <b>Riccardo Gonzo</b>, Anton Ilderton — <i>JHEP</i> 05 (2024) 034</p>
-      <p style="font-size: 0.9em; margin: 5px 0;color:#51585e"><i> New scatter-to-bound map for the instantaneous contributions to the classical gravitational waveform from the S-matrix, opening a new on-shell route to GW modeling for binary black holes.</i></p>
+      <p style="font-size: 0.9em; margin: 5px 0;color:#51585e"><i> New scatter-to-bound map for the instantaneous contributions to the classical gravitational waveform from the S-matrix, opening a new on-shell route to GW modeling for black hole binaries.</i></p>
     </div>
   </div>
 
