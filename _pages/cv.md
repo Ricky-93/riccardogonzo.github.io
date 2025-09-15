@@ -172,7 +172,7 @@ My dream is to develop a unified formalism that combines amplitude-based perturb
   
 ## Outreach & Public Engagement 
 
-* **Film "Doing a PhD in Physics" (2023)** — Contributed personal video footage to the documentary *Doing a PhD in Physics*, , aimed at showcasing the experiences and challenges of doctoral students to a broad audience. [Watch here](https://www.youtube.com/watch?v=ZbV0YnzeTzQ){:target="_blank"}<!--_-->  
+* **Film "Doing a PhD in Physics" (2023)** — Contributed personal video footage to the documentary *Doing a PhD in Physics*, aimed at showcasing the experiences and challenges of doctoral students to a broad audience. [Watch here](https://www.youtube.com/watch?v=ZbV0YnzeTzQ){:target="_blank"}<!--_-->  
 * **SAGEX Online Exhibition (2021)** — Created content for the Feynman diagram section of the particle physics exhibition, designed to introduce the role of particle physics to the general public. [Explore here](https://exhibition.sagex.org/#/exhibition-hub){:target="_blank"}<!--_-->  
 
 
