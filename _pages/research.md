@@ -45,7 +45,7 @@ permalink: /research/
     <div class="pub-body" style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
       <h3 style="margin: 0;"><a href="https://doi.org/10.1007/JHEP05(2024)034" target="_blank">Gravitational bound waveforms from amplitudes</a></h3>
       <p style="font-size: 0.9em; margin: 5px 0;color:#9BA1A6">Tim Adamo, <b>Riccardo Gonzo</b>, Anton Ilderton — <i>JHEP</i> 05 (2024) 034</p>
-      <p style="font-size: 0.9em; margin: 5px 0;color:#51585e"><i> New scatter-to-bound map for the instantaneous contributions to the classical gravitational waveform from the S-matrix, opening a new on-shell route to GW modeling for binary black holes.</i></p>
+      <p style="font-size: 0.9em; margin: 5px 0;color:#51585e"><i> New scatter-to-bound map for the instantaneous contributions to the classical gravitational waveform from the S-matrix, suggesting a new on-shell route to GW modeling for binary black holes.</i></p>
     </div>
   </div>
 
@@ -54,9 +54,9 @@ permalink: /research/
 
 ## <span style="display: flex; align-items: center;">Gravitational Waveforms from Scattering Amplitudes <span onclick="toggleVisibility('waveforms')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-waveforms" style="display: inline-block; transform: rotate(0deg); transition: transform 0.5s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
 <div id="waveforms" style="max-height: 1000px; overflow: hidden; transition: max-height 0.5s ease-out; text-align: justify;">
-  Together with A. Cristofoli, D. Kosower and D. O’Connell, I pioneered a framework to compute <span style="color:#6c757d;font-weight:600;">gravitational waveforms directly from on-shell scattering amplitudes</span> in the post-Minkowskian expansion. With various collaborators, I also provided the <span style="color:#6c757d;font-weight:600;">first extension of the eikonal formalism using coherent states</span>, showing how classical gravitational waves emerge from the quantum point-particle description. <br><br>
+  Together with A. Cristofoli, D. Kosower and D. O’Connell, I helped establish a framework to compute <span style="color:#6c757d;font-weight:600;">gravitational waveforms directly from on-shell scattering amplitudes</span> in the post-Minkowskian expansion. With various collaborators, I also provided the <span style="color:#6c757d;font-weight:600;">first extension of the eikonal formalism using coherent states</span>, showing how classical gravitational waves emerge from the quantum point-particle description. <br><br>
 
- Most recently, with F. Alessio and C. Shi, we defined a <span style="color:#6c757d;font-weight:600;">new set of classical generating functionals</span> from the S-matrix formalism. Within this setting, all two-body scattering observables can be derived in gauge-invariant form through the application of Dirac brackets, suggesting novel important implications for the analytical modelling of inspiral waveforms.
+ Most recently, with F. Alessio and C. Shi, I defined a <span style="color:#6c757d;font-weight:600;">new set of classical generating functionals</span> from the S-matrix formalism. Within this setting, all two-body scattering observables can be derived in gauge-invariant form through the application of Dirac brackets, providing an efficient framework for the analytic modeling of Kerr black hole binaries.
 
 </div>
 
@@ -64,7 +64,7 @@ permalink: /research/
 <div id="dictionary" style="max-height: 1000px; overflow: hidden; transition: max-height 0.5s ease-out; text-align: justify;">
   With C. Shi, I established novel <span style="color:#6c757d;font-weight:600;">gauge-invariant maps between scattering and bound geodesic observables in Kerr spacetime</span>, formulating the analytic continuation between scattering and bound actions and related observables for generic orbits. <br><br>
 
-  With T. Adamo and A. Ilderton, we developed a classical Bethe–Salpeter framework that connects S-matrix analyticity to bound dynamics, showing how <span style="color:#6c757d;font-weight:600;">scattering waveforms can be resummed into periodic bound-state waveforms</span>. This construction shows that a <span style="color:#6c757d;font-weight:600;">resummation of the weak-field expansion is essential to recover orbital periodicity</span>. 
+  With T. Adamo and A. Ilderton, I developed a classical Bethe–Salpeter framework that connects S-matrix analyticity to bound dynamics, showing how <span style="color:#6c757d;font-weight:600;">scattering waveforms can be resummed into periodic bound-state waveforms</span>. This construction shows that a <span style="color:#6c757d;font-weight:600;">resummation of the weak-field expansion is essential to recover orbital periodicity</span>. 
   
   The gravitational self-force framework naturally implements this resummation, providing a bridge between perturbative scattering data and bound-state dynamics. Along this line, I co-authored with J. Lewis and A. Pound the <span style="color:#6c757d;font-weight:600;">"first law of black-hole scattering"</span>, relating elapsed proper time directly to the Detweiler redshift — a central gauge-invariant building block for waveform modeling.
 </div>
