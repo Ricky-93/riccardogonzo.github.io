@@ -164,7 +164,7 @@ I am a theoretical physicist with over seven years of research experience spanni
 </font>
 
 
-## Talks, presentations and posters
+## Talks, seminars and presentations
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>

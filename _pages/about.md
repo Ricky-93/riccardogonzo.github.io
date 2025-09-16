@@ -132,7 +132,7 @@ My dream is to develop a unified formalism that combines amplitude-based perturb
 
  <iframe src="/collab_net/network.html" height="300" width="100%" style="border: none"></iframe>
 
-<h3>Talks & contributions</h3>
+<h3>Talks, seminars and presentations</h3>
 The markers on the map represent a conference, workshop, or institute where I presented my work: <span style="color:darkred;font-weight:600;">invited conference talks</span>, <span style="color:blue;font-weight:600;">invited seminars</span>, <span style="color:darkblue;font-weight:600;">contributed talks and posters</span>
 <!-- optional if you enable it: --> and <span style="color:gray;font-weight:600;">discussion sessions</span>. Click on a marker for more information.
 
