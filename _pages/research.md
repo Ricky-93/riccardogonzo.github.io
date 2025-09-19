@@ -6,7 +6,7 @@ permalink: /research/
 ---
 
 <p align="center">
-  <img src="/assets/images/Physics_map.jpeg" alt="Physics overview" style="max-width:100%; border-radius: 8px; margin-bottom: 20px;">
+  <img src="/images/Physics_map.jpeg" alt="Physics overview" style="max-width:100%; border-radius: 8px; margin-bottom: 20px;">
 </p>
 
 
