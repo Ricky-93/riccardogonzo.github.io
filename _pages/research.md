@@ -136,6 +136,7 @@ permalink: /research/
   </div>
 </div>
 
+## What is physics?
 
 <p align="center">
   <img src="/images/Physics_map.jpeg" alt="Physics overview" style="max-width:100%; border-radius: 8px; margin-bottom: 20px;">
