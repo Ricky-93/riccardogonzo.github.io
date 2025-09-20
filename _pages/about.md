@@ -15,8 +15,6 @@ Welcome! I am Riccardo Gonzo, a Postdoctoral Research Associate at the [Centre f
 ## <span style="display: flex; align-items: center;">What I think about all day (and sometimes all night) <span onclick="toggleVisibility('glance')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-glance" style="display: inline-block; transform: rotate(0deg); transition: transform 1s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
 <div id="glance" style="max-height: 2000px; overflow: hidden; transition: max-height 0.5s ease-out;">
 
-<p> Most of my time goes into understanding how gravity works when two black holes interact and spiral together. To tackle this, I combine modern tools from particle physics — such as scattering amplitudes — with traditional methods from general relativity, including the self-force expansion. My goal is to develop a unified analytic framework that describes binary dynamics across all regimes, from the weak-field inspiral to the strong-field merger and ringdown. </p>
-
 <div id="physics" style="max-height: 2000px; overflow: hidden; transition: max-height 0.5s ease-out;">
 
 <p align="center">
@@ -24,6 +22,8 @@ Welcome! I am Riccardo Gonzo, a Postdoctoral Research Associate at the [Centre f
 </p>
 
 </div>
+
+<p> Most of my time goes into understanding how gravity works when two black holes interact and spiral together. To tackle this, I combine modern tools from particle physics — such as scattering amplitudes — with traditional methods from general relativity, including the self-force expansion. My goal is to develop a unified analytic framework that describes binary dynamics across all regimes, from the weak-field inspiral to the strong-field merger and ringdown. </p>
 
 <p> In practice, this means constructing compact analytical “building blocks” for gravitational waveforms — the signals detected today by LIGO–Virgo–KAGRA and in the future by LISA and the Einstein Telescope. I am particularly excited about how amplitude-based ideas can simplify calculations and uncover hidden structures in gravity, providing new ingredients for accurate waveform modelling and, ultimately, deeper insights into both fundamental physics and astrophysics. </p>
 
@@ -37,7 +37,7 @@ Welcome! I am Riccardo Gonzo, a Postdoctoral Research Associate at the [Centre f
  <iframe src="/collab_net/network.html" height="300" width="100%" style="border: none"></iframe>
 
 <h3>Where my research takes me</h3>
-The markers on the map represent a conference, workshop, or institute where I presented my work: <span style="color:darkred;font-weight:600;">invited conference talks</span>, <span style="color:blue;font-weight:600;">invited seminars</span>, <span style="color:darkblue;font-weight:600;">contributed talks</span>
+The markers on the map represent a conference, workshop, or institute where I presented my work: <span style="color:darkred;font-weight:600;">invited conference talks</span>, <span style="color:blue;font-weight:600;">invited seminars</span> and <span style="color:darkblue;font-weight:600;">contributed talks</span>
 <!-- optional if you enable it: --> and <span style="color:gray;font-weight:600;">discussion sessions</span>. Click on a marker for more information.
 
 <div style="margin-bottom: 20px;"></div>
