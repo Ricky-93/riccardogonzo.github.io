@@ -12,6 +12,32 @@ permalink: /research/
 ## My Work at a Glance
 I am a theoretical physicist interested in understanding the fundamental laws of nature, currently working at the intersection of high-energy physics and general relativity. My current work focuses on the analytical description of gravitational binary systems and the modelling of their waveforms by combining modern particle physics tools — such as scattering amplitudes — with traditional general relativity methods like the self-force expansion. My aim to create a unified framework that connects weak-field Post-Minkowskian and Post-Newtonian theory with strong-field methods from the self-force approach, leading to improved waveform models for current (LIGO–Virgo–KAGRA) and future (LISA) gravitational wave detectors. Looking ahead, my dream is to establish an international research group dedicated to advancing the synergy between scattering amplitudes and gravitational-wave science.
 
+
+
+## <span style="display: flex; align-items: center;">Gravitational Waveforms from Scattering Amplitudes <span onclick="toggleVisibility('waveforms')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-waveforms" style="display: inline-block; transform: rotate(0deg); transition: transform 0.5s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
+<div id="waveforms" style="max-height: 1000px; overflow: hidden; transition: max-height 0.5s ease-out; text-align: justify;">
+  Together with A. Cristofoli, D. Kosower and D. O’Connell, I helped establish a framework to compute <span style="color:#6c757d;font-weight:600;">gravitational waveforms directly from on-shell scattering amplitudes</span> in the post-Minkowskian expansion. With various collaborators, I also studied a <span style="color:#6c757d;font-weight:600;">novel extension of the eikonal formalism using coherent states</span>, showing how classical gravitational waves emerge from the quantum point-particle description. <br><br>
+
+ Most recently, with F. Alessio and C. Shi, I defined a <span style="color:#6c757d;font-weight:600;">new set of classical generating functionals</span> from the S-matrix formalism. Within this setting, all two-body scattering observables can be derived in gauge-invariant form through the application of Dirac brackets, providing an efficient framework for the analytic modeling of precessing Kerr black hole binaries.
+
+</div>
+
+## <span style="display: flex; align-items: center;">Scatter-to-Bound Dictionary for Kerr Geodesics and Waveforms<span onclick="toggleVisibility('dictionary')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-dictionary" style="display: inline-block; transform: rotate(0deg); transition: transform 0.5s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
+<div id="dictionary" style="max-height: 1000px; overflow: hidden; transition: max-height 0.5s ease-out; text-align: justify;">
+  With C. Shi, I established novel <span style="color:#6c757d;font-weight:600;">gauge-invariant maps between scattering and bound geodesic observables in Kerr spacetime</span>, formulating the analytic continuation between scattering and bound actions and related observables for generic orbits. <br><br>
+
+  With T. Adamo and A. Ilderton, I developed a classical Bethe–Salpeter framework that connects the analytic S-matrix to the bound dynamics, showing how <span style="color:#6c757d;font-weight:600;">scattering waveforms can be resummed into periodic bound-state waveforms</span>. This construction shows that a <span style="color:#6c757d;font-weight:600;">resummation of the weak-field expansion is essential to recover orbital periodicity</span>. 
+  
+  The gravitational self-force framework naturally implements this resummation, providing a bridge between perturbative scattering data and bound-state dynamics. Along this line, I co-authored with J. Lewis and A. Pound the <span style="color:#6c757d;font-weight:600;">"first law of black-hole scattering"</span>, relating elapsed proper time directly to the Detweiler redshift — a central gauge-invariant building block for waveform modeling.
+</div>
+
+## <span style="display: flex; align-items: center;">Self-Force EFT for Kerr BHs: Resummation from Weak to Strong-field <span onclick="toggleVisibility('selforce')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-selforce" style="display: inline-block; transform: rotate(0deg); transition: transform 0.5s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
+<div id="selforce" style="max-height: 1000px; overflow: hidden; transition: max-height 0.5s ease-out; text-align: justify;">
+  With D. Akpinar and V. del Duca, I constructed the <span style="color:#6c757d;font-weight:600;">first spinning self-force EFT</span> at first self-force order (1SF), deriving the related effective action for Kerr black holes to quadratic order in spin and reformulating the equation for the metric perturbation in this framework. <br><br>
+
+  This framework revealed new spinning recoil operators and established a <span style="color:#6c757d;font-weight:600;">direct relation between weak-field post-Minkowskian expansions and strong-field self-force results</span>. It further highlights <span style="color:#6c757d;font-weight:600;">promising resummation strategies for extending the weak-field expansion into the strong-field regime</span>, especially near the separatrix between scattering and plunging orbits where point-particle divergences emerge.
+</div>
+
 ## <span style="display: flex; align-items: center;">Research Highlights <span onclick="toggleVisibility('highlights')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-highlights" style="display: inline-block; transform: rotate(0deg); transition: transform 0.5s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
 <div id="highlights" style="max-height: 2000px; overflow: hidden; transition: max-height 0.5s ease-out;">
 
@@ -56,31 +82,6 @@ I am a theoretical physicist interested in understanding the fundamental laws of
     </div>
   </div>
 
-</div>
-
-
-## <span style="display: flex; align-items: center;">Gravitational Waveforms from Scattering Amplitudes <span onclick="toggleVisibility('waveforms')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-waveforms" style="display: inline-block; transform: rotate(0deg); transition: transform 0.5s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
-<div id="waveforms" style="max-height: 1000px; overflow: hidden; transition: max-height 0.5s ease-out; text-align: justify;">
-  Together with A. Cristofoli, D. Kosower and D. O’Connell, I helped establish a framework to compute <span style="color:#6c757d;font-weight:600;">gravitational waveforms directly from on-shell scattering amplitudes</span> in the post-Minkowskian expansion. With various collaborators, I also studied a <span style="color:#6c757d;font-weight:600;">novel extension of the eikonal formalism using coherent states</span>, showing how classical gravitational waves emerge from the quantum point-particle description. <br><br>
-
- Most recently, with F. Alessio and C. Shi, I defined a <span style="color:#6c757d;font-weight:600;">new set of classical generating functionals</span> from the S-matrix formalism. Within this setting, all two-body scattering observables can be derived in gauge-invariant form through the application of Dirac brackets, providing an efficient framework for the analytic modeling of precessing Kerr black hole binaries.
-
-</div>
-
-## <span style="display: flex; align-items: center;">Scatter-to-Bound Dictionary for Kerr Geodesics and Waveforms<span onclick="toggleVisibility('dictionary')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-dictionary" style="display: inline-block; transform: rotate(0deg); transition: transform 0.5s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
-<div id="dictionary" style="max-height: 1000px; overflow: hidden; transition: max-height 0.5s ease-out; text-align: justify;">
-  With C. Shi, I established novel <span style="color:#6c757d;font-weight:600;">gauge-invariant maps between scattering and bound geodesic observables in Kerr spacetime</span>, formulating the analytic continuation between scattering and bound actions and related observables for generic orbits. <br><br>
-
-  With T. Adamo and A. Ilderton, I developed a classical Bethe–Salpeter framework that connects the analytic S-matrix to the bound dynamics, showing how <span style="color:#6c757d;font-weight:600;">scattering waveforms can be resummed into periodic bound-state waveforms</span>. This construction shows that a <span style="color:#6c757d;font-weight:600;">resummation of the weak-field expansion is essential to recover orbital periodicity</span>. 
-  
-  The gravitational self-force framework naturally implements this resummation, providing a bridge between perturbative scattering data and bound-state dynamics. Along this line, I co-authored with J. Lewis and A. Pound the <span style="color:#6c757d;font-weight:600;">"first law of black-hole scattering"</span>, relating elapsed proper time directly to the Detweiler redshift — a central gauge-invariant building block for waveform modeling.
-</div>
-
-## <span style="display: flex; align-items: center;">Self-Force EFT for Kerr BHs: Resummation from Weak to Strong-field <span onclick="toggleVisibility('selforce')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-selforce" style="display: inline-block; transform: rotate(0deg); transition: transform 0.5s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
-<div id="selforce" style="max-height: 1000px; overflow: hidden; transition: max-height 0.5s ease-out; text-align: justify;">
-  With D. Akpinar and V. del Duca, I constructed the <span style="color:#6c757d;font-weight:600;">first spinning self-force EFT</span> at first self-force order (1SF), deriving the related effective action for Kerr black holes to quadratic order in spin and reformulating the equation for the metric perturbation in this framework. <br><br>
-
-  This framework revealed new spinning recoil operators and established a <span style="color:#6c757d;font-weight:600;">direct relation between weak-field post-Minkowskian expansions and strong-field self-force results</span>. It further highlights <span style="color:#6c757d;font-weight:600;">promising resummation strategies for extending the weak-field expansion into the strong-field regime</span>, especially near the separatrix between scattering and plunging orbits where point-particle divergences emerge.
 </div>
 
 
