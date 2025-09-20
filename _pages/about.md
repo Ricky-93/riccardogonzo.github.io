@@ -27,16 +27,20 @@ Welcome! I am Riccardo Gonzo, a Postdoctoral Research Associate at the [Centre f
 ## <span style="display: flex; align-items: center;">What I think about all day (and sometimes all night) <span onclick="toggleVisibility('glance')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-glance" style="display: inline-block; transform: rotate(0deg); transition: transform 1s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
 <div id="glance" style="max-height: 2000px; overflow: hidden; transition: max-height 0.5s ease-out;">
 
-I am a theoretical physicist interested in understanding the fundamental laws of nature, with a focus on gravitational-wave science. My current work focuses on the analytical description of gravitational binary systems by combining modern particle physics tools — such as scattering amplitudes — with traditional general relativity methods like the self-force expansion. My aim to create a unified framework that connects weak-field Post-Minkowskian and Post-Newtonian theory with strong-field methods from the self-force approach, leading to improved waveform models for current (LIGO–Virgo–KAGRA) and future (LISA, Einstein Telescope) gravitational wave detectors. Looking ahead, my dream is to establish an international research group dedicated to advancing the synergy between scattering amplitudes and gravitational-wave physics.
+Most of my time goes into understanding how gravity works when two black holes interact and spiral together. To tackle this, I combine modern tools from particle physics — such as scattering amplitudes — with traditional methods from general relativity, including the self-force expansion. My goal is to develop a unified analytic framework that describes binary dynamics across regimes, from the weak-field inspiral to the strong-field merger and ringdown.
+
+In practice, this means constructing compact analytical “building blocks” for gravitational waveforms — the signals detected today by LIGO–Virgo–KAGRA and in the future by LISA and the Einstein Telescope. I am particularly excited about how amplitude-based ideas can simplify calculations and uncover hidden structures in gravity, providing new ingredients for accurate waveform modelling and, ultimately, deeper insights into both fundamental physics and astrophysics.
+
+Looking ahead, my dream is to establish an international research group dedicated to advancing the synergy between scattering amplitudes and gravitational-wave science.
 
 <!-- My works have been published in Physical Review X, Physical Review Letters, Proceedings of the National Academy of Sciences (PNAS), and Science Advances, among others. I have presented my work at several international conferences and workshops, -->
 
-<h3>Collaboration network</h3>
+<h3>People I work with</h3>
 <p>This is my collaboration network: the color of each node specifies either a <span style="color:#d6d2d2;font-weight:600;">co-author</span>, a <span style="color:#79addc;font-weight:600;">preprint</span> or <span style="color:#9e1910;font-weight:600;">journal article</span>. Click on a node for more information.</p>
 
  <iframe src="/collab_net/network.html" height="300" width="100%" style="border: none"></iframe>
 
-<h3>Talks, seminars and presentations</h3>
+<h3>Places my research takes me</h3>
 The markers on the map represent a conference, workshop, or institute where I presented my work: <span style="color:darkred;font-weight:600;">invited conference talks</span>, <span style="color:blue;font-weight:600;">invited seminars</span>, <span style="color:darkblue;font-weight:600;">contributed talks and posters</span>
 <!-- optional if you enable it: --> and <span style="color:gray;font-weight:600;">discussion sessions</span>. Click on a marker for more information.
 
