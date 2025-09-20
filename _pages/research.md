@@ -143,16 +143,6 @@ I am a theoretical physicist interested in understanding the fundamental laws of
   </div>
 </div>
 
-## <span style="display: flex; align-items: center;">What is physics? <span onclick="toggleVisibility('physics')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-physics" style="display: inline-block; transform: rotate(0deg); transition: transform 0.5s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
-
-<div id="physics" style="max-height: 2000px; overflow: hidden; transition: max-height 0.5s ease-out;">
-
-<p align="center">
-  <img src="/images/Physics_map.jpeg" alt="Physics overview" style="max-width:100%; border-radius: 8px; margin-bottom: 20px;">
-</p>
-
-</div>
-
 
 <script>
   function toggleVisibility(id) {
