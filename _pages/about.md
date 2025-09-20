@@ -37,7 +37,7 @@ Welcome! I am Riccardo Gonzo, a Postdoctoral Research Associate at the [Centre f
  <iframe src="/collab_net/network.html" height="300" width="100%" style="border: none"></iframe>
 
 <h3>Where my research takes me</h3>
-The markers on the map represent a conference, workshop, or institute where I presented my work: <span style="color:darkred;font-weight:600;">invited conference talks</span>, <span style="color:blue;font-weight:600;">invited seminars</span> and <span style="color:darkblue;font-weight:600;">contributed talks</span>
+The markers on the map represent a conference, workshop, or institute where I presented my work: <span style="color:darkred;font-weight:600;">invited conference talks</span>, <span style="color:blue;font-weight:600;">invited seminars</span>, <span style="color:darkblue;font-weight:600;">contributed talks</span>
 <!-- optional if you enable it: --> and <span style="color:gray;font-weight:600;">discussion sessions</span>. Click on a marker for more information.
 
 <div style="margin-bottom: 20px;"></div>
