@@ -11,17 +11,11 @@ redirect_from:
 
 Welcome! I am Riccardo Gonzo, a Postdoctoral Research Associate at the [Centre for Theoretical Physics, Queen Mary University of London](https://www.seresearch.qmul.ac.uk/cfp/){:target="_blank"}<!--_-->. Previously, I was a postdoctoral researcher at the [Higgs Centre for Theoretical Physics, University of Edinburgh](https://www.ph.ed.ac.uk/higgs){:target="_blank"}<!--_-->. My research lies at the interface of high-energy physics and general relativity, with the goal of developing new analytical tools for modelling gravitational-wave signals from binary black hole systems.
 
-
-## <span style="display: flex; align-items: center;">What I think about all day (and sometimes all night) <span onclick="toggleVisibility('glance')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-glance" style="display: inline-block; transform: rotate(0deg); transition: transform 1s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
-<div id="glance" style="max-height: 2000px; overflow: hidden; transition: max-height 0.5s ease-out;">
-
-<div id="physics" style="max-height: 2000px; overflow: hidden; transition: max-height 0.5s ease-out;">
+## What I think about all day (and sometimes all night)
 
 <p align="center">
   <img src="/images/waveform_modelling.png" alt="Waveform modelling" style="max-width:100%; border-radius: 8px; margin-bottom: 20px;">
 </p>
-
-</div>
 
 <p> Most of my time goes into understanding how gravity works when two black holes interact and spiral together. To tackle this, I combine modern tools from particle physics — such as scattering amplitudes — with traditional methods from general relativity, including the self-force expansion. My goal is to develop a unified analytic framework that describes binary dynamics across all regimes, from the weak-field inspiral to the strong-field merger and ringdown. </p>
 
@@ -42,9 +36,6 @@ The markers on the map represent a conference, workshop, or institute where I pr
 
 <div style="margin-bottom: 20px;"></div>
  <iframe src="/talkmap/talks_map.html" height="300" width="100%" style="border: none"></iframe>
-</div>
-
-
 
 
 
