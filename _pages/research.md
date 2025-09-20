@@ -9,7 +9,7 @@ permalink: /research/
   <img src="/images/Research_diagram.jpg" alt="Research framework diagram" style="max-width:100%; border-radius: 8px; margin-bottom: 20px;">
 </p>
 
-## My work at glance
+## My Work at a Glance
 I am a theoretical physicist interested in understanding the fundamental laws of nature, currently working at the intersection of high-energy physics and general relativity. My current work focuses on the analytical description of gravitational binary systems and the modelling of their waveforms by combining modern particle physics tools — such as scattering amplitudes — with traditional general relativity methods like the self-force expansion. My aim to create a unified framework that connects weak-field Post-Minkowskian and Post-Newtonian theory with strong-field methods from the self-force approach, leading to improved waveform models for current (LIGO–Virgo–KAGRA) and future (LISA) gravitational wave detectors. Looking ahead, my dream is to establish an international research group dedicated to advancing the synergy between scattering amplitudes and gravitational-wave science.
 
 ## <span style="display: flex; align-items: center;">Research Highlights <span onclick="toggleVisibility('highlights')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-highlights" style="display: inline-block; transform: rotate(0deg); transition: transform 0.5s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
