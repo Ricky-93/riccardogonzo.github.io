@@ -25,7 +25,7 @@ Welcome! I am Riccardo Gonzo, a Postdoctoral Research Associate at the [Centre f
 
 <p> Most of my time goes into understanding how gravity works when two black holes interact and spiral together. To tackle this, I combine modern tools from particle physics — such as scattering amplitudes — with traditional methods from general relativity, including the self-force expansion. My goal is to develop a unified analytic framework that describes binary dynamics across all regimes, from the weak-field inspiral to the strong-field merger and ringdown. </p>
 
-<p> In practice, this means constructing compact analytical “building blocks” for gravitational waveforms — the signals detected today by LIGO–Virgo–KAGRA and in the future by LISA and the Einstein Telescope. I am particularly excited about how amplitude-based ideas can simplify calculations and uncover hidden structures in gravity, providing new ingredients for accurate waveform modelling and, ultimately, deeper insights into both fundamental physics and astrophysics. </p>
+<p> In practice, this means constructing compact analytical “building blocks” for gravitational waveforms — the signals measured by ground- and space-based interferometers, from LIGO–Virgo–KAGRA today to LISA and the Einstein Telescope in the future. I am particularly excited about how amplitude-based ideas can simplify calculations and uncover hidden structures in gravity, providing new ingredients for accurate waveform modelling and, ultimately, deeper insights into both fundamental physics and astrophysics. </p>
 
 <p> Looking ahead, my dream is to establish an international research group dedicated to advancing the synergy between scattering amplitudes and gravitational-wave science. </p>
 
