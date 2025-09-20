@@ -56,3 +56,9 @@ hr.section { margin: 1.25rem 0; border: 0; border-top: 1px solid #ddd; }
     <li><a href="https://www.youtube.com/watch?v=fCi195e9QD4" target="_blank" rel="noopener">Geometry of scattering amplitudes</a> <span class="host">(QMAP, N. Arkani-Hamed)</span></li>
   </ul>
 </div>
+
+## What is physics? 
+
+<p align="center">
+  <img src="/images/Physics_map.jpeg" alt="Physics overview" style="max-width:100%; border-radius: 8px; margin-bottom: 20px;">
+</p>
