@@ -21,8 +21,6 @@ Welcome! I am Riccardo Gonzo, a Postdoctoral Research Associate at the [Centre f
 
 <p> In practice, this means developing theoretical models to describe gravitational waveforms, the signals detected by ground- and space-based interferometers, from LIGO–Virgo–KAGRA today to LISA and the Einstein Telescope in the future. I am particularly excited about how amplitude-based ideas can simplify calculations and uncover hidden structures in gravity, providing new ingredients for accurate waveform modelling and, ultimately, deeper insights into both fundamental physics and astrophysics. </p>
 
-<p> Looking ahead, my dream is to establish an international research group dedicated to advancing the synergy between scattering amplitudes and gravitational-wave science. </p>
-
 <!-- My works have been published in Physical Review X, Physical Review Letters, Proceedings of the National Academy of Sciences (PNAS), and Science Advances, among others. I have presented my work at several international conferences and workshops, -->
 
 <h3>Who I work with</h3>
