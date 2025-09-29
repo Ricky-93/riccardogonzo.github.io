@@ -97,7 +97,7 @@ I am a theoretical physicist interested in understanding the fundamental laws of
         </h3>
         <ul style="font-size: 0.95em; margin: 5px 0;color:#51585e;text-align:justify">
           <li style="font-size: 0.9em; color: #9BA1A6;">
-            <a href="https://doi.org/10.1103/PhysRevLett" target="_blank">Physical Review Letters</a> — <strong>Editors’ Suggestion</strong>
+            <a href="https://doi.org/10.1103/s85p-gh7b" target="_blank">Physical Review Letters</a> — <strong>Editors’ Suggestion</strong>
           </li>
         </ul>
       </div>
