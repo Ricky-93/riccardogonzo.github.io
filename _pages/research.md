@@ -107,7 +107,7 @@ I am a theoretical physicist interested in understanding the fundamental laws of
       <h3 style="margin: 0;color:#51585e">The spinning self-force EFT: 1SF waveform recursion relation and Compton scattering</h3>
       <ul style="font-size: 0.95em; margin: 5px 0;color:#51585e;text-align:justify">
         <li style="font-size: 0.9em; color: #9BA1A6;">
-          <a href="https://doi.org/10.1103/PhysRevD" target="_blank">Physical Review D</a> — <strong>Editors’ Suggestion</strong>
+          <a href="https://doi.org/10.1103/fs74-84v6" target="_blank">Physical Review D</a> — <strong>Editors’ Suggestion</strong>
         </li>
       </ul>
     </div>
