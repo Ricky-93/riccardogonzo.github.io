@@ -42,7 +42,7 @@
 41	"Spinning waveforms from the Kosower–Maybee–O’Connell formalism at leading order"	4
 42	"Gravitational bound waveforms from amplitudes"	4
 43	"Scattering and Bound Observables for Spinning Particles in Kerr Spacetime with Generic Spin Orientations"	4
-44	"The first law of binary black hole scattering"	3
-45	"The spinning self-force EFT: 1SF waveform recursion relation and Compton scattering"	3
+44	"First Law of Binary Black Hole Scattering"	4
+45	"The spinning self-force EFT: 1SF waveform recursion relation and Compton scattering"	4
 46	"Dirac brackets for classical radiative observables"	3
 47	"Unexpected Symmetries of Kerr Black Hole Scattering"	3
