@@ -28,21 +28,25 @@
 26	"Francesco Alessio"	2
 27	"Graham R. Brown"	2
 28	"Mao Zeng"	2
-30	"Asymptotic charges and coherent states in QCD"	4
-31	"BMS symmetry of celestial OPE"	4
-32	"Light-ray operators, detectors and gravitational event shapes"	4
-33	"Waveforms from amplitudes"	4
-34	"Geodesics from classical double copy"	4
-35	"Graviton particle statistics and coherent states from classical scattering amplitudes"	4
-36	"The uncertainty principle and classical amplitudes"	4
-37	"Celestial holography on Kerr-Schild backgrounds"	4
-38	"Bethe-Salpeter equation for classical gravitational bound states"	4
-39	"Boundary to bound dictionary for generic Kerr orbits"	4
-40	"Wave scattering event shapes at high energies"	4
-41	"Spinning waveforms from the Kosower–Maybee–O’Connell formalism at leading order"	4
-42	"Gravitational bound waveforms from amplitudes"	4
-43	"Scattering and Bound Observables for Spinning Particles in Kerr Spacetime with Generic Spin Orientations"	4
-44	"First Law of Binary Black Hole Scattering"	4
-45	"The spinning self-force EFT: 1SF waveform recursion relation and Compton scattering"	4
-46	"Dirac brackets for classical radiative observables"	3
-47	"Unexpected Symmetries of Kerr Black Hole Scattering"	3
+29	"Emanuele Rosi"	2
+30	"Ira Z. Rothstein"	2
+31	"Michael Saavedra"	2
+33	"Asymptotic charges and coherent states in QCD"	4
+34	"BMS symmetry of celestial OPE"	4
+35	"Light-ray operators, detectors and gravitational event shapes"	4
+36	"Waveforms from amplitudes"	4
+37	"Geodesics from classical double copy"	4
+38	"Graviton particle statistics and coherent states from classical scattering amplitudes"	4
+39	"The uncertainty principle and classical amplitudes"	4
+40	"Celestial holography on Kerr-Schild backgrounds"	4
+41	"Bethe-Salpeter equation for classical gravitational bound states"	4
+42	"Boundary to bound dictionary for generic Kerr orbits"	4
+43	"Wave scattering event shapes at high energies"	4
+44	"Spinning waveforms from the Kosower–Maybee–O’Connell formalism at leading order"	4
+45	"Gravitational bound waveforms from amplitudes"	4
+46	"Scattering and Bound Observables for Spinning Particles in Kerr Spacetime with Generic Spin Orientations"	4
+47	"First Law of Binary Black Hole Scattering"	4
+48	"The spinning self-force EFT: 1SF waveform recursion relation and Compton scattering"	4
+49	"Dirac brackets for classical radiative observables"	4
+50	"Unexpected Symmetries of Kerr Black Hole Scattering"	3
+51	"Analytic structure of the high-energy gravitational amplitude: multi-H diagrams and classical 5PM logarithms"	3
