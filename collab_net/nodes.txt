@@ -50,3 +50,4 @@
 49	"Dirac brackets for classical radiative observables"	4
 50	"Unexpected Symmetries of Kerr Black Hole Scattering"	3
 51	"Analytic structure of the high-energy gravitational amplitude: multi-H diagrams and classical 5PM logarithms"	3
+52	"Gravitational amplitudes in the Regge limit: waveforms, shock waves and unitarity cuts"	3
