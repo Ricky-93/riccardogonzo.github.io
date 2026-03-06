@@ -120,9 +120,21 @@ I obtained my PhD in Theoretical Particle Physics at [Trinity College Dublin](ht
 
 <font size="5">
 <table>
+
 <tr>
   <td width="22%"><div align="right">2026<br>
-    <img src='/images/nordita_logo.png' style="padding-top:7px;display:block;margin-right:10px;" width="130"></div>
+    <img src='/images/nordita_poster.jpg' style="padding-top:7px;display:block;margin-right:10px;" width="130"></div>
+  </td>
+  <td width="80%">Organizer — ICTP-SAIFR program <i>All roads lead to Waveforms: GSF, PM, PN and all that</i><br>
+    Principia Institute, Sao Paulo
+  </td>
+</tr>
+
+<tr><td></td></tr>
+	
+	<tr>
+  <td width="22%"><div align="right">2026<br>
+    <img src='/images/nordita_poster.jpg' style="padding-top:7px;display:block;margin-right:10px;" width="130"></div>
   </td>
   <td width="80%">Organizer — Nordita program <i>Amplitudes, Strong-Field Gravity, and Resummation</i><br>
     Nordita Institute, Stockholm
