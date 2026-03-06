@@ -121,7 +121,7 @@ I obtained my PhD in Theoretical Particle Physics at [Trinity College Dublin](ht
 <font size="5">
 <table>
 <tr>
-  <td width="22%"><div align="right">2026<br>
+  <td width="22%"><div align="right">2027<br>
     <img src='/images/ICTP-SAIFR_logo.jpg' style="padding-top:7px;display:block;margin-right:10px;" width="130"></div>
   </td>
   <td width="80%">Organizer — ICTP-SAIFR program <i>All roads lead to Waveforms: GSF, PM, PN and all that</i><br>
