@@ -26,7 +26,8 @@ jobs:
 
     - name: Run Jupyter Notebook
       run: |
-        python -m jupyter nbconvert --execute --to notebook talkmap.ipynb --output talkmap_out
+        ls -l
+        jupyter nbconvert --execute talkmap.ipynb --to notebook --output=talkmap_out
 
     - name: Commit changes
       run: |
