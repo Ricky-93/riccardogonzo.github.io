@@ -199,6 +199,7 @@ I obtained my PhD in Theoretical Particle Physics at [Trinity College Dublin](ht
 
 
 ## Honors and awards
+* **Funding award** of £60k for the organization of the GGI program *Synergies for Black-Hole Binaries: from perturbative techniques to strong-field gravity* at the GGI institute, Florence, Italy (2026)
 * **Funding award** of £25k for the organization of the ICTP-SAIFR program *All roads lead to Waveforms: GSF, PM, PN and all that* at the Principia institute, Sao Paulo, Brazil (2026)
 * **Funding award** of £16.4k for the organization of the Nordita program *Amplitudes, Strong-Field Gravity, and Resummation* (2025)
 * **Funding award** of £10.4k for the organization of the workshop *Gravitational Self-Force and Amplitudes* at the Higgs Centre, University of Edinburgh (2023)  
