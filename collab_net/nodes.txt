@@ -53,8 +53,8 @@
 52	"First Law of Binary Black Hole Scattering"	4
 53	"The spinning self-force EFT: 1SF waveform recursion relation and Compton scattering"	4
 54	"Dirac brackets for classical radiative observables"	4
-55	"Unexpected Symmetries of Kerr Black Hole Scattering"	3
-56	"Analytic structure of the high-energy gravitational amplitude: multi-H diagrams and classical 5PM logarithms"	3
+55	"Unexpected Symmetries of Kerr Black Hole Scattering"	4
+56	"Analytic structure of the high-energy gravitational amplitude: multi-H diagrams and classical 5PM logarithms"	4
 57	"Gravitational amplitudes in the Regge limit: waveforms, shock waves and unitarity cuts"	3
-58	"Resummed energy loss in extreme-mass-ratio scattering using critical orbits"	3
+58	"Resummed energy loss in extreme-mass-ratio scattering using critical orbits"	4
 59	"Canonical Quantisation of Bound and Unbound WQFT"	3
