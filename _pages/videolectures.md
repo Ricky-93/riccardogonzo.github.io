@@ -30,6 +30,7 @@ hr.section { margin: 1.25rem 0; border: 0; border-top: 1px solid #ddd; }
     <li><a href="https://www.youtube.com/watch?v=7G4SqIboeig&list=PLFeEvEPtX_0S6vxxiiNPrJbLu9aK1UVC_" target="_blank" rel="noopener">General relativity</a> <span class="host">(Heraeus School, F. Schuller)</span></li>
     <li><a href="https://www.youtube.com/watch?v=LYNOGk3ZjFM&list=PLOFVFbzrQ49TNlDOxxCAjC7kbnorAR1MU&index=1" target="_blank" rel="noopener">Mathematical physics</a> <span class="host">(PSI, C. Bender)</span></li>
     <li><a href="https://www.youtube.com/watch?v=NGYX6gtObec&list=PLDfPUNusx1Ep5g1jIKXqpNX_t_Zz-kAlQ&index=1" target="_blank" rel="noopener">Introduction to conformal field theory</a> <span class="host">(T. Osborn)</span></li>
+    <li><a href="https://www.youtube.com/watch?v=btzDT-HAYAM" target="_blank" rel="noopener">Lorentzian methods in conformal field theory</a> <span class="host">(IPhT, S. Rychkov)</span></li>
     <li><a href="https://www.youtube.com/watch?v=YlFgZpc0maQ&list=PL9goACN_fIU-t5YTJpxO1WWWkUWtI6aUt&index=1" target="_blank" rel="noopener">Black holes lectures</a> <span class="host">(PSU, A. Ashtekar)</span></li>
     <li><a href="https://www.youtube.com/watch?v=Ssmr057FLEE" target="_blank" rel="noopener">Black hole thermodynamics</a> <span class="host">(ICTP, R. Wald)</span></li>
     <li><a href="https://www.youtube.com/watch?v=jYoXQoOIcb8&list=PLVJT4mALzulpxLvTuoYnpJ8LEesT5Z7Wv" target="_blank" rel="noopener">Black holes and quantum information</a> <span class="host">(Cornell, T. Hartman)</span></li>
@@ -44,6 +45,7 @@ hr.section { margin: 1.25rem 0; border: 0; border-top: 1px solid #ddd; }
     <li><a href="https://www.youtube.com/watch?v=SKXzIWjHhSI&list=PL04QVxpjcnjgHO6AOdv68AK3lKqeECgYc&index=1" target="_blank" rel="noopener">Gravity: Newtonian, post-Newtonian, Relativistic</a> <span class="host">(ICTS, C. Will)</span></li>
     <li><a href="https://www.youtube.com/watch?v=-ACMGOTwF-M" target="_blank" rel="noopener">Black hole perturbation theory</a> <span class="host">(ICTS, E. Berti)</span></li>
     <li><a href="https://www.youtube.com/watch?v=odjZsieQx3s" target="_blank" rel="noopener">Self-force and radiation reaction in general relativity</a> <span class="host">(ICTS, A. Pound)</span></li>
+    <li><a href="https://www.youtube.com/watch?v=24uhaYghCGk" target="_blank" rel="noopener">Aspects of black holes perturbation theory</a> <span class="host">(IphT, L. Santoni)</span></li>
     <li><a href="https://www.youtube.com/watch?v=f_TWCHdx5SI" target="_blank" rel="noopener">Regge physics</a> <span class="host">(EPFL, J. Penedones)</span></li>
     <li><a href="https://www.youtube.com/watch?v=jyYkLQEmBiM&list=PLrLctLPAdPNtosW3TwEzKqWNDC9_huky5&index=1" target="_blank" rel="noopener">The analytic S-matrix</a> <span class="host">(IPhT, A. Zhiboedov)</span></li>
     <li><a href="https://www.youtube.com/watch?v=PlJIECqRZRA&list=PL7bcfVtEyscxX9Fv9LG3PrX3baO6AtKmR" target="_blank" rel="noopener">Motivic periods and cosmic Galois group</a> <span class="host">(IHES, F. Brown)</span></li>
