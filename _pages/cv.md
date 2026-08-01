@@ -36,7 +36,7 @@ In 2026, I was awarded the prestigious [Royal Society University Research Fellow
       <strong>PhD in Theoretical Particle Physics</strong>, Trinity College Dublin.<br>
       <strong>Supervisor:</strong> Prof. Ruth Britto.<br>
       <strong>Thesis:</strong> <a href="http://www.tara.tcd.ie/handle/2262/98491"><em>Coherent states and classical radiative observables in the S-matrix formalism</em></a>.<br>
-      During my PhD, I won a prestigious and competitive Marie-Curie International Training Network fellowship, <em>Scattering Amplitudes: from Geometry to Experiments</em> (SAGEX). The fellowship gave me research training through dedicated workshops and schools and a three-month internship at Wolfram Research, as well as training in scientific writing, presentation skills, STEM outreach, grant writing, time and project management, career development and good scientific practice.
+      During my PhD, I won a competitive Marie-Curie International Training Network fellowship, <em>Scattering Amplitudes: from Geometry to Experiments</em> (SAGEX). The fellowship gave me research training through dedicated workshops and schools and a three-month internship at Wolfram Research, as well as training in scientific writing, presentation skills, STEM outreach, grant writing, time and project management, career development and good scientific practice.
     </td>
   </tr>
   <tr style="vertical-align:top;">
