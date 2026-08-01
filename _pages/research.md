@@ -105,16 +105,16 @@ In 2026, I was awarded the prestigious [Royal Society University Research Fellow
 <div class="research-results">
 
   <div class="research-result">
-    <img class="research-result-image" src="/images/waveforms_from_amplitudes.png" alt="Scattering process with a radiated waveform">
+    <img class="research-result-image" src="/images/research/waveforms_from_amplitudes.png" alt="Scattering process with a radiated waveform">
     <div>
       <h3><a href="https://doi.org/10.1103/PhysRevD.106.056007" target="_blank" rel="noopener">Waveforms from amplitudes</a></h3>
       <p class="research-result-meta">Andrea Cristofoli, <strong>Riccardo Gonzo</strong>, David A. Kosower, Donal O'Connell &mdash; <em>Physical Review D</em> 106, 056007 (2022), Editors' Suggestion</p>
-      <p class="research-result-description">Introduced a direct framework for computing classical wave observables from quantum scattering amplitudes.</p>
+      <p class="research-result-description">Established a framework for computing gravitational waveforms directly from on-shell scattering amplitudes.</p>
     </div>
   </div>
 
   <div class="research-result">
-    <img class="research-result-image" src="/images/first_law_scattering_bound.svg" alt="Schematic of the boundary-to-bound map between scattering proper time and the bound-orbit redshift">
+    <img class="research-result-image" src="/images/research/first_law_scatter_to_bound.png" alt="Scattering-to-bound continuation of a gravitational waveform">
     <div>
       <h3><a href="https://doi.org/10.1103/s85p-gh7b" target="_blank" rel="noopener">First Law of Binary Black Hole Scattering</a></h3>
       <p class="research-result-meta"><strong>Riccardo Gonzo</strong>, Jack Lewis, Adam Pound &mdash; <em>Physical Review Letters</em> 135, 131401 (2025), Editors' Suggestion; PRL Collection of the Year 2025</p>
@@ -123,7 +123,7 @@ In 2026, I was awarded the prestigious [Royal Society University Research Fellow
   </div>
 
   <div class="research-result">
-    <img class="research-result-image" src="/images/scatter_to_bound_kerr.png" alt="Schematic mapping a scattering Kerr orbit to bound motion">
+    <img class="research-result-image" src="/images/research/scatter_to_bound_kerr.png" alt="Scattering-to-bound map from an unbound Kerr orbit to bound motion">
     <div>
       <h3><a href="https://doi.org/10.1103/PhysRevLett.133.221401" target="_blank" rel="noopener">Scattering and bound observables for spinning particles in Kerr spacetime with generic spin orientations</a></h3>
       <p class="research-result-meta"><strong>Riccardo Gonzo</strong>, Canxin Shi &mdash; <em>Physical Review Letters</em> 133, 221401 (2024)</p>
@@ -132,16 +132,16 @@ In 2026, I was awarded the prestigious [Royal Society University Research Fellow
   </div>
 
   <div class="research-result">
-    <img class="research-result-image" src="/images/PRD_1SF_spinning.jpeg" alt="Schematic of the spinning self-force effective field theory">
+    <img class="research-result-image" src="/images/research/self_force_eft.png" alt="Spinning compact object orbiting a Kerr black hole">
     <div>
       <h3><a href="https://doi.org/10.1103/fs74-84v6" target="_blank" rel="noopener">The spinning self-force EFT: 1SF waveform recursion relation and Compton scattering</a></h3>
       <p class="research-result-meta">Dogan Akpinar, Vittorio Del Duca, <strong>Riccardo Gonzo</strong> &mdash; <em>Physical Review D</em> 112, 084014 (2025), Editors' Suggestion</p>
-      <p class="research-result-description">Developed an effective field theory for spinning Kerr black holes within the self-force expansion, including the 1SF action through quadratic order in spin and a recursion relation for the curved-space Compton amplitude.</p>
+      <p class="research-result-description">Developed an effective-field-theory description of spinning Kerr black holes at first self-force order, connecting the metric perturbation, waveform and Compton amplitude.</p>
     </div>
   </div>
 
   <div class="research-result">
-    <img class="research-result-image" src="/images/critical_orbits_resummation.svg" alt="Schematic of stable and unstable circular-orbit branches and the scattering–plunge separatrix">
+    <img class="research-result-image" src="/images/research/critical_orbits_resummation.png" alt="Comparison of resummed energy-loss formulas with black-hole perturbation-theory data">
     <div>
       <h3><a href="https://doi.org/10.1103/pxzz-dl2b" target="_blank" rel="noopener">Resummed energy loss in extreme-mass-ratio scattering using critical orbits</a></h3>
       <p class="research-result-meta">Leor Barack, <strong>Riccardo Gonzo</strong>, Benjamin Leather, Oliver Long, Niels Warburton &mdash; <em>Physical Review D</em> 113, 104042 (2026)</p>

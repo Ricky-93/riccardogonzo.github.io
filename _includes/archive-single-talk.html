@@ -8,11 +8,9 @@
   <p class="archive__item-excerpt talk-meta">
     <strong>{{ post.date | date: "%B %Y" }}</strong> · {{ post.type }} · {{ post.venue }}{% if post.location %} · {{ post.location }}{% endif %}
   </p>
-  {% if post.video_url or post.event_url or post.slides_url %}
+  {% if post.video_url %}
     <p class="talk-links">
-      {% if post.event_url %}<a href="{{ post.event_url }}" target="_blank" rel="noopener noreferrer">[event]</a>{% endif %}
-      {% if post.video_url %}<a href="{{ post.video_url }}" target="_blank" rel="noopener noreferrer">[video]</a>{% endif %}
-      {% if post.slides_url %}<a href="{{ post.slides_url }}" target="_blank" rel="noopener noreferrer">[slides]</a>{% endif %}
+      <a href="{{ post.video_url }}" target="_blank" rel="noopener noreferrer">[video]</a>
     </p>
   {% endif %}
 </article>
