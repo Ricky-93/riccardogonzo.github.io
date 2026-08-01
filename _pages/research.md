@@ -114,7 +114,7 @@ In 2026, I was awarded the prestigious [Royal Society University Research Fellow
   </div>
 
   <div class="research-result">
-    <img class="research-result-image" src="/images/research/first_law_scatter_to_bound.png" alt="Scattering-to-bound continuation of a gravitational waveform">
+    <img class="research-result-image" src="/images/research/first_law_scatter_to_bound.png" alt="Scattering-to-bound continuation from an unbound trajectory to a bound orbit">
     <div>
       <h3><a href="https://doi.org/10.1103/s85p-gh7b" target="_blank" rel="noopener">First Law of Binary Black Hole Scattering</a></h3>
       <p class="research-result-meta"><strong>Riccardo Gonzo</strong>, Jack Lewis, Adam Pound &mdash; <em>Physical Review Letters</em> 135, 131401 (2025), <strong>Editor's Suggestion</strong>; <strong>PRL Collection of the Year 2025</strong></p>

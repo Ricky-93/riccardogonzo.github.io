@@ -10,7 +10,7 @@ author_profile: true
 
 I am a theoretical physicist with over eight years of research experience spanning high-energy physics and general relativity. My work focuses on the analytical description of gravitational binary systems and their waveforms, combining particle-physics tools -- such as scattering amplitudes -- with post-Newtonian and gravitational self-force methods. During my PhD, I developed a direct link between on-shell scattering amplitudes and gravitational waveforms. Since then, I have developed methods for translating results between scattering and bound Kerr orbits, including their gravitational waveforms, as well as a new effective field theory formulation of gravitational self-force for bound orbits. Overall, my research has involved international collaborations with more than thirty researchers across Europe, North America and Asia.
 
-In 2026, I was awarded the prestigious [Royal Society University Research Fellowship](https://royalsociety.org/grants/university-research/), an eight-year fellowship with a total programme value of £1.8 million, for the project *High-precision effective field theory for extreme-mass-ratio inspirals*. My long-term vision is to build a unified framework that connects weak-field Post-Minkowskian and post-Newtonian theory with strong-field methods from the self-force approach, leading to improved waveform models for current (LIGO--Virgo--KAGRA) and future (LISA, ET and CE) gravitational-wave detectors.
+In 2026, I was awarded the prestigious [Royal Society University Research Fellowship](https://royalsociety.org/grants/university-research/) for my project *High-precision effective field theory for extreme-mass-ratio inspirals*. My long-term vision is to build a unified framework that connects weak-field Post-Minkowskian and post-Newtonian theory with strong-field methods from the self-force approach, leading to improved waveform models for current (LIGO--Virgo--KAGRA) and future (LISA, ET and CE) gravitational-wave detectors.
 
 ## Academic appointments
 
@@ -38,7 +38,7 @@ You can find my research papers, together with journal and arXiv links and short
 
 ## International programmes and workshops
 
-I am excited about new applications of particle-physics tools to gravity, and I believe that people from different communities will need to work together to solve the binary problem. I helped start a series of meetings bringing together researchers working on scattering amplitudes, gravitational self-force and related approaches to binary dynamics.
+I am excited about new applications of particle-physics tools to gravity, and I believe that people from different communities will need to work together to solve the binary problem. To work towards this, I helped start a series of meetings bringing together researchers working on scattering amplitudes, gravitational self-force and related approaches to binary dynamics.
 
 [Programmes and workshops](/programmes/){: .btn}
 
@@ -51,7 +51,7 @@ I am excited about new applications of particle-physics tools to gravity, and I 
 
 ## Invited presentations
 
-I have had the privilege of visiting many amazing places around the world to present my work. The complete record, including contributed talks and four discussion sessions, is available on the [talks page](/talks/).
+I have had the good fortune to visit many wonderful places around the world to present my work. The complete record, including contributed talks and discussion sessions, is available on the [talks page](/talks/).
 
 ## Teaching, service and memberships
 
@@ -61,8 +61,8 @@ I have served as a journal referee since 2022 for *Journal of High Energy Physic
 
 ## Press and outreach
 
-- Featured in the Nordita article [*Bringing together communities to improve precision in gravitational-wave modeling*](https://nordita.org/news-archive/news-2026/bringing-together-communities-to-improve-precision-in-gravitational-wave-modeling/).
-- Interviewed by Charlie Wood for the *Quanta Magazine* article [*Massive Black Holes Shown to Act Like Quantum Particles*](https://www.quantamagazine.org/massive-black-holes-shown-to-act-like-quantum-particles-20220329/).
-- Contributed personal video footage to the SAGEX film [*Doing a PhD in Physics*](https://www.youtube.com/watch?v=ZbV0YnzeTzQ).
-- Contributed to the Feynman-diagram section of the exhibition [*At the Frontiers of Physics*](https://exhibition.sagex.org/#/exhibition-hub/).
-- Public-engagement activities with *Pint of Science* in Padova, Edinburgh and London.
+- I was interviewed by Charlie Wood for the *Quanta Magazine* article [*Massive Black Holes Shown to Act Like Quantum Particles*](https://www.quantamagazine.org/massive-black-holes-shown-to-act-like-quantum-particles-20220329/), which discussed my work on coherent graviton states and the emergence of classical radiation from quantum scattering.
+- Nordita featured our 2026 programme in [*Bringing together communities to improve precision in gravitational-wave modeling*](https://nordita.org/news-archive/news-2026/bringing-together-communities-to-improve-precision-in-gravitational-wave-modeling/), looking at why we brought these different research communities together and at the experience of the students and early-career researchers who took part.
+- For the SAGEX film [*Doing a PhD in Physics*](https://www.youtube.com/watch?v=ZbV0YnzeTzQ), I contributed personal footage to a short film about the experience and challenges of doctoral research in physics.
+- I created material for the Feynman-diagram section of the SAGEX online exhibition [*At the Frontiers of Physics*](https://exhibition.sagex.org/#/exhibition-hub/), designed to introduce modern particle physics to a wider audience.
+- I have also taken part in *Pint of Science* events in Padova, Edinburgh and London, discussing fundamental physics with general audiences.

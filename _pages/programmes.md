@@ -4,7 +4,7 @@ permalink: /programmes/
 author_profile: true
 ---
 
-I am excited about new applications of particle-physics tools to gravity, and I believe that solving the binary-modelling problem will require different communities to work together. This is why I helped start a series of meetings bringing together researchers working on scattering amplitudes, post-Minkowskian and post-Newtonian theory, gravitational self-force, effective-one-body methods, numerical relativity and data analysis. These meetings are extremely important to me: they give people the time to compare methods, find useful cross-checks and start new collaborations.
+I am excited about new applications of particle-physics tools to gravity, and I believe that solving the binary-modelling problem will require different communities to work together. To work towards this, I helped start a series of meetings bringing together researchers working on scattering amplitudes, gravitational self-force and related approaches to binary dynamics. These meetings are extremely important to me because they give people the chance to share methods, join forces on difficult problems and start new collaborations.
 
 ## Programme series
 
@@ -18,7 +18,7 @@ I am excited about new applications of particle-physics tools to gravity, and I 
 
 ### 2026 — Nordita, Stockholm
 
-**Nordita programme main coordinator and organiser**, *Amplitudes, Strong-Field Gravity, and Resummation*, Stockholm. Two-week programme including a one week PhD school and a one week workshop, with about 120 participants.
+**Nordita programme main coordinator and organiser** (with Lucile Cangemi, Paolo Di Vecchia, Chris Kavanagh, Adam Pound and Geraint Pratten), *Amplitudes, Strong-Field Gravity, and Resummation*, Stockholm. Two-week programme including a one week PhD school and a one week workshop, with about 120 participants.
 
 [Programme](https://indico.fysik.su.se/event/9143/overview){: .btn}
 [Nordita article](https://nordita.org/news-archive/news-2026/bringing-together-communities-to-improve-precision-in-gravitational-wave-modeling/){: .btn}
@@ -29,7 +29,7 @@ I am excited about new applications of particle-physics tools to gravity, and I 
 
 ### 2025 — Southampton
 
-**Workshop organiser**, *2nd Annual Workshop on Self-Force and Amplitudes*, University of Southampton. One week workshop with about 70 participants.
+**Workshop organiser** (with Chris Kavanagh, Zach Nasipak, Jan Plefka and Adam Pound), *2nd Annual Workshop on Self-Force and Amplitudes*, University of Southampton. One week workshop with about 70 participants.
 
 [Workshop](https://indico.cern.ch/event/1485758/){: .btn}
 
@@ -39,7 +39,7 @@ I am excited about new applications of particle-physics tools to gravity, and I 
 
 ### 2024 — Higgs Centre, Edinburgh
 
-**Higgs Centre workshop main coordinator and organiser**, *Gravitational Self-Force and Scattering Amplitudes*, Edinburgh. One week workshop with about 40 participants.
+**Higgs Centre workshop main coordinator and organiser** (with Chris Kavanagh, Adam Pound and Mao Zeng), *Gravitational Self-Force and Scattering Amplitudes*, Edinburgh. One week workshop with about 40 participants.
 
 [Workshop](https://higgs.ph.ed.ac.uk/workshops/gravitational-self-force-and-scattering-amplitudes/){: .btn}
 
