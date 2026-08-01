@@ -1,67 +1,160 @@
 ---
-title: "Research"
+title: 'Research interests'
 excerpt:
 author_profile: true
 permalink: /research/
-mathjax: true
 ---
 
 <p align="center">
-  <img src="/images/Research_diagram.jpg" alt="Diagram connecting post-Minkowskian, post-Newtonian and gravitational self-force methods for waveform modelling" style="max-width:100%; border-radius:8px; margin-bottom:20px;">
+  <img src="/images/Research_diagram.jpg" alt="Research framework diagram" style="max-width:100%; border-radius: 8px; margin-bottom: 20px;">
 </p>
 
-## My work at a glance
-
-I am a theoretical physicist with over eight years of research experience spanning high-energy physics and general relativity. My work focuses on the analytical description of gravitational binary systems and their waveforms, combining particle-physics tools -- such as scattering amplitudes -- with post-Newtonian and gravitational self-force methods. During my PhD, I developed a direct link between on-shell scattering amplitudes and gravitational waveforms. Since then, I have developed methods for translating results between scattering and bound Kerr orbits, including their gravitational waveforms, as well as a new effective field theory formulation of gravitational self-force for bound orbits.
+## My Work at a Glance
+I am a theoretical physicist with over eight years of research experience spanning high-energy physics and general relativity. My work focuses on the analytical description of gravitational binary systems and their waveforms, combining particle-physics tools -- such as scattering amplitudes -- with post-Newtonian and gravitational self-force methods. During my PhD, I developed a direct link between on-shell scattering amplitudes and gravitational waveforms. Since then, I have developed methods for translating results between scattering and bound Kerr orbits, including their gravitational waveforms, as well as a new effective field theory formulation of gravitational self-force for bound orbits. Overall, my research has involved international collaborations with more than thirty researchers across Europe, North America and Asia.
 
 In 2026, I was awarded the prestigious [Royal Society University Research Fellowship](https://royalsociety.org/grants/university-research/), an eight-year fellowship with a total programme value of £1.8 million, for the project *High-precision effective field theory for extreme-mass-ratio inspirals*. My long-term vision is to build a unified framework that connects weak-field Post-Minkowskian and post-Newtonian theory with strong-field methods from the self-force approach, leading to improved waveform models for current (LIGO--Virgo--KAGRA) and future (LISA, ET and CE) gravitational-wave detectors.
 
-<details open>
-<summary><strong>Gravitational waveforms from scattering amplitudes</strong></summary>
 
-Together with A. Cristofoli, D. Kosower and D. O'Connell, I helped establish a framework to compute gravitational waveforms directly from on-shell scattering amplitudes in the post-Minkowskian expansion. With various collaborators, I also studied an extension of the eikonal formalism using coherent states, showing how classical gravitational waves emerge from the quantum point-particle description.
 
-With F. Alessio and C. Shi, I defined a new set of classical generating functionals from the S-matrix formalism. Within this setting, two-body scattering observables can be derived in gauge-invariant form through the application of Dirac brackets, providing an efficient framework for the analytic modelling of precessing Kerr black-hole binaries.
+## <span style="display: flex; align-items: center;">Gravitational Waveforms from Scattering Amplitudes <span onclick="toggleVisibility('waveforms')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-waveforms" style="display: inline-block; transform: rotate(0deg); transition: transform 0.5s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
+<div id="waveforms" style="max-height: 1000px; overflow: hidden; transition: max-height 0.5s ease-out; text-align: justify;">
+  Together with A. Cristofoli, D. Kosower and D. O’Connell, I helped establish a framework to compute <span style="color:#6c757d;font-weight:600;">gravitational waveforms directly from on-shell scattering amplitudes</span> in the post-Minkowskian expansion. With various collaborators, I also studied a <span style="color:#6c757d;font-weight:600;">novel extension of the eikonal formalism using coherent states</span>, showing how classical gravitational waves emerge from the quantum point-particle description. <br><br>
 
-</details>
+ Most recently, with F. Alessio and C. Shi, I defined a <span style="color:#6c757d;font-weight:600;">new set of classical generating functionals</span> from the S-matrix formalism. Within this setting, all two-body scattering observables can be derived in gauge-invariant form through the application of Dirac brackets, providing an efficient framework for the analytic modeling of precessing Kerr black hole binaries.
 
-<details open>
-<summary><strong>Scatter-to-bound dictionary for Kerr geodesics and waveforms</strong></summary>
+</div>
 
-With C. Shi, I established gauge-invariant maps between scattering and bound geodesic observables in Kerr spacetime, formulating the analytic continuation between scattering and bound actions and related observables for generic orbits.
+## <span style="display: flex; align-items: center;">Scatter-to-Bound Dictionary for Kerr Geodesics and Waveforms<span onclick="toggleVisibility('dictionary')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-dictionary" style="display: inline-block; transform: rotate(0deg); transition: transform 0.5s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
+<div id="dictionary" style="max-height: 1000px; overflow: hidden; transition: max-height 0.5s ease-out; text-align: justify;">
+  With C. Shi, I established novel <span style="color:#6c757d;font-weight:600;">gauge-invariant maps between scattering and bound geodesic observables in Kerr spacetime</span>, formulating the analytic continuation between scattering and bound actions and related observables for generic orbits. <br><br>
 
-With T. Adamo and A. Ilderton, I developed a classical Bethe--Salpeter framework that connects the analytic S-matrix to the bound dynamics, showing how scattering waveforms can be resummed into periodic bound-state waveforms. This construction shows that a resummation of the weak-field expansion is essential to recover orbital periodicity.
+  With T. Adamo and A. Ilderton, I developed a classical Bethe–Salpeter framework that connects the analytic S-matrix to the bound dynamics, showing how <span style="color:#6c757d;font-weight:600;">scattering waveforms can be resummed into periodic bound-state waveforms</span>. This construction shows that a <span style="color:#6c757d;font-weight:600;">resummation of the weak-field expansion is essential to recover orbital periodicity</span>. 
+  
+  The gravitational self-force framework naturally implements this resummation, providing a bridge between perturbative scattering data and bound-state dynamics. Along this line, I co-authored with J. Lewis and A. Pound the <span style="color:#6c757d;font-weight:600;">"first law of black-hole scattering"</span>, relating elapsed proper time directly to the Detweiler redshift — a central gauge-invariant building block for waveform modeling.
+</div>
 
-With J. Lewis and A. Pound, I developed the first law of binary black-hole scattering, relating elapsed proper time directly to the Detweiler redshift.
+## <span style="display: flex; align-items: center;">Self-Force EFT for Kerr BHs: Resummation from Weak to Strong-field <span onclick="toggleVisibility('selforce')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-selforce" style="display: inline-block; transform: rotate(0deg); transition: transform 0.5s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
+<div id="selforce" style="max-height: 1000px; overflow: hidden; transition: max-height 0.5s ease-out; text-align: justify;">
+  With D. Akpinar and V. del Duca, I constructed the <span style="color:#6c757d;font-weight:600;">first spinning self-force EFT</span> at first self-force order (1SF), deriving the related effective action for Kerr black holes to quadratic order in spin and reformulating the equation for the metric perturbation in this framework. <br><br>
 
-</details>
+  This framework revealed new spinning recoil operators and established a <span style="color:#6c757d;font-weight:600;">direct relation between weak-field post-Minkowskian expansions and strong-field self-force results</span>. It further highlights <span style="color:#6c757d;font-weight:600;">promising resummation strategies for extending the weak-field expansion into the strong-field regime</span>, especially near the separatrix between scattering and plunging orbits where point-particle divergences emerge.
+</div>
 
-<details open>
-<summary><strong>Self-force EFT for Kerr black holes: from weak to strong field</strong></summary>
+## <span style="display: flex; align-items: center;">Research Highlights <span onclick="toggleVisibility('highlights')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-highlights" style="display: inline-block; transform: rotate(0deg); transition: transform 0.5s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
+<div id="highlights" style="max-height: 2000px; overflow: hidden; transition: max-height 0.5s ease-out;">
 
-With D. Akpinar and V. Del Duca, I constructed the first spinning self-force EFT at first self-force order (1SF), deriving the related effective action for Kerr black holes to quadratic order in spin and reformulating the equation for the metric perturbation in this framework.
+  <style>
+    #highlights .pub { display:flex; align-items:center; gap:16px; margin-bottom:20px; } /* optional tidy */
+    #highlights .pub-body { flex: 1 1 0; min-width: 0; }
+    #highlights .pub-thumb { height:auto; }
+    @media (max-width: 720px) {
+      #highlights .pub { flex-direction: column !important; align-items: flex-start !important; }
+      #highlights .pub-thumb { width: 100% !important; max-width: 420px; margin: 0 0 8px 0 !important; }
+    }
+  </style>
 
-This framework revealed new spinning recoil operators and established a direct relation between weak-field post-Minkowskian expansions and strong-field self-force results. It also points towards resummation strategies for extending the weak-field expansion into the strong-field regime, especially near the separatrix between scattering and plunging orbits.
+   <!-- Publication 1 -->
+  <div class="pub" style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img class="pub-thumb" src="/images/PRD_1SF_spinning.jpeg" alt="Publication 1" style="width: 150px; height: auto; margin-right: 20px;">
+    <div class="pub-body" style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
+      <h3 style="margin: 0;"><a href="https://doi.org/10.1103/fs74-84v6" target="_blank">The spinning self-force EFT: 1SF waveform recursion relation and Compton scattering</a></h3>
+      <p style="font-size: 0.9em; margin: 5px 0;color:#9BA1A6">Dogan Akpinar, Vittorio Del Duca, <b>Riccardo Gonzo</b> — <i>Phys. Rev. D</i> 112, 084014 (2025)</p>
+      <p style="font-size: 0.9em; margin: 5px 0;color:#51585e"><i>Development of an effective-field-theory framework at first self-force order for spinning binaries; with a new waveform recursion relation and novel connections between weak and strong-field.</i></p>
+    </div>
+  </div>
 
-</details>
+  <!-- Publication 2 -->
+  <div class="pub" style="display: flex; align-items: center; margin-bottom: 20px;">
+    <!-- MOVED: image appears first so it stacks above on mobile -->
+    <img class="pub-thumb" src="/images/PRL_scattering_bound.png" alt="Publication 2" style="width: 220px; height: auto; margin-right: 20px;">
+    <div class="pub-body" style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
+      <h3 style="margin: 0;"><a href="https://doi.org/10.1103/PhysRevLett.133.221401" target="_blank">Scattering and bound observables for spinning particles in Kerr spacetime with generic spin orientations</a></h3>
+      <p style="font-size: 0.9em; margin: 5px 0;color:#9BA1A6"><b>Riccardo Gonzo</b>, Canxin Shi — <i>Physical Review Letters</i> 133, 221401 (2024)</p>
+      <p style="font-size: 0.9em; margin: 5px 0;color:#51585e"><i>Novel on-shell Dirac bracket framework relating the radial action to observables for test spinning particles in Kerr, with interesting implications for the scatter-to-bound map for precessing spinning binaries.</i></p>
+    </div>
+  </div>
 
-<details open>
-<summary><strong>High-energy gravitational scattering and resummation</strong></summary>
+  <!-- Publication 3 -->
+  <div class="pub" style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img class="pub-thumb" src="/images/waveform_modelling.png" alt="Illustration of gravitational-wave modelling" style="width: 220px; height: auto; margin-right: 20px;">
+    <div class="pub-body" style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
+      <h3 style="margin: 0;"><a href="https://doi.org/10.1103/PhysRevD.106.056007" target="_blank">Waveforms from amplitudes</a></h3>
+      <p style="font-size: 0.9em; margin: 5px 0;color:#9BA1A6">Andrea Cristofoli, <b>Riccardo Gonzo</b>, David A. Kosower, Donal O'Connell — <i>Physical Review D</i> 106, 056007 (2022), Editor's Suggestion</p>
+      <p style="font-size: 0.9em; margin: 5px 0;color:#51585e"><i>This work introduced amplitude-based methods for computing gravitational waveforms in the two-body problem.</i></p>
+    </div>
+  </div>
 
-With collaborators, I have studied gravitational amplitudes in the Regge limit, classical 5PM logarithms and the resummation of energy loss using critical orbits. This work connects ultra-relativistic scattering, shock-wave methods and strong-field information relevant to waveform modelling.
+</div>
 
-</details>
 
-## Selected results
+## <span style="display: flex; align-items: center;">News & Media Coverage <span onclick="toggleVisibility('news')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-news" style="display: inline-block; transform: rotate(0deg); transition: transform 1s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
+<div id="news" style="max-height: 2000px; overflow: hidden; transition: max-height 0.5s ease-out;">
+  <div style="margin-bottom: 10px;"></div>
 
-- [The spinning self-force EFT: 1SF waveform recursion relation and Compton scattering](https://doi.org/10.1103/fs74-84v6), *Physical Review D* **112**, 084014 (2025), Editor's Suggestion.
-- [First Law of Binary Black Hole Scattering](https://doi.org/10.1103/s85p-gh7b), *Physical Review Letters* **135**, 131401 (2025), Editor's Suggestion and PRL Collection of the Year 2025.
-- [Scattering and Bound Observables for Spinning Particles in Kerr Spacetime with Generic Spin Orientations](https://doi.org/10.1103/PhysRevLett.133.221401), *Physical Review Letters* **133**, 221401 (2024).
-- [Gravitational bound waveforms from amplitudes](https://doi.org/10.1007/JHEP05(2024)034), *JHEP* **05**, 034 (2024).
-- [Resummed energy loss in extreme-mass-ratio scattering using critical orbits](https://doi.org/10.1103/pxzz-dl2b), *Physical Review D* **113**, 104042 (2026).
+  <!-- FIRST LAW SCATTERING — PRL Editors' Suggestion -->
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
+    <h3 style="margin: 0;color:#51585e">First Law of Binary Black Hole Scattering</h3>
+    <ul style="font-size: 0.95em; margin: 5px 0;color:#51585e;text-align:justify">
+      <li style="font-size: 0.9em; color: #9BA1A6;">
+        <a href="https://link.aps.org/doi/10.1103/s85p-gh7b" target="_blank">Physical Review Letters</a> — <strong>Editors’ Suggestion</strong>
+      </li>
+    </ul>
+  </div>
+</div>
 
-## Recognition and media
+  <!-- 1SF SPINNING — PRD Editors' Suggestion -->
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
+      <h3 style="margin: 0;color:#51585e">The spinning self-force EFT: 1SF waveform recursion relation and Compton scattering</h3>
+      <ul style="font-size: 0.95em; margin: 5px 0;color:#51585e;text-align:justify">
+        <li style="font-size: 0.9em; color: #9BA1A6;">
+          <a href="https://doi.org/10.1103/fs74-84v6" target="_blank">Physical Review D</a> — <strong>Editors’ Suggestion</strong>
+        </li>
+      </ul>
+    </div>
+  </div>
 
-- [*Quanta Magazine*: Massive Black Holes Shown to Act Like Quantum Particles](https://www.quantamagazine.org/massive-black-holes-shown-to-act-like-quantum-particles-20220329/)
-- [Nordita: Bringing together communities to improve precision in gravitational-wave modeling](https://nordita.org/news-archive/news-2026/bringing-together-communities-to-improve-precision-in-gravitational-wave-modeling/)
-- [4gravitons: Classicality Has Consequences](https://4gravitons.com/2021/12/31/classicality-has-consequences/)
+  <!-- WAVEFORMS FROM AMPLITUDES — PRD Editors' Suggestion -->
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
+      <h3 style="margin: 0;color:#51585e">Waveforms from amplitudes</h3>
+      <ul style="font-size: 0.95em; margin: 5px 0;color:#51585e;text-align:justify">
+        <li style="font-size: 0.9em; color: #9BA1A6;">
+          <a href="https://doi.org/10.1103/PhysRevD.106.056007" target="_blank">Physical Review D</a> — <strong>Editors’ Suggestion</strong>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- MEDIA COVERAGE — 4Gravitons & Quanta -->
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
+      <h3 style="margin: 0;color:#51585e">Media & popular-science coverage</h3>
+      <ul style="font-size: 0.95em; margin: 5px 0;color:#51585e;text-align:justify">
+        <li style="font-size: 0.9em; color: #9BA1A6;">
+          Discussion on 4Gravitons blog: <a href="https://4gravitons.com/2021/12/31/classicality-has-consequences/" target="_blank">Classicality Has Consequences</a>
+        </li>
+        <li style="font-size: 0.9em; color: #9BA1A6;">
+          <em>Quanta Magazine</em> article: <a href="http://www.quantamagazine.org/massive-black-holes-shown-to-act-like-quantum-particles-20220329/" target="_blank">Massive Black Holes Shown to Act Like Quantum Particles</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+<script>
+  function toggleVisibility(id) {
+    var element = document.getElementById(id);
+    var arrow = document.getElementById('arrow-' + id);
+    if (element.style.maxHeight === "2000px") {
+      element.style.maxHeight = "0px";
+      arrow.style.transform = "rotate(180deg)";
+    } else {
+      element.style.maxHeight = "2000px";
+      arrow.style.transform = "rotate(0deg)";
+    }
+  }
+</script>
+

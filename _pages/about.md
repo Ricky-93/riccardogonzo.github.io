@@ -1,40 +1,105 @@
 ---
 permalink: /
-title: "Riccardo Gonzo"
+title: 'Riccardo Gonzo'
 excerpt:
 author_profile: true
-description: "Royal Society University Research Fellow working at the interface of high-energy physics, general relativity and gravitational-wave modelling."
+description: 'A theoretical physicist exploring the intersection of high-energy physics and general relativity, who fell in love with amplitudes and gravitational waves.'
 redirect_from:
   - /about/
   - /about.html
 ---
 
-Welcome! I am Riccardo Gonzo, a theoretical physicist with over eight years of research experience spanning high-energy physics and general relativity. My work focuses on the analytical description of gravitational binary systems and their waveforms, combining particle-physics tools -- such as scattering amplitudes -- with post-Newtonian and gravitational self-force methods.
-
-In 2026, I was awarded the prestigious [Royal Society University Research Fellowship](https://royalsociety.org/grants/university-research/), an eight-year fellowship with a total programme value of £1.8 million, for the project *High-precision effective field theory for extreme-mass-ratio inspirals*. My long-term vision is to build a unified framework that connects weak-field Post-Minkowskian and post-Newtonian theory with strong-field methods from the self-force approach, leading to improved waveform models for current (LIGO--Virgo--KAGRA) and future (LISA, ET and CE) gravitational-wave detectors.
-
-[Research](/research/){: .btn .btn--primary}
-[Programmes and workshops](/programmes/){: .btn}
-[Download CV](/files/Riccardo_Gonzo_CV_Default.pdf){: .btn}
+Welcome! I am Riccardo Gonzo, a Royal Society University Research Fellow at the [University of Southampton](https://www.southampton.ac.uk/){:target="_blank"}<!--_-->. Previously, I was a postdoctoral researcher at the [Centre for Theoretical Physics, Queen Mary University of London](https://www.seresearch.qmul.ac.uk/cfp/){:target="_blank"}<!--_--> and the [Higgs Centre for Theoretical Physics, University of Edinburgh](https://www.ph.ed.ac.uk/higgs){:target="_blank"}<!--_-->. My research lies at the interface of high-energy physics and general relativity, with the goal of developing new analytical tools for modelling gravitational-wave signals from binary black hole systems.
 
 ## What I think about all day (and sometimes all night)
 
 <p align="center">
-  <img src="/images/waveform_modelling.png" alt="Illustration of the inspiral, merger and ringdown of a binary system and its gravitational waveform" style="max-width:100%; border-radius:8px; margin-bottom:20px;">
+  <img src="/images/waveform_modelling.png" alt="Waveform modelling" style="max-width:100%; border-radius: 8px; margin-bottom: 20px;">
 </p>
 
-Most of my time goes into understanding how gravity works when two black holes interact and spiral together. To tackle this, I combine modern tools from particle physics -- such as scattering amplitudes -- with traditional methods from general relativity, including the self-force expansion.
+<p> Most of my time goes into understanding how gravity works when two black holes interact and spiral together. To tackle this, I combine modern tools from particle physics — such as scattering amplitudes — with traditional methods from general relativity, including the self-force expansion. My goal is to develop a unified analytic framework that describes binary dynamics across all regimes, from the weak-field inspiral to the strong-field merger and ringdown. </p>
 
-During my PhD, I developed a direct link between on-shell scattering amplitudes and gravitational waveforms. Since then, I have developed methods for translating results between scattering and bound Kerr orbits, including their gravitational waveforms, as well as a new effective field theory formulation of gravitational self-force for bound orbits. Overall, my research has involved international collaborations with more than thirty researchers across Europe, North America and Asia.
+<p> In practice, this means developing theoretical models to describe gravitational waveforms, the signals detected by ground- and space-based interferometers, from LIGO–Virgo–KAGRA today to LISA and the Einstein Telescope in the future. I am particularly excited about how amplitude-based ideas can simplify calculations and uncover hidden structures in gravity, providing new ingredients for accurate waveform modelling and, ultimately, deeper insights into both fundamental physics and astrophysics. </p>
 
-### Who I work with
+<!-- My works have been published in Physical Review X, Physical Review Letters, Proceedings of the National Academy of Sciences (PNAS), and Science Advances, among others. I have presented my work at several international conferences and workshops, -->
 
-This is my collaboration network: each node represents a co-author, preprint or journal article. Click on a node for more information.
+<h3>Who I work with</h3>
+<p>This is my collaboration network: the color of each node specifies either a <span style="color:#d6d2d2;font-weight:600;">co-author</span>, a <span style="color:#79addc;font-weight:600;">preprint</span> or <span style="color:#9e1910;font-weight:600;">journal article</span>. Click on a node for more information.</p>
 
-<iframe src="/collab_net/network.html" title="Interactive collaboration network" loading="lazy" height="340" width="100%" style="border:0;"></iframe>
+ <iframe src="/collab_net/network.html" height="300" width="100%" style="border: none"></iframe>
 
-### Where my research takes me
+<h3>Where my research takes me</h3>
+The markers on the map represent a conference, workshop, or institute where I presented my work: <span style="color:darkred;font-weight:600;">invited conference talks</span>, <span style="color:blue;font-weight:600;">invited seminars</span>, <span style="color:darkblue;font-weight:600;">contributed talks</span>
+<!-- optional if you enable it: --> and <span style="color:gray;font-weight:600;">discussion sessions</span>. Click on a marker for more information.
 
-The markers on the map represent invited conference and workshop talks, invited seminars, contributed talks and discussion sessions. Click on a marker for more information.
+<div style="margin-bottom: 20px;"></div>
+ <iframe src="/talkmap/talks_map.html" height="300" width="100%" style="border: none"></iframe>
 
-<iframe src="/talkmap/talks_map.html" title="Interactive map of talks and research visits" loading="lazy" height="340" width="100%" style="border:0;"></iframe>
+
+
+<script>
+  function toggleVisibility(id) {
+    var element = document.getElementById(id);
+    var arrow = document.getElementById('arrow-' + id);
+    if (element.style.maxHeight === "2000px") {
+      element.style.maxHeight = "0px";
+      arrow.style.transform = "rotate(180deg)";
+    } else {
+      element.style.maxHeight = "2000px";
+      arrow.style.transform = "rotate(0deg)";
+    }
+  }
+</script>
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "ProfilePage",
+  "mainEntity": {
+    "@type": "Person",
+    "@id": "https://riccardogonzo.com",
+    "name": "Riccardo Gonzo",
+    "nationality": "Italian",
+    "honorificPrefix": "Dr.",
+    "jobTitle": "Royal Society University Research Fellow",
+    "affiliation": [
+      {
+        "@type": "Organization",
+        "name": "University of Southampton",
+        "sameAs": [
+          "https://www.southampton.ac.uk/"
+        ]
+      }
+    ],
+    "alumniOf": [
+      {
+        "@type": "CollegeOrUniversity",
+        "name": "Trinity College Dublin",
+        "sameAs": "https://www.tcd.ie/"
+      },
+      {
+        "@type": "CollegeOrUniversity",
+        "name": "University of Padova",
+        "sameAs": "https://www.unipd.it/"
+      }
+    ],
+    "gender": "Male",
+    "description": "A theoretical physicist exploring the intersection of high-energy physics and general relativity, who fell in love with amplitudes and gravitational waves.",
+    "url": "https://riccardogonzo.com",
+    "image": "https://riccardogonzo.com/images/profile_picture.jpg",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Southampton",
+      "addressCountry": "United Kingdom"
+    },
+    "sameAs": [
+      "https://scholar.google.com/citations?user=TDT1fI0AAAAJ&hl=en",
+      "https://orcid.org/0000-0001-7285-6295",
+      "https://inspirehep.net/authors/1812058?ui-citation-summary=true",
+      "https://www.researchgate.net/profile/Riccardo-Gonzo",
+      "https://www.linkedin.com/in/riccardogonzo/"
+    ]
+  }
+}
+</script>

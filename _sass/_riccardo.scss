@@ -1,4 +1,4 @@
-/* Site-specific refinements. The underlying AcademicPages theme is unchanged. */
+/* Site-specific visual refinements. */
 
 $rg-ink: #263945;
 $rg-ochre: #a96f16;
@@ -65,4 +65,17 @@ details summary {
 
 iframe {
   max-width: 100%;
+}
+
+.programme-poster {
+  margin: 1rem auto 1.6rem;
+  text-align: center;
+}
+
+.programme-poster img {
+  width: 100%;
+  max-width: 430px;
+  height: auto;
+  border: 1px solid rgba(38, 57, 69, 0.15);
+  box-shadow: 0 3px 12px rgba(38, 57, 69, 0.10);
 }

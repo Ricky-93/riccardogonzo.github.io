@@ -4,8 +4,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-[Download default CV](/files/Riccardo_Gonzo_CV_Default.pdf){: .btn .btn--primary}
-[Download full CV](/files/Riccardo_Gonzo_CV_Master.pdf){: .btn}
+[Download CV](/files/Riccardo_Gonzo_CV.pdf){: .btn .btn--primary}
 
 ## Research profile
 
@@ -35,11 +34,9 @@ More than **£2 million in competitive fellowship and programme funding** secure
 
 ## Publications and research impact
 
-I have 22 papers, including 20 published in renowned journals such as *Journal of High Energy Physics*, *Physical Review D* and *Physical Review Letters*, with over 1100 citations and an h-index of 16 according to INSPIRE--HEP (July 2026).
+I have 22 papers, including 20 published in renowned journals such as *Journal of High Energy Physics*, *Physical Review D* and *Physical Review Letters*, with over 1100 citations and an h-index of 16 according to INSPIRE--HEP.
 
 [Publication list](/publications/){: .btn}
-[INSPIRE--HEP](https://inspirehep.net/authors/1812058?ui-citation-summary=true){: .btn}
-[ORCID](https://orcid.org/0000-0001-7285-6295){: .btn}
 
 ## International programmes and workshops
 
@@ -56,7 +53,7 @@ I started a series of meetings to connect the general-relativity and particle ph
 
 ## Invited presentations
 
-I have given more than 20 invited conference and workshop talks and more than 25 invited seminars. The complete record, including four invited discussion sessions, is available on the [talks page](/talks/) and in the full CV.
+I have given more than 20 invited conference and workshop talks and more than 25 invited seminars. The complete record, including four invited discussion sessions, is available on the [talks page](/talks/).
 
 ## Teaching, service and memberships
 

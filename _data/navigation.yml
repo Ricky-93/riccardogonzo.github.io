@@ -1,10 +1,11 @@
-# Main navigation
+# Main navigation. The original ordering is retained as far as possible,
+# with the new Programmes page added before Video Lectures.
 main:
   - title: "Research"
     url: /research/
 
-  - title: "Programmes"
-    url: /programmes/
+  - title: "CV"
+    url: /cv/
 
   - title: "Publications"
     url: /publications/
@@ -15,8 +16,8 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Resources"
-    url: /video-lectures/
+  - title: "Programmes"
+    url: /programmes/
 
-  - title: "CV"
-    url: /cv/
+  - title: "Video Lectures"
+    url: /video-lectures/
