@@ -55,4 +55,4 @@ I am excited about new applications of particle-physics tools to gravity, and I 
 
 ## Funding
 
-These meetings have received **£140k in competitive funding**: GGI six-week programme (£83.7k); ICTP-SAIFR two-week programme (£25k); Nordita two-week programme (£20.6k); and Higgs Centre workshop (£10.4k). I was main coordinator of the GGI and Nordita programmes and the Higgs Centre workshop, and co-organiser of the ICTP-SAIFR programme.
+I am grateful for the support that has made these meetings possible: £83.7k from GGI, £25k from ICTP-SAIFR, £20.6k from Nordita and £10.4k from the Higgs Centre, for a total of nearly £140k.
