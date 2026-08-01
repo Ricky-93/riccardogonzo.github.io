@@ -4,7 +4,7 @@ permalink: /programmes/
 author_profile: true
 ---
 
-In parallel with my research, I started a series of meetings to connect the general-relativity and particle physics approaches to binary dynamics, which had often developed separately. The first workshop in Edinburgh focused on scattering amplitudes and self-force; the later meetings covered a wider range of approaches including post-Newtonian, effective-one-body, numerical-relativity and data-analysis methods. The goal has been to develop a common language across these communities, compare methods, identify priorities for waveform modelling and start new collaborations in preparation for future gravitational-wave detectors. I secured competitive funding for the series and was main coordinator for the Edinburgh and Nordita meetings and the upcoming GGI programme.
+I am excited about new applications of particle-physics tools to gravity, but I do not think the binary problem will be solved by one community working alone. With this in mind, I started a series of meetings bringing together researchers in scattering amplitudes, post-Minkowskian and post-Newtonian theory, gravitational self-force, effective-one-body methods, numerical relativity and data analysis. The series began in Edinburgh with a workshop on scattering amplitudes and self-force, and has since grown to cover a wider range of approaches. The aim is to compare methods, identify calculations that can be checked across approaches, and start collaborations for future gravitational-wave modelling.
 
 ## Programme series
 

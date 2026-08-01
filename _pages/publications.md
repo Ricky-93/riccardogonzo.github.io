@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-I have 22 papers, including 20 published in renowned journals such as *Journal of High Energy Physics*, *Physical Review D* and *Physical Review Letters*, with over 1100 citations and an h-index of 16 according to INSPIRE--HEP.
+Here you can explore my research papers, with links to the journal, arXiv version and a short abstract for each work. My complete publication record is also available on [INSPIRE--HEP](https://inspirehep.net/authors/1812058?ui-citation-summary=true).
 
 ## Collaboration network
 

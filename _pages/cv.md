@@ -14,7 +14,7 @@ In 2026, I was awarded the prestigious [Royal Society University Research Fellow
 
 ## Academic appointments
 
-- **2026-- — Royal Society University Research Fellow**, University of Southampton, Southampton.
+- **2026--ongoing — Royal Society University Research Fellow**, University of Southampton, Southampton.
 - **2025--2026 — Postdoctoral Research Associate**, Queen Mary University of London, London.
 - **2022--2025 — Postdoctoral Research Associate**, University of Edinburgh, Edinburgh.
 
@@ -29,14 +29,14 @@ More than **£2 million in competitive fellowship and programme funding** secure
 ## Education
 
 - **2018--2022 — PhD in Theoretical Particle Physics**, Trinity College Dublin. Supervisor: Prof. Ruth Britto. Thesis: [*Coherent states and classical radiative observables in the S-matrix formalism*](http://www.tara.tcd.ie/handle/2262/98491). During my PhD, I won a prestigious and competitive Marie-Curie International Training Network fellowship, *Scattering Amplitudes: from Geometry to Experiments* (SAGEX). The fellowship gave me research training through dedicated workshops and schools and a three-month internship at Wolfram Research, as well as training in scientific writing, presentation skills, STEM outreach, grant writing, time and project management, career development and good scientific practice.
-- **2015--2017 — MSc in Theoretical Physics**, University of Padova, 110/110 *cum laude*. Erasmus+ exchange at the University of Göttingen for the MSc thesis *The infinite-spin representations of the Poincaré group*. Final GPA: 29.5/30, with five examinations (34 ECTS) beyond the degree requirements.
-- **2012--2015 — BSc in Physics**, University of Padova, 110/110 *cum laude*. Final GPA: 29.6/30, with one examination (6 ECTS) beyond the degree requirements.
+- **2015--2017 — MSc in Theoretical Physics**, University of Padova, 110/110 *cum laude*. Erasmus+ exchange at the University of Göttingen for the MSc thesis *The infinite-spin representations of the Poincaré group*. Final GPA: 29.5/30. I also completed five extra examinations (34 ECTS) beyond the degree requirements.
+- **2012--2015 — BSc in Physics**, University of Padova, 110/110 *cum laude*. Final GPA: 29.6/30. I also completed one extra examination (6 ECTS) beyond the degree requirements.
 
 ## Publications and research impact
 
-I have 22 papers, including 20 published in renowned journals such as *Journal of High Energy Physics*, *Physical Review D* and *Physical Review Letters*, with over 1100 citations and an h-index of 16 according to INSPIRE--HEP.
+You can find my research papers, together with journal and arXiv links and short abstracts, on the publications page.
 
-[Publication list](/publications/){: .btn}
+[Explore my publications](/publications/){: .btn}
 
 ## International programmes and workshops
 
@@ -46,7 +46,7 @@ I started a series of meetings to connect the general-relativity and particle ph
 
 ## Supervision and mentoring
 
-- **2024-- — PhD co-supervisor: Emanuele Rosi**, Sapienza University of Rome. Co-supervision with Prof. Vittorio Del Duca. I proposed the initial project on ultra-relativistic scattering in gravity using scattering amplitudes. We meet weekly, and the collaboration has already led to two joint papers.
+- **2024--ongoing — PhD co-supervisor: Emanuele Rosi**, Sapienza University of Rome. Co-supervision with Prof. Vittorio Del Duca. I proposed the initial project on ultra-relativistic scattering in gravity using scattering amplitudes. We meet weekly, and the collaboration has already led to two joint papers.
 - **2024 — MSc co-supervisor: Andrea de Simone**, Sapienza University of Rome. Six-month thesis on gravitational scattering amplitudes and the two-body problem.
 - **2024 — MSc co-supervisor: Damiano Barcaro**, Sapienza University of Rome. Six-month thesis: *Scattering waveforms for Kerr black holes from the soft expansion*; subsequently began a PhD at Johannes Gutenberg University Mainz.
 - **2022 — MSc supervisor: Leixi Wang**, University of Edinburgh. Four-month thesis, *Classical spacetimes from amplitudes*; I proposed the project and supervised it to the end.

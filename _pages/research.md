@@ -108,7 +108,7 @@ In 2026, I was awarded the prestigious [Royal Society University Research Fellow
     <img class="research-result-image" src="/images/research/waveforms_from_amplitudes.png" alt="Scattering process with a radiated waveform">
     <div>
       <h3><a href="https://doi.org/10.1103/PhysRevD.106.056007" target="_blank" rel="noopener">Waveforms from amplitudes</a></h3>
-      <p class="research-result-meta">Andrea Cristofoli, <strong>Riccardo Gonzo</strong>, David A. Kosower, Donal O'Connell &mdash; <em>Physical Review D</em> 106, 056007 (2022), Editors' Suggestion</p>
+      <p class="research-result-meta">Andrea Cristofoli, <strong>Riccardo Gonzo</strong>, David A. Kosower, Donal O'Connell &mdash; <em>Physical Review D</em> 106, 056007 (2022), <strong>Editor's Suggestion</strong></p>
       <p class="research-result-description">Established a framework for computing gravitational waveforms directly from on-shell scattering amplitudes.</p>
     </div>
   </div>
@@ -117,13 +117,13 @@ In 2026, I was awarded the prestigious [Royal Society University Research Fellow
     <img class="research-result-image" src="/images/research/first_law_scatter_to_bound.png" alt="Scattering-to-bound continuation of a gravitational waveform">
     <div>
       <h3><a href="https://doi.org/10.1103/s85p-gh7b" target="_blank" rel="noopener">First Law of Binary Black Hole Scattering</a></h3>
-      <p class="research-result-meta"><strong>Riccardo Gonzo</strong>, Jack Lewis, Adam Pound &mdash; <em>Physical Review Letters</em> 135, 131401 (2025), Editors' Suggestion; PRL Collection of the Year 2025</p>
+      <p class="research-result-meta"><strong>Riccardo Gonzo</strong>, Jack Lewis, Adam Pound &mdash; <em>Physical Review Letters</em> 135, 131401 (2025), <strong>Editor's Suggestion</strong>; <strong>PRL Collection of the Year 2025</strong></p>
       <p class="research-result-description">Extended the first law of binary mechanics to scattering orbits, including dissipative effects, and related the elapsed proper time in scattering to the Detweiler redshift for bound orbits.</p>
     </div>
   </div>
 
   <div class="research-result">
-    <img class="research-result-image" src="/images/research/scatter_to_bound_kerr.png" alt="Scattering-to-bound map from an unbound Kerr orbit to bound motion">
+    <img class="research-result-image" src="/images/research/scatter_to_bound_table.png" alt="Table relating scattering observables to bound frequencies for spinning particles in Kerr">
     <div>
       <h3><a href="https://doi.org/10.1103/PhysRevLett.133.221401" target="_blank" rel="noopener">Scattering and bound observables for spinning particles in Kerr spacetime with generic spin orientations</a></h3>
       <p class="research-result-meta"><strong>Riccardo Gonzo</strong>, Canxin Shi &mdash; <em>Physical Review Letters</em> 133, 221401 (2024)</p>
@@ -135,7 +135,7 @@ In 2026, I was awarded the prestigious [Royal Society University Research Fellow
     <img class="research-result-image" src="/images/research/self_force_eft.png" alt="Spinning compact object orbiting a Kerr black hole">
     <div>
       <h3><a href="https://doi.org/10.1103/fs74-84v6" target="_blank" rel="noopener">The spinning self-force EFT: 1SF waveform recursion relation and Compton scattering</a></h3>
-      <p class="research-result-meta">Dogan Akpinar, Vittorio Del Duca, <strong>Riccardo Gonzo</strong> &mdash; <em>Physical Review D</em> 112, 084014 (2025), Editors' Suggestion</p>
+      <p class="research-result-meta">Dogan Akpinar, Vittorio Del Duca, <strong>Riccardo Gonzo</strong> &mdash; <em>Physical Review D</em> 112, 084014 (2025), <strong>Editor's Suggestion</strong></p>
       <p class="research-result-description">Developed an effective-field-theory description of spinning Kerr black holes at first self-force order, connecting the metric perturbation, waveform and Compton amplitude.</p>
     </div>
   </div>

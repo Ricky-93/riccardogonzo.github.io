@@ -6,7 +6,10 @@
     <a href="{{ base_path }}{{ post.url }}">{{ title }}</a>
   </h3>
   <p class="archive__item-excerpt teaching-meta">
-    <strong>{{ post.date | date: "%Y" }}</strong> · {{ post.type }} · {{ post.venue }}{% if post.event_url %} · <a href="{{ post.event_url }}" target="_blank" rel="noopener noreferrer">[school]</a>{% endif %}
+    <strong>{{ post.date | date: "%Y" }}</strong> · {{ post.type }} · {{ post.venue }}
   </p>
+  {% if post.event_url %}
+    <p><a class="btn btn--small" href="{{ post.event_url }}" target="_blank" rel="noopener noreferrer">School webpage</a></p>
+  {% endif %}
   {% if post.excerpt %}<p>{{ post.excerpt }}</p>{% endif %}
 </article>
