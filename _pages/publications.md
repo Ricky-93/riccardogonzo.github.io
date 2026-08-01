@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Over the years, I have had the privilege of working with some amazing people on several interesting problems in gravitational physics. Below is a list of my publications. Links to the journal and arXiv versions, together with a short abstract, are provided for each paper. My complete publication record is also available on [INSPIRE--HEP](https://inspirehep.net/authors/1812058?ui-citation-summary=true).
+Over the years, I have had the privilege of working with some amazing people on several interesting problems in theoretical physics. Below is a list of my publications. Links to the journal and arXiv versions, together with a short abstract, are provided for each paper. My complete publication record is also available on [INSPIRE--HEP](https://inspirehep.net/authors/1812058?ui-citation-summary=true).
 
 ## Collaboration network
 
