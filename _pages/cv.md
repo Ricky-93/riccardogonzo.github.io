@@ -26,13 +26,13 @@ In 2026, I was awarded the prestigious [Royal Society University Research Fellow
 
 ## Education
 
-<table style="width:100%; border-collapse:collapse;">
+<table style="width:100%; border-collapse:collapse; font-size:16px; line-height:1.55;">
   <tr style="vertical-align:top;">
-    <td style="width:22%; text-align:right; padding:0 1rem 1.5rem 0;">
+    <td style="width:22%; text-align:right; padding:0 1.25rem 2rem 0; font-size:15px;">
       <strong>2018–2022</strong><br>
-      <img src="/images/tcd_logo.png" alt="Trinity College Dublin" style="display:block; width:115px; max-width:100%; margin:8px 0 0 auto;">
+      <img src="/images/tcd_logo.png" alt="Trinity College Dublin" style="display:block; width:125px; max-width:100%; margin:8px 0 0 auto;">
     </td>
-    <td style="padding:0 0 1.5rem 0;">
+    <td style="padding:0 0 2rem 0; font-size:16px;">
       <strong>PhD in Theoretical Particle Physics</strong>, Trinity College Dublin.<br>
       <strong>Supervisor:</strong> Prof. Ruth Britto.<br>
       <strong>Thesis:</strong> <a href="http://www.tara.tcd.ie/handle/2262/98491"><em>Coherent states and classical radiative observables in the S-matrix formalism</em></a>.<br>
@@ -40,22 +40,22 @@ In 2026, I was awarded the prestigious [Royal Society University Research Fellow
     </td>
   </tr>
   <tr style="vertical-align:top;">
-    <td style="width:22%; text-align:right; padding:0 1rem 1.5rem 0;">
+    <td style="width:22%; text-align:right; padding:0 1.25rem 2rem 0; font-size:15px;">
       <strong>2015–2017</strong><br>
-      <img src="/images/padova_logo.png" alt="University of Padova" style="display:block; width:115px; max-width:100%; margin:8px 0 0 auto;">
+      <img src="/images/padova_logo.png" alt="University of Padova" style="display:block; width:125px; max-width:100%; margin:8px 0 0 auto;">
     </td>
-    <td style="padding:0 0 1.5rem 0;">
+    <td style="padding:0 0 2rem 0; font-size:16px;">
       <strong>MSc in Theoretical Physics</strong>, University of Padova, 110/110 <em>cum laude</em>.<br>
       Erasmus+ exchange at the University of Göttingen for the MSc thesis <em>The infinite-spin representations of the Poincaré group</em>.<br>
       Final GPA: 29.5/30. I also completed five extra examinations (34 ECTS) beyond the degree requirements.
     </td>
   </tr>
   <tr style="vertical-align:top;">
-    <td style="width:22%; text-align:right; padding:0 1rem 0 0;">
+    <td style="width:22%; text-align:right; padding:0 1.25rem 0 0; font-size:15px;">
       <strong>2012–2015</strong><br>
-      <img src="/images/padova_logo.png" alt="University of Padova" style="display:block; width:115px; max-width:100%; margin:8px 0 0 auto;">
+      <img src="/images/padova_logo.png" alt="University of Padova" style="display:block; width:125px; max-width:100%; margin:8px 0 0 auto;">
     </td>
-    <td style="padding:0;">
+    <td style="padding:0; font-size:16px;">
       <strong>BSc in Physics</strong>, University of Padova, 110/110 <em>cum laude</em>.<br>
       Final GPA: 29.6/30. I also completed one extra examination (6 ECTS) beyond the degree requirements.
     </td>

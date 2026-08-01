@@ -24,12 +24,12 @@ Welcome! I am Riccardo Gonzo, a Royal Society University Research Fellow at the 
 <!-- My works have been published in Physical Review X, Physical Review Letters, Proceedings of the National Academy of Sciences (PNAS), and Science Advances, among others. I have presented my work at several international conferences and workshops, -->
 
 <h3>Who I work with</h3>
-<p>Over the course of my career, I have had the privilege of working with some amazing people on several interesting topics in particle physics and gravity. The network below shows these collaborations: click on a person or paper for more information.</p>
+<p>I have had the privilege of working with some amazing people on several interesting topics in particle physics and gravity. The network below shows these collaborations: click on a person or paper for more information.</p>
 
  <iframe src="/collab_net/network.html" height="300" width="100%" style="border: none"></iframe>
 
 <h3>Where my research takes me</h3>
-<p>I have had the good fortune to visit many wonderful places around the world to present my work. The markers show where I have given talks; click on them for more details.</p>
+<p>I have had the good fortune to visit many wonderful places around the world to present my work. The markers show where I have given talks: click on them for more details.</p>
 <div style="margin-bottom: 20px;"></div>
  <iframe src="/talkmap/talks_map.html" height="300" width="100%" style="border: none"></iframe>
 
