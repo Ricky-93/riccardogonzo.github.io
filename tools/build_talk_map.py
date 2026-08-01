@@ -7,9 +7,9 @@ Only events whose location is literally ``Online`` are collected in a clearly
 labelled virtual marker in the Atlantic; this keeps them visible without
 inventing a geographical location.
 
-Physical markers are placed in a Leaflet.markercluster group. Nearby markers
-cluster while zoomed out, and talks sharing the same coordinates spiderfy at
-maximum zoom so that every entry remains individually clickable.
+Physical markers are placed in a Leaflet.markercluster group. Markers remain individually visible at the initial world view. Only markers at the
+same (or effectively identical) coordinates are grouped, and clicking such a city
+group spiderfies the individual talks immediately.
 
 Dependencies:
     pip install pyyaml
@@ -136,7 +136,7 @@ html,body,#map{height:100%;margin:0}
 .map-legend div{margin:2px 0;white-space:nowrap}
 .legend-dot{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:6px;vertical-align:baseline}
 .online-dot{background:#a96f16;border:2px solid #a96f16;box-sizing:border-box}
-.online-hub{background:#a96f16;color:#fff;border:2px solid #fff;border-radius:50%;box-shadow:0 1px 5px rgba(0,0,0,.35);display:flex;align-items:center;justify-content:center;width:38px;height:38px;font:bold 11px/1 Arial,sans-serif;text-align:center}
+.online-hub{background:#a96f16;color:#fff;border:2px solid #fff;border-radius:50%;box-shadow:0 1px 5px rgba(0,0,0,.35);display:flex;align-items:center;justify-content:center;width:32px;height:32px;font:bold 11px/1 Arial,sans-serif;text-align:center}
 .online-label{background:rgba(255,255,255,.92);border:1px solid #d7c29a;border-radius:3px;color:#7a4d0d;font:bold 11px/1.2 Arial,sans-serif;padding:2px 5px;box-shadow:none}
 .online-list{margin:.45em 0 0 1.15em;padding:0}
 .online-list li{margin:0 0 .55em 0}
@@ -157,7 +157,11 @@ html,body,#map{height:100%;margin:0}
 const markers = __PAYLOAD__;
 const onlineOnly = __ONLINE_PAYLOAD__;
 const onlineHub = [18.0, -31.0];
-const map = L.map("map", {scrollWheelZoom: false}).setView([35, 0], 2);
+const map = L.map("map", {
+  scrollWheelZoom: false,
+  zoomSnap: 0.25,
+  zoomDelta: 0.5
+}).setView([25, 5], 2.25);
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
   maxZoom: 18,
   attribution: "&copy; OpenStreetMap contributors"
@@ -181,10 +185,10 @@ function clusterIcon(cluster) {
 const talkClusters = L.markerClusterGroup({
   showCoverageOnHover: false,
   spiderfyOnMaxZoom: true,
-  zoomToBoundsOnClick: true,
+  zoomToBoundsOnClick: false,
   removeOutsideVisibleBounds: true,
-  maxClusterRadius: 46,
-  spiderfyDistanceMultiplier: 1.25,
+  maxClusterRadius: 2,
+  spiderfyDistanceMultiplier: 1.45,
   spiderLegPolylineOptions: {weight: 1.4, color: "#666c70", opacity: 0.65},
   iconCreateFunction: clusterIcon
 });
@@ -200,13 +204,18 @@ for (const item of markers) {
   bounds.push([item.lat, item.lon]);
 }
 map.addLayer(talkClusters);
+// A grouped city opens immediately into its individual talks instead of
+// zooming into a large regional cluster.
+talkClusters.on("clusterclick", function(event) {
+  event.layer.spiderfy();
+});
 
 if (onlineOnly.length) {
   const icon = L.divIcon({
     className: "",
     html: `<div class="online-hub">Online<br>${onlineOnly.length}</div>`,
-    iconSize: [38, 38],
-    iconAnchor: [19, 19]
+    iconSize: [32, 32],
+    iconAnchor: [16, 16]
   });
   const onlineMarker = L.marker(onlineHub, {icon}).addTo(map);
   const items = onlineOnly.map(item =>
@@ -219,16 +228,9 @@ if (onlineOnly.length) {
     `<ul class="online-list">${items}</ul>`,
     {maxWidth: 390}
   );
-  onlineMarker.bindTooltip(`Online presentations (${onlineOnly.length})`, {
-    permanent: true,
-    direction: "right",
-    offset: [7, 0],
-    className: "online-label"
-  });
   bounds.push(onlineHub);
 }
 
-if (bounds.length) map.fitBounds(bounds, {padding: [20,20], maxZoom: 5});
 L.control.scale({imperial: false}).addTo(map);
 
 const legend = L.control({position: "bottomright"});
@@ -254,8 +256,8 @@ legend.addTo(map);
         print("\n".join(skipped))
     represented = len(markers) + len(online_only)
     print(
-        f"Wrote {OUTPUT} with {len(markers)} geolocated records in a "
-        f"cluster/spiderfy layer and one online marker representing "
+        f"Wrote {OUTPUT} with {len(markers)} geolocated records shown individually except for "
+        f"same-location spiderfy groups, and one online marker representing "
         f"{len(online_only)} locationless events ({represented} records represented)."
     )
 
