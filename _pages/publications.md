@@ -11,7 +11,7 @@ I have 22 papers, including 20 published in renowned journals such as *Journal o
 
 Each node represents a co-author, preprint or journal article. Click on a node for more information.
 
-<iframe src="/collab_net/network.html" title="Interactive publication and collaboration network" loading="lazy" height="340" width="100%" style="border:0;"></iframe>
+<iframe src="/collab_net/network.html" height="300" width="100%" style="border: none"></iframe>
 
 {% assign publications = site.publications | sort: "date" | reverse %}
 
