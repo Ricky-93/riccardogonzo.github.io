@@ -4,7 +4,7 @@ permalink: /programmes/
 author_profile: true
 ---
 
-I am excited about new applications of particle-physics tools to gravity, and I believe that people from different communities will need to work together to solve the binary problem and build accurate waveform models for future gravitational-wave detectors. With this in mind, I helped start a series of meetings bringing together researchers working on scattering amplitudes, post-Minkowskian and post-Newtonian theory, gravitational self-force, effective-one-body methods, numerical relativity and data analysis. These meetings matter a great deal to me because they give people time to compare methods, identify useful cross-checks and start new collaborations.
+I am excited about new applications of particle-physics tools to gravity, and I believe that solving the binary-modelling problem will require different communities to work together. This is why I helped start a series of meetings bringing together researchers working on scattering amplitudes, post-Minkowskian and post-Newtonian theory, gravitational self-force, effective-one-body methods, numerical relativity and data analysis. These meetings are extremely important to me: they give people the time to compare methods, find useful cross-checks and start new collaborations.
 
 ## Programme series
 

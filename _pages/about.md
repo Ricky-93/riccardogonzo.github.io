@@ -24,14 +24,12 @@ Welcome! I am Riccardo Gonzo, a Royal Society University Research Fellow at the 
 <!-- My works have been published in Physical Review X, Physical Review Letters, Proceedings of the National Academy of Sciences (PNAS), and Science Advances, among others. I have presented my work at several international conferences and workshops, -->
 
 <h3>Who I work with</h3>
-<p>Over the years, I have had the privilege of working with some amazing people on several interesting problems in gravitational physics. The network below shows the people I have worked with and the papers that came from these collaborations. Click on a person or paper for more information.</p>
+<p>Over the course of my career, I have had the privilege of working with some amazing people on several interesting topics. The network below gives an overview of these collaborations. Click on a person or paper for more information.</p>
 
  <iframe src="/collab_net/network.html" height="300" width="100%" style="border: none"></iframe>
 
 <h3>Where my research takes me</h3>
-<p>I have had the privilege of visiting many amazing places around the world to present my work. The markers show places where I have presented at conferences, workshops, seminars and local meetings. Click on a marker to see the talks associated with that location.</p>
-<p><span style="color:darkred;font-weight:600;">Invited conference talks</span>, <span style="color:blue;font-weight:600;">invited seminars</span>, <span style="color:darkblue;font-weight:600;">contributed talks</span> and <span style="color:gray;font-weight:600;">discussion sessions</span>.</p>
-
+<p>I have had the privilege of visiting many amazing places around the world to present my work. The markers show the places where I have given talks at conferences, workshops, seminars and local meetings. Click on a marker for the talks associated with that location.</p>
 <div style="margin-bottom: 20px;"></div>
  <iframe src="/talkmap/talks_map.html" height="300" width="100%" style="border: none"></iframe>
 
