@@ -28,7 +28,7 @@ In 2026, I was awarded the prestigious [Royal Society University Research Fellow
 
 <table style="width:100%; border-collapse:collapse; font-size:16px; line-height:1.55;">
   <tr style="vertical-align:top;">
-    <td style="width:22%; text-align:right; padding:0 1.25rem 2rem 0; font-size:15px;">
+    <td style="width:22%; text-align:right; padding:0 1.25rem 2rem 0; font-size:17px;">
       <strong>2018–2022</strong><br>
       <img src="/images/tcd_logo.png" alt="Trinity College Dublin" style="display:block; width:125px; max-width:100%; margin:8px 0 0 auto;">
     </td>
@@ -40,7 +40,7 @@ In 2026, I was awarded the prestigious [Royal Society University Research Fellow
     </td>
   </tr>
   <tr style="vertical-align:top;">
-    <td style="width:22%; text-align:right; padding:0 1.25rem 2rem 0; font-size:15px;">
+    <td style="width:22%; text-align:right; padding:0 1.25rem 2rem 0; font-size:17px;">
       <strong>2015–2017</strong><br>
       <img src="/images/padova_logo.png" alt="University of Padova" style="display:block; width:125px; max-width:100%; margin:8px 0 0 auto;">
     </td>
@@ -51,7 +51,7 @@ In 2026, I was awarded the prestigious [Royal Society University Research Fellow
     </td>
   </tr>
   <tr style="vertical-align:top;">
-    <td style="width:22%; text-align:right; padding:0 1.25rem 0 0; font-size:15px;">
+    <td style="width:22%; text-align:right; padding:0 1.25rem 0 0; font-size:17px;">
       <strong>2012–2015</strong><br>
       <img src="/images/padova_logo.png" alt="University of Padova" style="display:block; width:125px; max-width:100%; margin:8px 0 0 auto;">
     </td>
@@ -78,7 +78,7 @@ I am excited about new applications of particle-physics tools to gravity, and I 
 
 - **2024--ongoing — PhD co-supervisor: Emanuele Rosi**, Sapienza University of Rome. Co-supervision with Prof. Vittorio Del Duca. I proposed the initial project on ultra-relativistic scattering in gravity using scattering amplitudes. We meet weekly, and the collaboration has already led to two joint papers.
 - **2024 — MSc co-supervisor: Andrea de Simone**, Sapienza University of Rome. Six-month thesis on gravitational scattering amplitudes and the two-body problem.
-- **2024 — MSc co-supervisor: Damiano Barcaro**, Sapienza University of Rome. Six-month thesis: *Scattering waveforms for Kerr black holes from the soft expansion*; subsequently began a PhD at Johannes Gutenberg University Mainz.
+- **2024 — MSc co-supervisor: Damiano Barcaro**, Sapienza University of Rome. Six-month thesis: *Scattering waveforms for Kerr black holes from the soft expansion* [arXiv](https://arxiv.org/abs/2411.18632); subsequently began a PhD at Johannes Gutenberg University Mainz.
 - **2022 — MSc supervisor: Leixi Wang**, University of Edinburgh. Four-month thesis, *Classical spacetimes from amplitudes*; I proposed the project and supervised it to the end.
 
 ## Invited presentations
@@ -93,7 +93,7 @@ I have served as a journal referee since 2022 for *Journal of High Energy Physic
 
 ## Press and outreach
 
-- I was interviewed by Charlie Wood for the *Quanta Magazine* article [*Massive Black Holes Shown to Act Like Quantum Particles*](https://www.quantamagazine.org/massive-black-holes-shown-to-act-like-quantum-particles-20220329/), which discussed my work on coherent graviton states and the emergence of classical radiation from quantum scattering.
+- In 2022, I was interviewed by Charlie Wood for the *Quanta Magazine* article [*Massive Black Holes Shown to Act Like Quantum Particles*](https://www.quantamagazine.org/massive-black-holes-shown-to-act-like-quantum-particles-20220329/), which discussed my work on coherent graviton states and the emergence of classical radiation from quantum scattering.
 - Nordita featured our 2026 programme in [*Bringing together communities to improve precision in gravitational-wave modeling*](https://nordita.org/news-archive/news-2026/bringing-together-communities-to-improve-precision-in-gravitational-wave-modeling/), looking at why we brought these different research communities together and at the experience of the students and early-career researchers who took part.
 - For the SAGEX film [*Doing a PhD in Physics*](https://www.youtube.com/watch?v=ZbV0YnzeTzQ), I contributed personal footage to a short film about the experience and challenges of doctoral research in physics.
 - I created material for the Feynman-diagram section of the SAGEX online exhibition [*At the Frontiers of Physics*](https://exhibition.sagex.org/#/exhibition-hub/), designed to introduce modern particle physics to a wider audience.

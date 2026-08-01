@@ -51,7 +51,7 @@ I am excited about new applications of particle-physics tools to gravity, and I 
 
 - **2025--2026 — Local journal club organiser**, QMUL Centre for Theoretical Physics with regular biweekly meetings.
 - **2022--2023 — GRAMPA online seminar series organiser**, with biweekly meetings on scattering amplitudes and their applications to gravitational waves.
-- **2021 — SAGEX Amplitudes School organiser**, Niels Bohr Institute, held in connection with the Amplitudes 2021 conference. I helped coordinate the lecturers and the school programme. [School](https://indico.nbi.ku.dk/event/1530/)
+- **2021 — SAGEX Amplitudes School organiser** (with Andrea Cristofoli, Stefano De Angelis, Gabriel Dian, Kays Haddad and Anne Spiering), Niels Bohr Institute, held in connection with the Amplitudes 2021 conference. I helped coordinate the lecturers and the school programme. <a href="https://indico.nbi.ku.dk/event/1530/">[school webpage]</a>
 
 ## Funding
 

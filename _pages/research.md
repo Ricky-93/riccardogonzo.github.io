@@ -74,27 +74,27 @@ mathjax: true
 
 I am a theoretical physicist working at the interface of high-energy physics and general relativity. I study gravitational binary systems and their waveforms, combining particle-physics tools—especially scattering amplitudes—with post-Newtonian and gravitational self-force methods. During my PhD, I developed a direct link between on-shell scattering amplitudes and gravitational waveforms. Since then, I have worked on methods for translating results between scattering and bound motion in Kerr spacetime, including their gravitational waveforms, and on an effective field theory formulation of self-force for bound orbits.
 
-In 2026, I was awarded the [Royal Society University Research Fellowship](https://royalsociety.org/grants/university-research/) for my project *High-precision effective field theory for extreme-mass-ratio inspirals*. At Southampton, I am now building a research group around these questions, with PhD students and postdocs. My long-term goal is to connect weak-field post-Minkowskian and post-Newtonian theory with strong-field self-force methods, and use that connection to improve waveform models for current detectors—LIGO, Virgo and KAGRA—and future ones such as LISA, ET and CE.
+In 2026, I was awarded the [Royal Society University Research Fellowship](https://royalsociety.org/grants/university-research/) for my project *High-precision effective field theory for extreme-mass-ratio inspirals*. At Southampton, I am now building a research group around these questions, with PhD students and postdocs. My long-term goal is to connect weak-field post-Minkowskian and post-Newtonian theory with strong-field self-force methods, and use that connection to improve waveform models for current—LIGO, Virgo and KAGRA—and future detectors such as LISA, ET and CE.
 
 ## <span style="display: flex; align-items: center;">Gravitational Waveforms from Scattering Amplitudes <span onclick="toggleVisibility('waveforms')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-waveforms" style="display: inline-block; transform: rotate(180deg); transition: transform 0.5s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
 <div id="waveforms" style="max-height: 0px; overflow: hidden; transition: max-height 0.5s ease-out; text-align: left;">
-  Together with A. Cristofoli, D. Kosower and D. O’Connell, I helped establish a framework for computing gravitational waveforms directly from on-shell scattering amplitudes in the post-Minkowskian expansion. With other collaborators, I explored how coherent states extend the eikonal description and how classical gravitational waves emerge from the quantum point-particle picture. <br><br>
+  Together with A. Cristofoli, D. Kosower and D. O’Connell, I helped establish a framework for computing gravitational waveforms directly from on-shell scattering amplitudes in the post-Minkowskian expansion. With other collaborators, I then explored how coherent states extend the eikonal description and how classical gravitational waves emerge from the quantum point-particle picture. <br><br>
 
   With F. Alessio and C. Shi, I later introduced a set of classical generating functionals built from the S-matrix. Within this formulation, two-body scattering observables follow in a gauge-invariant way from Dirac brackets, providing a compact framework for radiative observables in spinning black-hole scattering.
 </div>
 
 ## <span style="display: flex; align-items: center;">Scatter-to-Bound Dictionary for Kerr Geodesics and Waveforms <span onclick="toggleVisibility('dictionary')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-dictionary" style="display: inline-block; transform: rotate(180deg); transition: transform 0.5s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
 <div id="dictionary" style="max-height: 0px; overflow: hidden; transition: max-height 0.5s ease-out; text-align: left;">
-  With C. Shi, I developed gauge-invariant maps between scattering and bound geodesic observables in Kerr spacetime, formulating the analytic continuation between scattering and bound actions and related observables for generic orbits. <br><br>
+  With C. Shi, I established gauge-invariant maps between scattering and bound geodesic observables in Kerr spacetime, formulating the analytic continuation between scattering and bound actions and related observables for generic orbits. <br><br>
 
-  With T. Adamo and A. Ilderton, I developed a classical Bethe–Salpeter framework connecting the analytic S-matrix to bound dynamics. In this framework, scattering waveforms can be analytically continued and resummed into periodic bound-state waveforms. The construction shows why resummation of the weak-field expansion is needed to recover orbital periodicity, and how gravitational self-force can provide a bridge between perturbative scattering data and bound motion. Along this line, with J. Lewis and A. Pound, I developed the “first law of black-hole scattering”, relating elapsed proper time in scattering to the Detweiler redshift for bound motion—a central gauge-invariant building block for waveform modelling. <br><br>
+  With T. Adamo and A. Ilderton, I formulated a classical Bethe–Salpeter framework connecting the analytic S-matrix to bound dynamics. In this framework, scattering waveforms can be analytically continued and resummed into periodic bound-state waveforms. The construction shows why resummation of the weak-field expansion is needed to recover orbital periodicity, and how gravitational self-force can provide a bridge between perturbative scattering data and bound motion. Along this line, with J. Lewis and A. Pound, we derived the “first law of black-hole scattering”, relating elapsed proper time in scattering to the Detweiler redshift for bound motion—a central gauge-invariant building block for waveform modelling. <br><br>
 
   More recently, with G. Mogull, I have been developing a Magnus perturbation theory for bound orbits, building on the generating-functional approach and Dirac-bracket formalism developed for scattering. The idea is to expand the logarithm of the finite-time evolution operator, organising perturbation theory directly for periodic motion while keeping a clear link with scattering observables. This opens a promising new way of studying bound-orbit dynamics using tools from particle physics.
 </div>
 
 ## <span style="display: flex; align-items: center;">Self-Force Effective Field Theory: From Weak to Strong Field <span onclick="toggleVisibility('selforce')" style="cursor: pointer; display: inline-block; vertical-align: middle; margin-left: 5px;"><svg id="arrow-selforce" style="display: inline-block; transform: rotate(180deg); transition: transform 0.5s; vertical-align: middle; transform-origin: center; fill: #4A4E52;" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.59 16.41L20 15l-8-8-8 8 1.41 1.41L12 9.83z"/></svg></span></span>
 <div id="selforce" style="max-height: 0px; overflow: hidden; transition: max-height 0.5s ease-out; text-align: left;">
-  With D. Akpinar and V. del Duca, I constructed the first effective field theory description of spinning black holes at first self-force order, deriving the effective action through quadratic order in spin and reformulating the equation for the metric perturbation in this framework. This revealed new spinning recoil operators and established a direct connection between weak-field post-Minkowskian calculations and strong-field self-force results. <br><br>
+  With D. Akpinar and V. del Duca, I constructed an effective field theory description of spinning black holes at first self-force order, deriving the effective action through quadratic order in spin and reformulating the equation for the metric perturbation in this framework. This revealed new spinning recoil operators and established a direct connection between weak-field post-Minkowskian calculations and strong-field self-force results. <br><br>
 
   With L. Barack, B. Leather, O. Long and N. Warburton, I also developed a resummation of the energy loss that combines post-Minkowskian and post-Newtonian results with the known strong-field behaviour near the scattering–plunge separatrix, using information from the critical orbits. The agreement with numerical black-hole perturbation theory is encouraging, and I look forward to extending this strategy towards more accurate analytic models of fluxes and other observables for eccentric orbits.
 </div>
@@ -104,11 +104,20 @@ In 2026, I was awarded the [Royal Society University Research Fellowship](https:
 <div class="research-results">
 
   <div class="research-result">
-    <img class="research-result-image" src="/images/research/waveforms_from_amplitudes.png" alt="Scattering process with a radiated waveform">
+    <img class="research-result-image" src="/images/research/critical_orbits_resummation.png" alt="Comparison of resummed energy-loss formulas with black-hole perturbation-theory data">
     <div>
-      <h3><a href="https://doi.org/10.1103/PhysRevD.106.056007" target="_blank" rel="noopener">Waveforms from amplitudes</a></h3>
-      <p class="research-result-meta">Andrea Cristofoli, <strong>Riccardo Gonzo</strong>, David A. Kosower, Donal O'Connell &mdash; <em>Physical Review D</em> 106, 056007 (2022), <strong>Editor's Suggestion</strong></p>
-      <p class="research-result-description">Established a framework for computing gravitational waveforms directly from on-shell scattering amplitudes.</p>
+      <h3><a href="https://doi.org/10.1103/pxzz-dl2b" target="_blank" rel="noopener">Resummed energy loss in extreme-mass-ratio scattering using critical orbits</a></h3>
+      <p class="research-result-meta">Leor Barack, <strong>Riccardo Gonzo</strong>, Benjamin Leather, Oliver Long, Niels Warburton &mdash; <em>Physical Review D</em> 113, 104042 (2026)</p>
+      <p class="research-result-description">Used the known strong-field divergence near the scattering–plunge separatrix to resum post-Minkowskian and post-Newtonian energy-loss results, and tested the formulas against numerical black-hole perturbation theory.</p>
+    </div>
+  </div>
+
+  <div class="research-result">
+    <img class="research-result-image" src="/images/research/self_force_eft.png" alt="Spinning compact object orbiting a Kerr black hole">
+    <div>
+      <h3><a href="https://doi.org/10.1103/fs74-84v6" target="_blank" rel="noopener">The spinning self-force EFT: 1SF waveform recursion relation and Compton scattering</a></h3>
+      <p class="research-result-meta">Dogan Akpinar, Vittorio Del Duca, <strong>Riccardo Gonzo</strong> &mdash; <em>Physical Review D</em> 112, 084014 (2025), <strong>Editor's Suggestion</strong></p>
+      <p class="research-result-description">Developed an effective field theory description of spinning black holes at first self-force order, connecting the metric perturbation, waveform and Compton amplitude.</p>
     </div>
   </div>
 
@@ -131,20 +140,11 @@ In 2026, I was awarded the [Royal Society University Research Fellowship](https:
   </div>
 
   <div class="research-result">
-    <img class="research-result-image" src="/images/research/self_force_eft.png" alt="Spinning compact object orbiting a Kerr black hole">
+    <img class="research-result-image" src="/images/research/waveforms_from_amplitudes.png" alt="Scattering process with a radiated waveform">
     <div>
-      <h3><a href="https://doi.org/10.1103/fs74-84v6" target="_blank" rel="noopener">The spinning self-force EFT: 1SF waveform recursion relation and Compton scattering</a></h3>
-      <p class="research-result-meta">Dogan Akpinar, Vittorio Del Duca, <strong>Riccardo Gonzo</strong> &mdash; <em>Physical Review D</em> 112, 084014 (2025), <strong>Editor's Suggestion</strong></p>
-      <p class="research-result-description">Developed an effective field theory description of spinning black holes at first self-force order, connecting the metric perturbation, waveform and Compton amplitude.</p>
-    </div>
-  </div>
-
-  <div class="research-result">
-    <img class="research-result-image" src="/images/research/critical_orbits_resummation.png" alt="Comparison of resummed energy-loss formulas with black-hole perturbation-theory data">
-    <div>
-      <h3><a href="https://doi.org/10.1103/pxzz-dl2b" target="_blank" rel="noopener">Resummed energy loss in extreme-mass-ratio scattering using critical orbits</a></h3>
-      <p class="research-result-meta">Leor Barack, <strong>Riccardo Gonzo</strong>, Benjamin Leather, Oliver Long, Niels Warburton &mdash; <em>Physical Review D</em> 113, 104042 (2026)</p>
-      <p class="research-result-description">Used the known strong-field divergence near the scattering–plunge separatrix to resum post-Minkowskian and post-Newtonian energy-loss results, and tested the formulas against numerical black-hole perturbation theory.</p>
+      <h3><a href="https://doi.org/10.1103/PhysRevD.106.056007" target="_blank" rel="noopener">Waveforms from amplitudes</a></h3>
+      <p class="research-result-meta">Andrea Cristofoli, <strong>Riccardo Gonzo</strong>, David A. Kosower, Donal O'Connell &mdash; <em>Physical Review D</em> 106, 056007 (2022), <strong>Editor's Suggestion</strong></p>
+      <p class="research-result-description">Established a framework for computing gravitational waveforms directly from on-shell scattering amplitudes.</p>
     </div>
   </div>
 
@@ -153,8 +153,8 @@ In 2026, I was awarded the [Royal Society University Research Fellowship](https:
 ## Press and features
 
 <ul class="press-list">
-  <li><a href="https://www.quantamagazine.org/massive-black-holes-shown-to-act-like-quantum-particles-20220329/" target="_blank" rel="noopener"><em>Massive Black Holes Shown to Act Like Quantum Particles</em></a>, <em>Quanta Magazine</em> (2022), discussing my work on coherent graviton states and the quantum-to-classical transition in black-hole scattering.</li>
   <li><a href="https://nordita.org/news-archive/news-2026/bringing-together-communities-to-improve-precision-in-gravitational-wave-modeling/" target="_blank" rel="noopener"><em>Bringing together communities to improve precision in gravitational-wave modeling</em></a>, Nordita (2026), about the scientific aims of the programme and the experience of students and postdocs who took part.</li>
+  <li><a href="https://www.quantamagazine.org/massive-black-holes-shown-to-act-like-quantum-particles-20220329/" target="_blank" rel="noopener"><em>Massive Black Holes Shown to Act Like Quantum Particles</em></a>, <em>Quanta Magazine</em> (2022), discussing my work on coherent graviton states and the quantum-to-classical transition in black-hole scattering.</li>
   <li>Discussion on the 4Gravitons blog: <a href="https://4gravitons.com/2021/12/31/classicality-has-consequences/" target="_blank" rel="noopener"><em>Classicality Has Consequences</em></a> (2021).</li>
 </ul>
 
