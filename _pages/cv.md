@@ -46,8 +46,8 @@ In 2026, I was awarded the prestigious [Royal Society University Research Fellow
     </td>
     <td style="padding:0 0 2rem 0; font-size:16px;">
       <strong>MSc in Theoretical Physics</strong>, University of Padova, 110/110 <em>cum laude</em>.<br>
-      Erasmus+ exchange at the University of Göttingen for the MSc thesis <em>The infinite-spin representations of the Poincaré group</em>.<br>
-      Final GPA: 29.5/30. I also completed five extra exams (34 ECTS) beyond the degree requirements.
+      Erasmus+ exchange at the University of Göttingen for the MSc thesis <em>The infinite-spin representations of the Poincaré group</em>, supervised by Prof. K.-H. Rehren.<br>
+      Final GPA: 29.5/30, with five extra exams (34 ECTS) beyond the degree requirements.
     </td>
   </tr>
   <tr style="vertical-align:top;">
@@ -57,7 +57,7 @@ In 2026, I was awarded the prestigious [Royal Society University Research Fellow
     </td>
     <td style="padding:0; font-size:16px;">
       <strong>BSc in Physics</strong>, University of Padova, 110/110 <em>cum laude</em>.<br>
-      Final GPA: 29.6/30. I also completed one extra exam (6 ECTS) beyond the degree requirements.
+      Final GPA: 29.6/30, with one extra exam (6 ECTS) beyond the degree requirements.
     </td>
   </tr>
 </table>
