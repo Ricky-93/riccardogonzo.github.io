@@ -20,8 +20,6 @@ In 2026, I was awarded the prestigious [Royal Society University Research Fellow
 
 ## Fellowships and research funding
 
-More than **£2 million in competitive fellowship and programme funding** secured to date.
-
 - **2026 — Royal Society University Research Fellowship.** Major eight-year fellowship; total programme value approximately £1.8 million. Host: University of Southampton. Project: *High-precision effective field theory for extreme-mass-ratio inspirals*.
 - **2019 — Marie Skłodowska-Curie ITN fellowship, SAGEX.** European Union Horizon 2020 fellowship, providing approximately £100k of personal fellowship support and advanced research and professional training over three years.
 - **2023--2026 — £140k in competitive funding for international programmes and workshops:** GGI six-week programme (£83.7k); ICTP-SAIFR two-week programme (£25k); Nordita two-week programme (£20.6k); and Higgs Centre workshop (£10.4k). I was main coordinator of the GGI and Nordita programmes and the Higgs Centre workshop, and co-organiser of the ICTP-SAIFR programme.
@@ -40,7 +38,7 @@ You can find my research papers, together with journal and arXiv links and short
 
 ## International programmes and workshops
 
-I started a series of meetings to connect the general-relativity and particle physics approaches to binary dynamics, which had often developed separately. The first workshop in Edinburgh focused on scattering amplitudes and self-force; the later meetings covered a wider range of approaches including post-Newtonian, effective-one-body, numerical-relativity and data-analysis methods.
+I am excited about new applications of particle-physics tools to gravity, and I believe that people from different communities will need to work together to solve the binary problem. I helped start a series of meetings bringing together researchers working on scattering amplitudes, gravitational self-force and related approaches to binary dynamics.
 
 [Programmes and workshops](/programmes/){: .btn}
 
@@ -53,7 +51,7 @@ I started a series of meetings to connect the general-relativity and particle ph
 
 ## Invited presentations
 
-I have given more than 20 invited conference and workshop talks and more than 25 invited seminars. The complete record, including four invited discussion sessions, is available on the [talks page](/talks/).
+I have had the privilege of visiting many amazing places around the world to present my work. The complete record, including contributed talks and four discussion sessions, is available on the [talks page](/talks/).
 
 ## Teaching, service and memberships
 

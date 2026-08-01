@@ -4,7 +4,7 @@ permalink: /programmes/
 author_profile: true
 ---
 
-I am excited about new applications of particle-physics tools to gravity, but I do not think the binary problem will be solved by one community working alone. With this in mind, I started a series of meetings bringing together researchers in scattering amplitudes, post-Minkowskian and post-Newtonian theory, gravitational self-force, effective-one-body methods, numerical relativity and data analysis. The series began in Edinburgh with a workshop on scattering amplitudes and self-force, and has since grown to cover a wider range of approaches. The aim is to compare methods, identify calculations that can be checked across approaches, and start collaborations for future gravitational-wave modelling.
+I am excited about new applications of particle-physics tools to gravity, and I believe that people from different communities will need to work together to solve the binary problem and build accurate waveform models for future gravitational-wave detectors. With this in mind, I helped start a series of meetings bringing together researchers working on scattering amplitudes, post-Minkowskian and post-Newtonian theory, gravitational self-force, effective-one-body methods, numerical relativity and data analysis. These meetings matter a great deal to me because they give people time to compare methods, identify useful cross-checks and start new collaborations.
 
 ## Programme series
 
@@ -55,4 +55,4 @@ I am excited about new applications of particle-physics tools to gravity, but I 
 
 ## Funding
 
-**£140k in competitive funding for international programmes and workshops**: GGI six-week programme (£83.7k); ICTP-SAIFR two-week programme (£25k); Nordita two-week programme (£20.6k); and Higgs Centre workshop (£10.4k). I was main coordinator of the GGI and Nordita programmes and the Higgs Centre workshop, and co-organiser of the ICTP-SAIFR programme.
+These meetings have received **£140k in competitive funding**: GGI six-week programme (£83.7k); ICTP-SAIFR two-week programme (£25k); Nordita two-week programme (£20.6k); and Higgs Centre workshop (£10.4k). I was main coordinator of the GGI and Nordita programmes and the Higgs Centre workshop, and co-organiser of the ICTP-SAIFR programme.

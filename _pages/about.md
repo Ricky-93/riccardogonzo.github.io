@@ -24,13 +24,13 @@ Welcome! I am Riccardo Gonzo, a Royal Society University Research Fellow at the 
 <!-- My works have been published in Physical Review X, Physical Review Letters, Proceedings of the National Academy of Sciences (PNAS), and Science Advances, among others. I have presented my work at several international conferences and workshops, -->
 
 <h3>Who I work with</h3>
-<p>This is my collaboration network: the color of each node specifies either a <span style="color:#d6d2d2;font-weight:600;">co-author</span>, a <span style="color:#79addc;font-weight:600;">preprint</span> or <span style="color:#9e1910;font-weight:600;">journal article</span>. Click on a node for more information.</p>
+<p>Over the years, I have had the privilege of working with some amazing people on several interesting problems in gravitational physics. The network below shows the people I have worked with and the papers that came from these collaborations. Click on a person or paper for more information.</p>
 
  <iframe src="/collab_net/network.html" height="300" width="100%" style="border: none"></iframe>
 
 <h3>Where my research takes me</h3>
-The markers on the map represent a conference, workshop, or institute where I presented my work: <span style="color:darkred;font-weight:600;">invited conference talks</span>, <span style="color:blue;font-weight:600;">invited seminars</span>, <span style="color:darkblue;font-weight:600;">contributed talks</span>
-<!-- optional if you enable it: --> and <span style="color:gray;font-weight:600;">discussion sessions</span>. Click on a marker for more information.
+<p>I have had the privilege of visiting many amazing places around the world to present my work. The markers show places where I have presented at conferences, workshops, seminars and local meetings. Click on a marker to see the talks associated with that location.</p>
+<p><span style="color:darkred;font-weight:600;">Invited conference talks</span>, <span style="color:blue;font-weight:600;">invited seminars</span>, <span style="color:darkblue;font-weight:600;">contributed talks</span> and <span style="color:gray;font-weight:600;">discussion sessions</span>.</p>
 
 <div style="margin-bottom: 20px;"></div>
  <iframe src="/talkmap/talks_map.html" height="300" width="100%" style="border: none"></iframe>
