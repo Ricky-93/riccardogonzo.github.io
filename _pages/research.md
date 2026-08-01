@@ -155,7 +155,7 @@ In 2026, I was awarded the prestigious [Royal Society University Research Fellow
 
 <ul class="press-list">
   <li><a href="https://www.quantamagazine.org/massive-black-holes-shown-to-act-like-quantum-particles-20220329/" target="_blank" rel="noopener"><em>Massive Black Holes Shown to Act Like Quantum Particles</em></a>, <em>Quanta Magazine</em> (2022), discussing my work on coherent graviton states and the quantum-to-classical transition in black-hole scattering.</li>
-  <li><a href="https://nordita.org/news-archive/news-2026/bringing-together-communities-to-improve-precision-in-gravitational-wave-modeling/" target="_blank" rel="noopener"><em>Bringing together communities to improve precision in gravitational-wave modeling</em></a>, Nordita (2026), about the scientific aims of the programme and the experience of students and postdoctoral researchers who took part.</li>
+  <li><a href="https://nordita.org/news-archive/news-2026/bringing-together-communities-to-improve-precision-in-gravitational-wave-modeling/" target="_blank" rel="noopener"><em>Bringing together communities to improve precision in gravitational-wave modeling</em></a>, Nordita (2026), about the scientific aims of the programme and the experience of students and postdocs who took part.</li>
   <li>Discussion on the 4Gravitons blog: <a href="https://4gravitons.com/2021/12/31/classicality-has-consequences/" target="_blank" rel="noopener"><em>Classicality Has Consequences</em></a> (2021).</li>
 </ul>
 

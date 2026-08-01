@@ -10,7 +10,7 @@ author_profile: true
 
 I am a theoretical physicist with over eight years of research experience spanning high-energy physics and general relativity. My work focuses on the analytical description of gravitational binary systems and their waveforms, combining particle-physics tools -- such as scattering amplitudes -- with post-Newtonian and gravitational self-force methods. During my PhD, I developed a direct link between on-shell scattering amplitudes and gravitational waveforms. Since then, I have developed methods for translating results between scattering and bound Kerr orbits, including their gravitational waveforms, as well as a new effective field theory formulation of gravitational self-force for bound orbits. Overall, my research has involved international collaborations with more than thirty researchers across Europe, North America and Asia.
 
-In 2026, I was awarded the prestigious [Royal Society University Research Fellowship](https://royalsociety.org/grants/university-research/) for my project *High-precision effective field theory for extreme-mass-ratio inspirals*. My long-term vision is to build a unified framework that connects weak-field Post-Minkowskian and post-Newtonian theory with strong-field methods from the self-force approach, leading to improved waveform models for current (LIGO--Virgo--KAGRA) and future (LISA, ET and CE) gravitational-wave detectors.
+In 2026, I was awarded the prestigious [Royal Society University Research Fellowship](https://royalsociety.org/grants/university-research/) for my project *High-precision effective field theory for extreme-mass-ratio inspirals*. I am now building my own research group at Southampton around these questions. My long-term vision is to build a unified framework that connects weak-field Post-Minkowskian and post-Newtonian theory with strong-field methods from the self-force approach, leading to improved waveform models for current (LIGO--Virgo--KAGRA) and future (LISA, ET and CE) gravitational-wave detectors.
 
 ## Academic appointments
 
@@ -26,13 +26,45 @@ In 2026, I was awarded the prestigious [Royal Society University Research Fellow
 
 ## Education
 
-- **2018--2022 — PhD in Theoretical Particle Physics**, Trinity College Dublin. Supervisor: Prof. Ruth Britto. Thesis: [*Coherent states and classical radiative observables in the S-matrix formalism*](http://www.tara.tcd.ie/handle/2262/98491). During my PhD, I won a prestigious and competitive Marie-Curie International Training Network fellowship, *Scattering Amplitudes: from Geometry to Experiments* (SAGEX). The fellowship gave me research training through dedicated workshops and schools and a three-month internship at Wolfram Research, as well as training in scientific writing, presentation skills, STEM outreach, grant writing, time and project management, career development and good scientific practice.
-- **2015--2017 — MSc in Theoretical Physics**, University of Padova, 110/110 *cum laude*. Erasmus+ exchange at the University of Göttingen for the MSc thesis *The infinite-spin representations of the Poincaré group*. Final GPA: 29.5/30. I also completed five extra examinations (34 ECTS) beyond the degree requirements.
-- **2012--2015 — BSc in Physics**, University of Padova, 110/110 *cum laude*. Final GPA: 29.6/30. I also completed one extra examination (6 ECTS) beyond the degree requirements.
+<table style="width:100%; border-collapse:collapse;">
+  <tr style="vertical-align:top;">
+    <td style="width:22%; text-align:right; padding:0 1rem 1.5rem 0;">
+      <strong>2018–2022</strong><br>
+      <img src="/images/tcd_logo.png" alt="Trinity College Dublin" style="display:block; width:115px; max-width:100%; margin:8px 0 0 auto;">
+    </td>
+    <td style="padding:0 0 1.5rem 0;">
+      <strong>PhD in Theoretical Particle Physics</strong>, Trinity College Dublin.<br>
+      <strong>Supervisor:</strong> Prof. Ruth Britto.<br>
+      <strong>Thesis:</strong> <a href="http://www.tara.tcd.ie/handle/2262/98491"><em>Coherent states and classical radiative observables in the S-matrix formalism</em></a>.<br>
+      During my PhD, I won a prestigious and competitive Marie-Curie International Training Network fellowship, <em>Scattering Amplitudes: from Geometry to Experiments</em> (SAGEX). The fellowship gave me research training through dedicated workshops and schools and a three-month internship at Wolfram Research, as well as training in scientific writing, presentation skills, STEM outreach, grant writing, time and project management, career development and good scientific practice.
+    </td>
+  </tr>
+  <tr style="vertical-align:top;">
+    <td style="width:22%; text-align:right; padding:0 1rem 1.5rem 0;">
+      <strong>2015–2017</strong><br>
+      <img src="/images/padova_logo.png" alt="University of Padova" style="display:block; width:115px; max-width:100%; margin:8px 0 0 auto;">
+    </td>
+    <td style="padding:0 0 1.5rem 0;">
+      <strong>MSc in Theoretical Physics</strong>, University of Padova, 110/110 <em>cum laude</em>.<br>
+      Erasmus+ exchange at the University of Göttingen for the MSc thesis <em>The infinite-spin representations of the Poincaré group</em>.<br>
+      Final GPA: 29.5/30. I also completed five extra examinations (34 ECTS) beyond the degree requirements.
+    </td>
+  </tr>
+  <tr style="vertical-align:top;">
+    <td style="width:22%; text-align:right; padding:0 1rem 0 0;">
+      <strong>2012–2015</strong><br>
+      <img src="/images/padova_logo.png" alt="University of Padova" style="display:block; width:115px; max-width:100%; margin:8px 0 0 auto;">
+    </td>
+    <td style="padding:0;">
+      <strong>BSc in Physics</strong>, University of Padova, 110/110 <em>cum laude</em>.<br>
+      Final GPA: 29.6/30. I also completed one extra examination (6 ECTS) beyond the degree requirements.
+    </td>
+  </tr>
+</table>
 
 ## Publications and research impact
 
-You can find my research papers, together with journal and arXiv links and short abstracts, on the publications page.
+You can find my research papers, together with journal and arXiv links, on the publications page.
 
 [Explore my publications](/publications/){: .btn}
 

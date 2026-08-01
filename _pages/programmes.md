@@ -4,7 +4,7 @@ permalink: /programmes/
 author_profile: true
 ---
 
-I am excited about new applications of particle-physics tools to gravity, and I believe that solving the binary-modelling problem will require different communities to work together. To work towards this, I helped start a series of meetings bringing together researchers working on scattering amplitudes, gravitational self-force and related approaches to binary dynamics. These meetings are extremely important to me because they give people the chance to share methods, join forces on difficult problems and start new collaborations.
+I am excited about new applications of particle-physics tools to gravity, and I believe that solving the binary-modelling problem will require different communities to work together. To work towards this, I helped start a series of meetings bringing together researchers working on scattering amplitudes, gravitational self-force and related approaches to binary dynamics. These meetings are extremely important to me: they provide a space to share methods and techniques, build long-lasting collaborations, and work together on the challenging problem of modelling binary systems and their gravitational-wave signals.
 
 ## Programme series
 
@@ -18,7 +18,7 @@ I am excited about new applications of particle-physics tools to gravity, and I 
 
 ### 2026 — Nordita, Stockholm
 
-**Nordita programme main coordinator and organiser** (with Lucile Cangemi, Paolo Di Vecchia, Chris Kavanagh, Adam Pound and Geraint Pratten), *Amplitudes, Strong-Field Gravity, and Resummation*, Stockholm. Two-week programme including a one week PhD school and a one week workshop, with about 120 participants.
+**Nordita programme main coordinator and organiser** (with Lucile Cangemi, Paolo Di Vecchia, Chris Kavanagh, Adam Pound and Geraint Pratten), *Amplitudes, Strong-Field Gravity, and Resummation*, Stockholm. Two-week programme including a PhD school and a workshop, with about 120 participants.
 
 [Programme](https://indico.fysik.su.se/event/9143/overview){: .btn}
 [Nordita article](https://nordita.org/news-archive/news-2026/bringing-together-communities-to-improve-precision-in-gravitational-wave-modeling/){: .btn}
