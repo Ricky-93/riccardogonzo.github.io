@@ -10,11 +10,11 @@ I am excited about new applications of particle-physics tools to gravity, and I 
 
 ### 2027 — GGI, Florence
 
-**GGI programme main coordinator and organiser**, *Synergies for Black-Hole Binaries: from Perturbative Techniques to Strong-Field Gravity*, Florence. Major international six-week programme, with five focused weeks and one conference week.
+**GGI programme main coordinator and organiser** (with Béatrice Bonga, Rossella Gamba, Chris Kavanagh, Jan Plefka, Adam Pound and Piero Rettegno), *Synergies for Black-Hole Binaries: from Perturbative Techniques to Strong-Field Gravity*, Florence. Major international six-week programme, with five focused weeks and one conference week.
 
 ### 2027 — ICTP-SAIFR / Principia, São Paulo
 
-**ICTP-SAIFR programme organiser**, *All Roads Lead to Waveforms: GSF, PM, PN and All That*, São Paulo. Two-week programme including a PhD school and a workshop.
+**ICTP-SAIFR programme organiser** (with Alexandre Le Tiec, Adam Pound, Chris Kavanagh and Riccardo Sturani), *All Roads Lead to Waveforms: GSF, PM, PN and All That*, São Paulo. Two-week programme including a PhD school and a workshop.
 
 ### 2026 — Nordita, Stockholm
 
@@ -27,9 +27,9 @@ I am excited about new applications of particle-physics tools to gravity, and I 
   <a href="/images/Nordita_poster.jpg"><img src="/images/programmes/nordita-2026.jpg" alt="Poster for the 2026 Nordita programme Amplitudes, Strong-Field Gravity, and Resummation"></a>
 </figure>
 
-### 2025 — Southampton
+### 2025 — University of Southampton
 
-**Workshop organiser** (with Chris Kavanagh, Zach Nasipak, Jan Plefka and Adam Pound), *2nd Annual Workshop on Self-Force and Amplitudes*, University of Southampton. One week workshop with about 70 participants.
+**Workshop organiser** (with Chris Kavanagh, Zach Nasipak, Jan Plefka and Adam Pound), *2nd Annual Workshop on Self-Force and Amplitudes*, Southampton. One week workshop with about 70 participants.
 
 [Workshop](https://indico.cern.ch/event/1485758/){: .btn}
 
@@ -39,7 +39,7 @@ I am excited about new applications of particle-physics tools to gravity, and I 
 
 ### 2024 — Higgs Centre, Edinburgh
 
-**Higgs Centre workshop main coordinator and organiser** (with Chris Kavanagh, Adam Pound and Mao Zeng), *Gravitational Self-Force and Scattering Amplitudes*, Edinburgh. One week workshop with about 40 participants.
+**Workshop main coordinator and organiser** (with Chris Kavanagh, Adam Pound and Mao Zeng), *Gravitational Self-Force and Scattering Amplitudes*, Edinburgh. One week workshop with about 40 participants.
 
 [Workshop](https://higgs.ph.ed.ac.uk/workshops/gravitational-self-force-and-scattering-amplitudes/){: .btn}
 
