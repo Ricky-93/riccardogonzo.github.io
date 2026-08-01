@@ -2,217 +2,72 @@
 title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+[Download default CV](/files/Riccardo_Gonzo_CV_Default.pdf){: .btn .btn--primary}
+[Download full CV](/files/Riccardo_Gonzo_CV_Master.pdf){: .btn}
 
-You can download my full CV [here](/files/cv_Riccardo_Gonzo.pdf){:target="_blank"}<!--_-->.
+## Research profile
 
-## Summary
-I am Riccardo Gonzo, a Postdoctoral Research Associate at the [Centre for Theoretical Physics, Queen Mary University of London](https://www.seresearch.qmul.ac.uk/cfp/){:target="_blank"}<!--_-->. Previously, I was a postdoctoral researcher at the [Higgs Centre for Theoretical Physics, University of Edinburgh](https://www.ph.ed.ac.uk/higgs){:target="_blank"}<!--_-->. My research lies at the interface of scattering amplitudes and general relativity, with the goal of developing new analytical tools for modelling gravitational-wave signals from binary black hole systems.
+I am a theoretical physicist with over eight years of research experience spanning high-energy physics and general relativity. My work focuses on the analytical description of gravitational binary systems and their waveforms, combining particle-physics tools -- such as scattering amplitudes -- with post-Newtonian and gravitational self-force methods. During my PhD, I developed a direct link between on-shell scattering amplitudes and gravitational waveforms. Since then, I have developed methods for translating results between scattering and bound Kerr orbits, including their gravitational waveforms, as well as a new effective field theory formulation of gravitational self-force for bound orbits. Overall, my research has involved international collaborations with more than thirty researchers across Europe, North America and Asia.
 
-I obtained my PhD in Theoretical Particle Physics at [Trinity College Dublin](https://www.tcd.ie/){:target="_blank"}<!--_--> under the supervision of Prof. Ruth Britto, as part of the Marie Skłodowska-Curie ITN [SAGEX](https://sagex.org/){:target="_blank"}<!--_-->, with a thesis on *Coherent states and classical radiative observables in the S-matrix formalism*. Before that, I studied Physics at the [University of Padova](https://www.unipd.it/){:target="_blank"}<!--_-->, where I earned both my Bachelor’s and Master’s degrees *cum laude*.
+In 2026, I was awarded the prestigious [Royal Society University Research Fellowship](https://royalsociety.org/grants/university-research/), an eight-year fellowship with a total programme value of £1.8 million, for the project *High-precision effective field theory for extreme-mass-ratio inspirals*. My long-term vision is to build a unified framework that connects weak-field Post-Minkowskian and post-Newtonian theory with strong-field methods from the self-force approach, leading to improved waveform models for current (LIGO--Virgo--KAGRA) and future (LISA, ET and CE) gravitational-wave detectors.
 
 ## Academic appointments
-<font size="5">
-<table>
-<tr>
-  <td width="22%"><div align="right">2025&nbsp;–&nbsp;present<br>
-    <img src='/images/qmul_logo.png' style="padding-top:7px;display:block;margin-right:10px;" width="130"></div>
-  </td>
-  <td width="80%">Postdoctoral Research Associate<br>
-    Queen Mary University of London, UK
-  </td>
-</tr>
 
-<tr><td></td></tr>
+- **2026-- — Royal Society University Research Fellow**, University of Southampton, Southampton.
+- **2025--2026 — Postdoctoral Research Associate**, Queen Mary University of London, London.
+- **2022--2025 — Postdoctoral Research Associate**, University of Edinburgh, Edinburgh.
 
-<tr>
-  <td width="22%"><div align="right">2022&nbsp;–&nbsp;2025<br>
-    <img src='/images/edinburgh_logo.png' style="padding-top:7px;display:block;margin-right:10px;" width="130"></div>
-  </td>
-  <td width="80%">Postdoctoral Research Associate<br>
-    University of Edinburgh, UK
-  </td>
-</tr>
-</table>
-</font>
+## Fellowships and research funding
 
+More than **£2 million in competitive fellowship and programme funding** secured to date.
+
+- **2026 — Royal Society University Research Fellowship.** Major eight-year fellowship; total programme value approximately £1.8 million. Host: University of Southampton. Project: *High-precision effective field theory for extreme-mass-ratio inspirals*.
+- **2019 — Marie Skłodowska-Curie ITN fellowship, SAGEX.** European Union Horizon 2020 fellowship, providing approximately £100k of personal fellowship support and advanced research and professional training over three years.
+- **2023--2026 — £140k in competitive funding for international programmes and workshops:** GGI six-week programme (£83.7k); ICTP-SAIFR two-week programme (£25k); Nordita two-week programme (£20.6k); and Higgs Centre workshop (£10.4k). I was main coordinator of the GGI and Nordita programmes and the Higgs Centre workshop, and co-organiser of the ICTP-SAIFR programme.
 
 ## Education
-<font size="5">
-<table>
-<tr>
-  <td width="22%"><div align="right">2018&nbsp;–&nbsp;2022<br>
-    <img src='/images/tcd_logo.png' style="padding-top:7px;display:block;margin-right:10px;" width="130"></div>
-  </td>
-  <td width="80%">PhD in Theoretical Particle Physics, Trinity College Dublin (Ireland)<br>
-    <span style="font-weight:600">Thesis:</span> <i>Coherent states and classical radiative observables in the S-matrix formalism</i> (<a href="http://www.tara.tcd.ie/handle/2262/98491" target="_blank">link</a>)<br>
-    <span style="font-weight:600">Supervisor:</span> Prof. Ruth Britto<br>
-    Marie-Curie ITN fellow (SAGEX) — training in research and professional skills (workshops, schools, 3-month Wolfram internship).
-  </td>
-</tr>
 
-<tr><td></td></tr>
-<tr>
-  <td width="22%"><div align="right">2015&nbsp;–&nbsp;2017<br>
-    <img src='/images/padova_logo.png' style="padding-top:7px;display:block;margin-right:10px;" width="130"></div>
-  </td>
-  <td width="80%">Master of Theoretical Physics, University of Padova (Italy)<br>
-    <span style="font-weight:600">Thesis:</span> <i>The infinite-spin representations of the Poincar&eacute; group</i>  (<a href="/files/thesis_master.pdf" target="_blank">link</a>)<br>
-    <span style="font-weight:600">Advisors:</span> Prof. Karl-Henning Rehren &amp; Prof. Pieralberto Marchetti<br>
-    <span style="font-weight:600">Final grade:</span> 110/110 cum laude &nbsp; &nbsp; &nbsp;
-    <span style="font-weight:600">GPA:</span> 29.5/30
-  </td>
-</tr>
+- **2018--2022 — PhD in Theoretical Particle Physics**, Trinity College Dublin. Supervisor: Prof. Ruth Britto. Thesis: [*Coherent states and classical radiative observables in the S-matrix formalism*](http://www.tara.tcd.ie/handle/2262/98491). During my PhD, I won a prestigious and competitive Marie-Curie International Training Network fellowship, *Scattering Amplitudes: from Geometry to Experiments* (SAGEX). The fellowship gave me research training through dedicated workshops and schools and a three-month internship at Wolfram Research, as well as training in scientific writing, presentation skills, STEM outreach, grant writing, time and project management, career development and good scientific practice.
+- **2015--2017 — MSc in Theoretical Physics**, University of Padova, 110/110 *cum laude*. Erasmus+ exchange at the University of Göttingen for the MSc thesis *The infinite-spin representations of the Poincaré group*. Final GPA: 29.5/30, with five examinations (34 ECTS) beyond the degree requirements.
+- **2012--2015 — BSc in Physics**, University of Padova, 110/110 *cum laude*. Final GPA: 29.6/30, with one examination (6 ECTS) beyond the degree requirements.
 
-<tr><td></td></tr>
+## Publications and research impact
 
-<tr>
-  <td width="22%"><div align="right">2012&nbsp;–&nbsp;2015<br>
-    <img src='/images/padova_logo.png' style="padding-top:7px;display:block;margin-right:10px;" width="130"></div>
-  </td>
-  <td width="80%">Bachelor of Physics, University of Padova (Italy)<br>
-    <span style="font-weight:600">Thesis:</span> <i>A theoretical and computational study of orbital angular momentum modes in optical fiber</i>  (<a href="/files/thesis_bachelor.pdf" target="_blank">link</a>)<br>
-    <span style="font-weight:600">Advisors:</span> Prof. Filippo Romanato &amp; Dr. Enrico Gazzola<br>
-    <span style="font-weight:600">Final grade:</span> 110/110 cum laude &nbsp; &nbsp; &nbsp;
-    <span style="font-weight:600">GPA:</span> 29.6/30
-  </td>
-</tr>
-</table>
-</font>
+I have 22 papers, including 20 published in renowned journals such as *Journal of High Energy Physics*, *Physical Review D* and *Physical Review Letters*, with over 1100 citations and an h-index of 16 according to INSPIRE--HEP (July 2026).
 
-<!---
-## Funding
-<font size="5">
-<table>
-  <tr>
-    <td width="22%"><div align="right">Jan 2023 - Nov 2023<br>
-		<img src="/images/logo_800anni.png" style="padding-top: 4px;display: block;margin-right:7px;" width="150"></div></td>
-    <td width="80%">
-	  <span style="font-weight:600">Research grant, Department of Mathematics, University of Padova</span><br>
-    <span style="font-weight:600">Project: </span><i>Mathematical models for complex living systems: critical emergent phenomena from network interaction and optimization</i><br>
-    <span style="font-weight:600">Amount: </span> € 23,889.84 <br>
-   </td>
-  </tr>
-<td></td>
-  <tr>
-    <td width="22%"><div align="right">Oct 2019 - Dec 2022<br>
-		<img src="/images/logo_800anni.png" style="padding-top: 4px;display: block;margin-right:7px;" width="150"></div></td>
-    <td width="80%">
-	  <span style="font-weight:600">Doctoral fellowship, University of Padova</span><br>
-    <span style="font-weight:600">Amount: </span> ≈ € 70,000.00 <br>
-   </td>
-  </tr>
-</table>
-</font>
--->
+[Publication list](/publications/){: .btn}
+[INSPIRE--HEP](https://inspirehep.net/authors/1812058?ui-citation-summary=true){: .btn}
+[ORCID](https://orcid.org/0000-0001-7285-6295){: .btn}
 
-## Publications & preprints
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv-pub.html %}
-  {% endfor %}</ul>
+## International programmes and workshops
 
+I started a series of meetings to connect the general-relativity and particle physics approaches to binary dynamics, which had often developed separately. The first workshop in Edinburgh focused on scattering amplitudes and self-force; the later meetings covered a wider range of approaches including post-Newtonian, effective-one-body, numerical-relativity and data-analysis methods.
 
-## Organized conferences, schools and workshops
+[Programmes and workshops](/programmes/){: .btn}
 
-<font size="5">
-<table>
-<tr>
-  <td width="22%"><div align="right">2027<br>
-    <img src='/images/logo_GGI.jpg' style="padding-top:7px;display:block;margin-right:10px;" width="130"></div>
-  </td>
-  <td width="80%">Organizer — GGI program <i>Synergies for Black-Hole Binaries: from perturbative techniques to strong-field gravity</i><br>
-    GGI Institute, Florence
-  </td>
-</tr>
+## Supervision and mentoring
 
-<tr><td></td></tr>
-	
-<tr>
-  <td width="22%"><div align="right">2027<br>
-    <img src='/images/ICTP-SAIFR_logo.jpg' style="padding-top:7px;display:block;margin-right:10px;" width="130"></div>
-  </td>
-  <td width="80%">Organizer — ICTP-SAIFR program <i>All roads lead to Waveforms: GSF, PM, PN and all that</i><br>
-    Principia Institute, Sao Paulo
-  </td>
-</tr>
+- **2024-- — PhD co-supervisor: Emanuele Rosi**, Sapienza University of Rome. Co-supervision with Prof. Vittorio Del Duca. I proposed the initial project on ultra-relativistic scattering in gravity using scattering amplitudes. We meet weekly, and the collaboration has already led to two joint papers.
+- **2024 — MSc co-supervisor: Andrea de Simone**, Sapienza University of Rome. Six-month thesis on gravitational scattering amplitudes and the two-body problem.
+- **2024 — MSc co-supervisor: Damiano Barcaro**, Sapienza University of Rome. Six-month thesis: *Scattering waveforms for Kerr black holes from the soft expansion*; subsequently began a PhD at Johannes Gutenberg University Mainz.
+- **2022 — MSc supervisor: Leixi Wang**, University of Edinburgh. Four-month thesis, *Classical spacetimes from amplitudes*; I proposed the project and supervised it to the end.
 
-<tr><td></td></tr>
-	
-<tr>
-  <td width="22%"><div align="right">2026<br>
-    <img src='/images/Nordita_poster.jpg' style="padding-top:7px;display:block;margin-right:10px;" width="130"></div>
-  </td>
-  <td width="80%">Organizer — Nordita program <i>Amplitudes, Strong-Field Gravity, and Resummation</i> (<a href="https://indico.fysik.su.se/event/9143/" target="_blank">link</a>)<br>
-    Nordita Institute, Stockholm
-  </td>
-</tr>
+## Invited presentations
 
-<tr><td></td></tr>
+I have given more than 20 invited conference and workshop talks and more than 25 invited seminars. The complete record, including four invited discussion sessions, is available on the [talks page](/talks/) and in the full CV.
 
-<tr>
-  <td width="22%"><div align="right">2025<br>
-    <img src='/images/SFmeetsAmpl2.png' style="padding-top:7px;display:block;margin-right:10px;" width="130"></div>
-  </td>
-  <td width="80%">Organizer — <i>2nd Annual Workshop on Self-Force and Amplitudes</i> (<a href="https://indico.cern.ch/event/1485758/" target="_blank">link</a>)<br>
-    University of Southampton
-  </td>
-</tr>
+## Teaching, service and memberships
 
-<tr><td></td></tr>
+My teaching and tutoring spans high-school, Master's and PhD levels, primarily in English. The full record is available on the [teaching page](/teaching/).
 
-<tr>
-  <td width="22%"><div align="right">2024<br>
-    <img src='/images/SFmeetsAmpl1.png' style="padding-top:7px;display:block;margin-right:10px;" width="130"></div>
-  </td>
-  <td width="80%">Organizer — <i>Gravitational self-force and scattering amplitudes</i> (<a href="https://higgs.ph.ed.ac.uk/workshops/gravitational-self-force-and-scattering-amplitudes/" target="_blank">link</a>)<br>
-    Higgs Centre, University of Edinburgh
-  </td>
-</tr>
+I have served as a journal referee since 2022 for *Journal of High Energy Physics*, *Physical Review D*, *Physical Review Letters*, *Journal of Cosmology and Astroparticle Physics* and *SciPost Physics*. I am a core member of the LISA Consortium and the Einstein Telescope Collaboration.
 
-<tr><td></td></tr>
+## Press and outreach
 
-<tr>
-  <td width="22%"><div align="right">2021<br>
-    <img src='/images/SAGEX_school.JPG' style="padding-top:7px;display:block;margin-right:10px;" width="130"></div>
-  </td>
-  <td width="80%">Organizer — SAGEX amplitude school (<a href="https://indico.nbi.ku.dk/event/1530/" target="_blank">link</a>)<br>
-    NBI Institute, Copenhagen
-  </td>
-</tr>
-</table>
-</font>
-
-
-## Talks, seminars and presentations
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-## Outreach & Public Engagement 
-
-* **Film "Doing a PhD in Physics" (2023)** — Contributed personal video footage to the documentary *Doing a PhD in Physics*, aimed at showcasing the experiences and challenges of doctoral students to a broad audience. [Watch here](https://www.youtube.com/watch?v=ZbV0YnzeTzQ){:target="_blank"}<!--_-->  
-* **SAGEX Online Exhibition (2021)** — Created content for the Feynman diagram section of the particle physics exhibition, designed to introduce the role of particle physics to the general public. [Explore here](https://exhibition.sagex.org/#/exhibition-hub){:target="_blank"}<!--_-->  
-
-
-## Honors and awards
-* **Funding award** of £83.6k for the organization of the GGI program *Synergies for Black-Hole Binaries: from perturbative techniques to strong-field gravity* (2026)
-* **Funding award** of £25k for the organization of the ICTP-SAIFR program *All roads lead to Waveforms: GSF, PM, PN and all that* (2026)
-* **Funding award** of £16.4k for the organization of the Nordita program *Amplitudes, Strong-Field Gravity, and Resummation* (2025)
-* **Funding award** of £10.4k for the organization of the workshop *Gravitational Self-Force and Amplitudes* at the Higgs Centre, University of Edinburgh (2023)  
-* **Marie Skłodowska-Curie grant “SAGEX”** from the European Union’s Horizon 2020 programme (2019) — *Scattering Amplitudes: from Geometry to Experiments*  
-* **First place, “Riccardo Rossi” scholarship** (2011), awarded by Associazione Nemesis, Italy  
-
-## Supervision
-* Co-supervision of one PhD student at Sapienza University of Rome (Emanuele Rosi), with Vittorio Del Duca.
-* Supervision of one MSc thesis at Sapienza University of Rome (Andrea de Simone), with Vittorio Del Duca — *Gravitational self-force from scattering amplitudes*.
-* Supervision of one MSc thesis at Sapienza University of Rome (Damiano Barcaro), with Vittorio Del Duca — *[Scattering waveforms for Kerr black holes from the soft expansion](https://arxiv.org/abs/2411.18632)* (→ PhD at Mainz University).
-* Supervision of one MSc thesis at the University of Edinburgh (Leixi Wang) — *Classical spacetimes from amplitudes*.
-
-## Teaching
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+- Featured in the Nordita article [*Bringing together communities to improve precision in gravitational-wave modeling*](https://nordita.org/news-archive/news-2026/bringing-together-communities-to-improve-precision-in-gravitational-wave-modeling/).
+- Interviewed by Charlie Wood for the *Quanta Magazine* article [*Massive Black Holes Shown to Act Like Quantum Particles*](https://www.quantamagazine.org/massive-black-holes-shown-to-act-like-quantum-particles-20220329/).
+- Contributed personal video footage to the SAGEX film [*Doing a PhD in Physics*](https://www.youtube.com/watch?v=ZbV0YnzeTzQ).
+- Contributed to the Feynman-diagram section of the exhibition [*At the Frontiers of Physics*](https://exhibition.sagex.org/#/exhibition-hub/).
+- Public-engagement activities with *Pint of Science* in Padova, Edinburgh and London.

@@ -2,9 +2,9 @@
 title: "Celestial holography on non-trivial backgrounds"
 collection: talks
 type: "Invited seminar"
-permalink: 
+permalink:
 venue: "University of Nottingham"
 date: 2022-11-18
 location: "Nottingham, UK"
 ---
-Invited seminar at University of Nottingham, Nottingham.
+Invited seminar at University of Nottingham.

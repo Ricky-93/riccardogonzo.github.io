@@ -5,8 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+My teaching and tutoring experience spans high-school, Master's and PhD levels, primarily in English.
 
-{% for post in site.teaching reversed %}
+{% assign teaching = site.teaching | sort: "date" | reverse %}
+{% for post in teaching %}
   {% include archive-single-teaching.html %}
 {% endfor %}

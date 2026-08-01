@@ -2,9 +2,9 @@
 title: "Classical scattering and bound observables from the worldline approach to the two-body problem"
 collection: talks
 type: "Invited seminar"
-permalink: 
-venue: "Worldline Seminars (online)"
+permalink:
+venue: "Worldline Seminars"
 date: 2024-09-17
-location: "Plymouth, UK"
+location: "Online"
 ---
-Invited seminar at Worldline Seminars (online).
+Invited seminar at Worldline Seminars.

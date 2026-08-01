@@ -1,10 +1,10 @@
 ---
-title: "High-energy gravitational scattering: Regge theory and shock wave formalism"
+title: "High-energy gravitational scattering: Regge theory and shock-wave formalism"
 collection: talks
 type: "Invited seminar"
-permalink: 
-venue: "Amplitude Lounge Seminar series (online)"
-date: 2025-11-7
-location: "Padova, Italy"
+permalink:
+venue: "Amplitudes Lounge Seminar"
+date: 2025-11-07
+location: "Online"
 ---
-Invited seminar at Amplitude Lounge Seminar series (online).
+Invited seminar at Amplitudes Lounge Seminar.

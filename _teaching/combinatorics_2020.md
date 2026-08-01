@@ -1,11 +1,9 @@
 ---
-title: 'Combinatorics (MAU34107)'
+title: "Combinatorics (MAU34107)"
 collection: teaching
 type: "Teaching Assistant"
-permalink: 
+permalink:
 venue: "Trinity College Dublin"
 date: 2020-01-01
-courseDates: "2020"
-location: "Dublin, Ireland"
 ---
-Teaching Assistant for the Combinatorics course MAU34107 (Master level, 30–40 students; 4 months).
+Master's-level course (5 ECTS); the course lasted about four months, with a class of about 30--40 students.

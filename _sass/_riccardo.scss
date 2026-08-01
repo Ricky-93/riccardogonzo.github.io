@@ -1,0 +1,68 @@
+/* Site-specific refinements. The underlying AcademicPages theme is unchanged. */
+
+$rg-ink: #263945;
+$rg-ochre: #a96f16;
+$rg-link: #2c6077;
+$rg-muted: #666c70;
+$rg-rule: #d7c29a;
+
+.page__title,
+.archive__item-title a {
+  color: $rg-ink;
+}
+
+a {
+  color: $rg-link;
+}
+
+.page__content h2 {
+  border-bottom: 1px solid $rg-rule;
+  padding-bottom: 0.2rem;
+}
+
+details {
+  margin: 0.8rem 0 1rem;
+  padding: 0.75rem 0.9rem;
+  border-left: 3px solid $rg-ochre;
+  background: rgba(215, 194, 154, 0.12);
+}
+
+details summary {
+  cursor: pointer;
+  color: $rg-ink;
+}
+
+.publication-item,
+.talk-item,
+.teaching-item {
+  margin-bottom: 1rem;
+}
+
+.publication-item .archive__item-title,
+.talk-item .archive__item-title,
+.teaching-item .archive__item-title {
+  margin-bottom: 0.15rem;
+}
+
+.publication-authors,
+.publication-venue,
+.publication-links,
+.talk-meta,
+.talk-links,
+.teaching-meta {
+  margin: 0.1rem 0;
+}
+
+.publication-venue,
+.talk-meta,
+.teaching-meta {
+  color: $rg-muted;
+}
+
+.author__avatar img {
+  object-fit: cover;
+}
+
+iframe {
+  max-width: 100%;
+}

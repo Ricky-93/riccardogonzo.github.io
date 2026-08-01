@@ -1,8 +1,7 @@
-# Authors
-
-Name Name:
-  name        : "Riccardo Gonzo"
-  uri         : "https://riccardogonzo.com"
-  email       : "r.gonzo@qmul.ac.uk"
-  bio         : ""
-  avatar      : "profile_picture.jpg"
+# Optional named-author record used only when a page sets `author: riccardo`.
+riccardo:
+  name: "Riccardo Gonzo"
+  uri: "https://riccardogonzo.com"
+  email: "r.gonzo@qmul.ac.uk"
+  bio: "A theoretical physicist exploring the intersection of high-energy physics and general relativity, who fell in love with amplitudes and gravitational waves."
+  avatar: "profile_picture.jpg"

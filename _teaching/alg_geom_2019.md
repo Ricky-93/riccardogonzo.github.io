@@ -1,11 +1,9 @@
 ---
-title: 'Algebraic Geometry (MA341F)'
+title: "Algebraic Geometry (MA341F)"
 collection: teaching
 type: "Teaching Assistant"
-permalink: 
+permalink:
 venue: "Trinity College Dublin"
 date: 2019-01-01
-courseDates: "2019"
-location: "Dublin, Ireland"
 ---
-Teaching Assistant for the Algebraic Geometry course MA341F (Master level, 20–30 students; 4 months).
+Master's-level course (5 ECTS); the course lasted about four months, with a class of about 30--40 students.

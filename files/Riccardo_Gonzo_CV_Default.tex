@@ -1,0 +1,370 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Riccardo Gonzo - Academic CV
+% Default and master versions, revised July 2026
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\PassOptionsToPackage{colorlinks=true,pdfpagelabels=false}{hyperref}
+\documentclass[11pt,a4paper,sans]{moderncv}
+\moderncvstyle[details,left,nosymbols]{classic}
+\moderncvcolor{blue}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage[margin=0.67in,top=0.56in,bottom=0.66in,footskip=0.30in]{geometry}
+\usepackage{microtype}
+\usepackage{ragged2e}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{hyperref}
+\usepackage{xparse}
+\usepackage[
+  backend=biber,
+  style=numeric,
+  sorting=none,
+  defernumbers=true,
+  maxbibnames=99,
+  giveninits=true,
+  doi=false,
+  eprint=false,
+  url=false,
+  isbn=false
+]{biblatex}
+\addbibresource{Riccardo_Gonzo_Publications_Final_v4.bib}
+
+% Restrained palette: dark ink for hierarchy, warm ochre for emphasis,
+% muted blue for links, and grey for dates/secondary information.
+\definecolor{CVInk}{HTML}{263945}
+\definecolor{CVOchre}{HTML}{A96F16}
+\definecolor{CVOchreLight}{HTML}{D7C29A}
+\definecolor{CVLink}{HTML}{2C6077}
+\definecolor{CVText}{HTML}{262626}
+\definecolor{CVGrey}{HTML}{666C70}
+
+\colorlet{color0}{CVText}
+\colorlet{color1}{CVInk}
+\colorlet{color2}{CVGrey}
+\colorlet{firstnamecolor}{CVInk}
+\colorlet{lastnamecolor}{CVInk}
+\colorlet{namecolor}{CVInk}
+\colorlet{titlecolor}{CVOchre}
+\colorlet{addresscolor}{CVLink}
+\colorlet{sectioncolor}{CVInk}
+\colorlet{subsectioncolor}{CVInk}
+\colorlet{bodyrulecolor}{CVOchreLight}
+\colorlet{hintstylecolor}{CVGrey}
+\colorlet{headrulecolor}{CVOchreLight}
+\colorlet{quotecolor}{CVOchre}
+
+\hypersetup{
+  urlcolor=CVLink,
+  linkcolor=CVLink,
+  citecolor=CVLink,
+  pdfauthor={Riccardo Gonzo},
+  pdfsubject={Academic curriculum vitae},
+  pdfborder={0 0 0},
+  bookmarksopen=true
+}
+\urlstyle{same}
+
+\renewcommand*{\namefont}{\fontsize{31}{33}\mdseries\upshape}
+\renewcommand*{\titlefont}{\fontsize{12}{14}\bfseries\upshape}
+\renewcommand*{\addressfont}{\fontsize{9.2}{11.2}\selectfont\mdseries\upshape}
+\renewcommand*{\sectionfont}{\fontsize{14.2}{16.2}\selectfont\bfseries\upshape}
+\renewcommand*{\subsectionfont}{\fontsize{11.6}{13.2}\selectfont\bfseries\upshape}
+\renewcommand*{\hintfont}{\fontsize{9.1}{10.5}\selectfont\bfseries\upshape}
+
+% The dates are large enough to read, but the gutter remains compact.
+\setlength{\hintscolumnwidth}{1.82cm}
+\setlength{\separatorcolumnwidth}{0.10cm}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\emergencystretch=2em
+\raggedbottom
+
+\makeatletter
+\RenewDocumentCommand{\section}{sm}{%
+  \par\addvspace{1.48ex}%
+  \phantomsection%
+  \addcontentsline{toc}{section}{#2}%
+  \noindent\sectionstyle{#2}\par\nobreak
+  \vspace{-0.25ex}%
+  \noindent{\color{CVOchreLight}\rule{\textwidth}{0.62pt}}\par\nobreak
+  \vspace{0.43ex}\@afterheading}
+\RenewDocumentCommand{\subsection}{sm}{%
+  \par\addvspace{1.02ex}%
+  \phantomsection%
+  \addcontentsline{toc}{subsection}{#2}%
+  \noindent\textcolor{CVOchre}{\rule{1.8pt}{1.02em}}\hspace{0.46em}%
+  \subsectionstyle{#2}\par\nobreak
+  \vspace{0.22ex}\@afterheading}
+\makeatother
+
+\newcommand{\talkitem}[4]{\cvitem[0.11em]{#1}{\textbf{#2}: \emph{#3}#4}}
+\newcommand{\linktag}[2]{\href{#1}{\textcolor{CVLink}{[#2]}}}
+\newcommand{\referenceitem}[3]{%
+  \par\noindent\textbf{#1}, #2. \href{mailto:#3}{#3}\par\vspace{0.14em}%
+}
+
+\DeclareBibliographyCategory{preprints}
+\addtocategory{preprints}{Gonzo:2026yha,Alessio:2026bdi}
+
+\DeclareFieldFormat{title}{#1}
+\DeclareFieldFormat{journaltitle}{\mkbibemph{#1}}
+\DeclareFieldFormat{volume}{\mkbibbold{#1}}
+\DeclareFieldFormat{pages}{#1}
+\DeclareFieldFormat{doi}{\href{https://doi.org/#1}{\textcolor{CVLink}{[DOI]}}}
+\DeclareFieldFormat{eprint:arxiv}{\href{https://arxiv.org/abs/#1}{\textcolor{CVLink}{[arXiv:#1]}}}
+\AtEveryBibitem{%
+  \clearfield{number}%
+  \clearfield{month}%
+  \clearfield{reportnumber}%
+  \clearfield{primaryclass}%
+}
+\DeclareBibliographyDriver{article}{%
+  \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  \printnames{author}%
+  \setunit{\addperiod\space}%
+  \printfield{title}%
+  \setunit{\addperiod\space}%
+  \iffieldundef{journaltitle}
+    {\printtext{Preprint}\setunit{\addcomma\space}\printfield{year}}
+    {\printfield{journaltitle}%
+     \setunit{\addspace}%
+     \printfield{volume}%
+     \iffieldundef{pages}{}{\setunit{\addcomma\space}\printfield{pages}}%
+     \setunit{\addspace}%
+     \printtext{\mkbibparens{\printfield{year}}}}%
+  \iffieldundef{note}{}{\setunit{\addperiod\space}\printfield{note}}%
+  \iffieldundef{doi}{}{\setunit{\addspace}\printfield{doi}}%
+  \iffieldundef{eprint}{}{\setunit{\addspace}\printfield[eprint:arxiv]{eprint}}%
+  \usebibmacro{finentry}}
+
+\defbibenvironment{bibliography}
+  {\list
+     {\printtext[labelnumberwidth]{\printfield{labelnumber}}}
+     {\setlength{\topsep}{0pt}%
+      \setlength{\partopsep}{0pt}%
+      \setlength{\itemsep}{1.15pt}%
+      \setlength{\parsep}{0pt}%
+      \setlength{\labelwidth}{0.48cm}%
+      \setlength{\labelsep}{0.18cm}%
+      \setlength{\leftmargin}{0.66cm}%
+      \setlength{\itemindent}{0pt}%
+      \renewcommand*{\makelabel}[1]{\hss##1}}}
+  {\endlist}
+  {\item}
+
+\fancypagestyle{cvfooter}{%
+  \fancyhf{}%
+  \renewcommand{\headrulewidth}{0pt}%
+  \renewcommand{\footrulewidth}{0pt}%
+  \fancyfoot[L]{\scriptsize\textcolor{CVGrey}{Riccardo Gonzo -- Curriculum Vitae -- updated July 2026}}%
+  \fancyfoot[R]{\scriptsize\textcolor{CVGrey}{\thepage/\pageref*{LastPage}}}}
+\AtBeginDocument{\pagestyle{cvfooter}}
+
+\firstname{Riccardo}
+\familyname{Gonzo}
+\title{Royal Society University Research Fellow}
+
+\newcommand{\cvheader}{%
+  \noindent
+  \begin{minipage}[t]{0.59\textwidth}
+    \vspace{0pt}%
+    {\fontsize{31}{33}\selectfont\color{CVInk}Riccardo Gonzo}\par
+    \vspace{0.22em}%
+    {\fontsize{12}{14}\selectfont\bfseries\color{CVOchre}Royal Society University Research Fellow}
+  \end{minipage}\hfill
+  \begin{minipage}[t]{0.38\textwidth}
+    \vspace{0pt}%
+    \raggedleft\fontsize{9.2}{11.2}\selectfont
+    \textbf{Email:} \href{mailto:r.gonzo@qmul.ac.uk}{r.gonzo@qmul.ac.uk}\\
+    \textbf{Website:} \href{https://riccardogonzo.com}{riccardogonzo.com}\\
+    \textbf{ORCID:} \href{https://orcid.org/0000-0001-7285-6295}{0000-0001-7285-6295}\\
+    \textbf{INSPIRE--HEP:} \href{https://inspirehep.net/authors/1812058?ui-citation-summary=true}{author profile}
+  \end{minipage}%
+  \par\vspace{0.78em}%
+}
+
+\begin{document}
+\cvheader
+\thispagestyle{cvfooter}
+
+\section{Research profile}
+I am a theoretical physicist with over eight years of research experience spanning high-energy physics and general relativity. My work focuses on the analytical description of gravitational binary systems and their waveforms, combining particle-physics tools -- such as scattering amplitudes -- with post-Newtonian and gravitational self-force methods. During my PhD, I developed a direct link between on-shell scattering amplitudes and gravitational waveforms. Since then, I have developed methods for translating results between scattering and bound Kerr orbits, including their gravitational waveforms, as well as a new effective field theory formulation of gravitational self-force for bound orbits. Overall, my research has involved international collaborations with more than thirty researchers across Europe, North America and Asia. 
+
+In 2026, I was awarded the prestigious \href{https://royalsociety.org/grants/university-research/}{Royal Society University Research Fellowship}, an eight-year fellowship with a total programme value of \pounds{}1.8 million, for the project \emph{High-precision effective field theory for extreme-mass-ratio inspirals}. My long-term vision is to build a unified framework that connects weak-field Post-Minkowskian and post-Newtonian theory with strong-field methods from the self-force approach, leading to improved waveform models for current (LIGO--Virgo--KAGRA) and future (LISA, ET and CE) gravitational-wave detectors.
+%My long-term vision is to create a unified framework that connects weak-field Post-Minkowskian and post-Newtonian theory with strong-field methods from the self-force approach, leading to improved waveform models for current (LIGO--Virgo--KAGRA) and future (LISA, ET and CE) gravitational-wave detectors. 
+%At Southampton I will build an independent group with two PhD students and a postdoctoral researcher, working on particle physics methods for high-precision gravitational-wave modelling, with a particular focus on LISA and ET.
+
+\section{Academic appointments}
+\cventry{2026--}{Royal Society University Research Fellow}{University of Southampton}{Southampton}{}{}
+\cventry{2025--2026}{Postdoctoral Research Associate}{Queen Mary University of London}{London}{}{}
+\cventry{2022--2025}{Postdoctoral Research Associate}{University of Edinburgh}{Edinburgh}{}{}
+
+\section{Fellowships and research funding}
+\cvitem{}{More than \pounds{}2 million in competitive fellowship and programme funding secured to date:}
+\cvitem[0.24em]{2026}{\textbf{Royal Society University Research Fellowship}. Major eight-year fellowship; total programme value approximately \pounds{}1.8 million. Host: University of Southampton. Project: \emph{High-precision effective field theory for extreme-mass-ratio inspirals}. \linktag{https://royalsociety.org/grants/university-research/}{scheme}}
+\cvitem[0.24em]{2019}{\textbf{Marie Sk\l odowska-Curie ITN fellowship, SAGEX}. European Union Horizon 2020 fellowship, providing approximately \pounds{}100k of personal fellowship support and advanced research and professional training over three years. \linktag{https://sagex.ph.qmul.ac.uk/}{SAGEX}}
+\cvitem[0.24em]{2023--2026}{\textbf{\pounds{}140k in competitive funding for international programmes and workshops}: GGI six-week programme (\pounds{}83.7k); ICTP-SAIFR two-week programme (\pounds{}25k); Nordita two-week programme (\pounds{}20.6k) and Higgs Centre workshop (\pounds{}10.4k). I was main coordinator of the GGI and Nordita programmes and the Higgs Centre workshop, and co-organiser of the ICTP-SAIFR programme.}
+
+\section{Education}
+\cventry{2018--2022}{PhD in Theoretical Particle Physics}{Trinity College Dublin}{Dublin}{}{Supervisor: R. Britto. Title: \emph{Coherent states and classical radiative observables in the S-matrix formalism} \linktag{http://www.tara.tcd.ie/handle/2262/98491}{link}. During my PhD, I won a prestigious and competitive Marie-Curie ITN fellowship, \emph{Scattering Amplitudes: from Geometry to Experiments} (SAGEX). The fellowship gave me research training through dedicated workshops and schools and a three-month internship at Wolfram Research, as well as training in scientific writing, presentation skills, STEM outreach, grant writing, time and project management, career development and good scientific practice. A detailed record of these activities is available on the \href{https://sagex.org/}{SAGEX website}.}
+\cventry{2015--2017}{MSc in Theoretical Physics}{University of Padova}{Padova}{\textit{110/110 cum laude}}{Erasmus+ exchange at the University of G\"ottingen for the MSc thesis \emph{The infinite-spin representations of the Poincar\'e group}. Final GPA: 29.5/30 (with 5 exams 34 ECTS  beyond the degree requirements).}
+\cventry{2012--2015}{BSc in Physics}{University of Padova}{Padova}{\textit{110/110 cum laude}}{Final GPA: 29.6/30 (with 1 exam 6 ECTS  beyond the degree requirements).}
+
+\clearpage
+\section{Publications and research impact}
+My full publication list is available through my \href{https://inspirehep.net/authors/1812058?ui-citation-summary=true}{INSPIRE--HEP profile} and \href{https://orcid.org/0000-0001-7285-6295}{ORCID record}. I have 22 papers, including 20 published in renowned journals such as \emph{Journal of High Energy Physics}, \emph{Physical Review D} and \emph{Physical Review Letters}, with over 1100 citations and an $h$-index of 16 according to INSPIRE--HEP (July 2026).
+
+\begin{refsection}
+\nocite{Gonzo:2026yha,Alessio:2026bdi}
+\subsection{Preprints}
+{\footnotesize\printbibliography[heading=none]}
+\end{refsection}
+
+\begin{refsection}
+\nocite{Barack:2026izc,Alessio:2025isu,Akpinar:2025tct,Alessio:2025flu,Akpinar:2025huz,Gonzo:2024xjk,Gonzo:2024zxo,Adamo:2024oxy,DeAngelis:2023lvf,Cristofoli:2021jas,Gonzo:2023cnv,Gonzo:2023goe,Adamo:2022ooq,Gonzo:2022tjm,Britto:2021pud,Cristofoli:2021vyo,Gonzo:2021drq,Gonzo:2020xza,Gonzo:2019fai,Banerjee:2020kaa}
+\subsection{Peer-reviewed publications}
+{\footnotesize\printbibliography[heading=none]}
+\end{refsection}
+
+\section{International programmes and workshop series}
+In parallel with my research, I started a series of meetings to connect the general-relativity and particle physics approaches to binary dynamics, which had often developed separately. The first workshop in Edinburgh focused on scattering amplitudes and self-force; the later meetings covered a wider range of approaches including post-Newtonian, effective-one-body, numerical-relativity and data-analysis methods. The goal has been to develop a common language across these communities, compare methods, identify priorities for waveform modelling and start new collaborations in preparation for future gravitational-wave detectors. I secured competitive funding for the series and was main coordinator for the Edinburgh and Nordita meetings and the upcoming GGI programme.
+
+\cvitem[0.22em]{2027}{\textbf{GGI programme main coordinator and organiser} \emph{Synergies for Black-Hole Binaries: from Perturbative Techniques to Strong-Field Gravity}, Florence. Major international six-week programme, with five focused weeks and one conference week.}
+\cvitem[0.22em]{2027}{\textbf{ICTP-SAIFR programme organiser}, forthcoming ICTP-SAIFR / Principia programme \emph{All Roads Lead to Waveforms: GSF, PM, PN and All That}, S\~ao Paulo. Two-week programme including a PhD school and a workshop.}
+\cvitem[0.22em]{2026}{\textbf{Nordita programme main coordinator and organiser}, \emph{Amplitudes, Strong-Field Gravity, and Resummation}, Stockholm. Two-week programme including a one week PhD school and a one week workshop, with about 120 participants. \linktag{https://indico.fysik.su.se/event/9143/overview}{programme}}
+\cvitem[0.22em]{2025}{\textbf{Workshop organiser}, \emph{2nd Annual Workshop on Self-Force and Amplitudes}, University of Southampton. One week workshop with about 70 participants. \linktag{https://indico.cern.ch/event/1485758/}{workshop}}
+\cvitem[0.22em]{2024}{\textbf{Higgs Centre workshop main coordinator and organiser}, \emph{Gravitational Self-Force and Scattering Amplitudes}, Edinburgh. One week workshop with about 40 participants. \linktag{https://higgs.ph.ed.ac.uk/workshops/gravitational-self-force-and-scattering-amplitudes/}{workshop}}
+
+\subsection{Other scientific organisation}
+\cvitem[0.22em]{2025--2026}{\textbf{Local journal club organiser}, QMUL Centre for Theoretical Physics with regular biweekly meetings.}
+\cvitem[0.22em]{2022--2023}{\textbf{GRAMPA online seminar series organiser}, with biweekly meetings on scattering amplitudes and their applications to gravitational waves.}
+\cvitem[0.22em]{2021}{\textbf{SAGEX Amplitudes School organiser}, Niels Bohr Institute, held in connection with the Amplitudes 2021 conference. I helped coordinate the lecturers and the school programme. \linktag{https://indico.nbi.ku.dk/event/1530/}{school}}
+
+\section{Supervision and mentoring}
+\cventry{2024--}{PhD co-supervisor: Emanuele Rosi}{Sapienza University of Rome}{}{}{Co-supervision with Prof. V.Del Duca. I proposed the initial project on ultra-relativistic scattering in gravity using scattering amplitudes. We meet weekly, and the collaboration has already led to two joint papers: \linktag{https://arxiv.org/abs/2511.11457}{arXiv:2511.11457} and \linktag{https://arxiv.org/abs/2601.21687}{arXiv:2601.21687}.}
+\cventry{2024}{MSc co-supervisor: Andrea de Simone}{Sapienza University of Rome}{}{}{Six-month thesis on gravitational scattering amplitudes and the two-body problem; co-supervision with Prof. V.Del Duca.}
+\cventry{2024}{MSc co-supervisor: Damiano Barcaro}{Sapienza University of Rome}{}{}{Six-month thesis: \emph{Scattering waveforms for Kerr black holes from the soft expansion} \linktag{https://arxiv.org/abs/2411.18632}{paper}; subsequently began a PhD at Johannes Gutenberg University Mainz.}
+\cventry{2022}{MSc supervisor: Leixi Wang}{University of Edinburgh}{}{}{Four-month thesis, \emph{Classical spacetimes from amplitudes}; I proposed the project and supervised it to the end.}
+
+\section{Selected invited presentations}
+I have given more than 20 invited conference and workshop talks and more than 25 invited seminars. Ten of each are listed below; the complete record, including four invited discussion sessions, is available in the full CV.
+
+\subsection{Conferences and workshops}
+
+\talkitem{May 2026}
+{CERN: Gravitational Waves from Amplitudes}
+{Gravitational scattering in the ultra-relativistic limit}
+{, Geneva.}
+
+\talkitem{Mar. 2026}
+{Max Planck Group Leader Symposium}
+{Particle theory for gravitational waveform modelling}
+{, Harnack Haus, Berlin.}
+
+\talkitem{June 2025}
+{Amplitudes 2025}
+{Dirac brackets for classical black-hole scattering: from amplitudes to observables}
+{, Seoul. \linktag{https://www.youtube.com/watch?v=r0f0wpcV9S4}{video}}
+
+\talkitem{Jan. 2025}
+{KITP: What Is Particle Theory?}
+{Classical bound observables from the S-matrix formalism}
+{, Santa Barbara. \linktag{https://online.kitp.ucsb.edu/online/particles25/gonzo/rm/jwvideo.HTML}{video}}
+
+\talkitem{Oct. 2024}
+{MIAPbP: EFT and Multi-Loop Methods for Advancing Precision in Collider and Gravitational-Wave Physics}
+{On-shell maps between scattering and bound observables}
+{, Munich.}
+
+\talkitem{Sept. 2024}
+{AEI: Fundamental Physics Meets Waveforms with LISA}
+{Black holes as point particles: from amplitudes to bound waveforms}
+{, Potsdam.}
+
+\talkitem{Jan. 2024}
+{GRAMPA workshop (ICMS)}
+{Classical gravitational bound states with amplitudes}
+{, Edinburgh. \linktag{https://www.youtube.com/watch?v=ehdMRQqH4IQ&list=PLUbgZHsSoMEV_4j8ratb67TXYiHxURZ_c&index=7}{video}}
+
+\talkitem{Aug. 2023}
+{GWs Meet Amplitudes}
+{From classical scattering amplitudes to bound-state observables}
+{, S\~ao Paulo. \linktag{https://www.youtube.com/watch?v=_z1hLS65mqA}{video}}
+
+\talkitem{Dec. 2022}
+{QCD Meets Gravity}
+{Bethe--Salpeter equation for classical gravitational bound states}
+{, Z\"urich. \linktag{https://indico.phys.ethz.ch/event/22/contributions/197/attachments/150/266/Gonzo_Video.mp4}{video}}
+
+\talkitem{May 2021}
+{GGI: Gravitational Scattering, Inspiral, and Radiation}
+{Waveforms from the KMOC formalism and coherent states}
+{, Florence. \linktag{https://www.youtube.com/watch?v=ZYaCQPMhyEE&t=268s}{video}}
+
+
+\subsection{Invited seminars}
+\talkitem{June 2026}{CERN}{High-energy scattering in gravity: Regge theory, shock waves and beyond}{, Geneva.}
+\talkitem{Dec. 2025}{IHES}{Regge theory for gravity amplitudes}{, Paris.}
+\talkitem{June 2025}{AEI}{Dirac brackets for classical black-hole scattering}{, Berlin.}
+\talkitem{Feb. 2025}{UCLA}{Insights into the scattering-to-bound map from the self-force approach}{}
+\talkitem{Nov. 2024}{NBI}{The on-shell space of scattering and bound classical observables}{, Copenhagen.}
+\talkitem{Apr. 2024}{Higgs Centre}{Scattering and bound observables for spinning particles in Kerr}{, Edinburgh.}
+\talkitem{May 2023}{IPhT}{Boundary-to-bound dictionary for generic Kerr orbits}{, Paris.}
+\talkitem{Nov. 2023}{STAG Centre}{Spinning waveforms from classical amplitudes}{, Southampton.}
+\talkitem{Sept. 2021}{Caltech}{Gravitational event shapes and coherent states for gravitational waves}{}
+\talkitem{Feb. 2021}{NBI}{Waveforms from amplitudes and coherent states}{, Copenhagen.}
+
+\section{Teaching activities}
+Teaching and tutoring at high-school, Master's and PhD levels, primarily in English:\par\smallskip
+\cvitem[0.19em]{2025}{\textbf{Invited Lecturer}, PhD school \emph{Analytic Computing in High-Energy and Gravitational Theoretical Physics}, Atrani. Delivered a series of PhD-level lectures entitled \emph{On-shell observables in the gravitational two-body problem} to about 40 graduate students and early-career researchers. \linktag{https://indico.cern.ch/event/1514553/}{school}}
+\cvitem[0.19em]{2022}{\textbf{Tutor}, BUSSTEPP, Imperial College London. Two-week PhD-level summer school; tutorial and problem-solving sessions for about 80 international PhD students.}
+\cvitem[0.19em]{2022}{\textbf{Tutor}, Conformal Bootstrap course, Higgs Centre School of Theoretical Physics. One-week PhD-level school course; tutorial and problem-solving sessions for about 50 international students.}
+\cvitem[0.19em]{2022}{\textbf{Full-time high-school teacher}, Differential Calculus, International School of Business (Niels Brock programme), Dublin. Three-month course for two high-school classes of about 40 students each; responsible for course delivery, regular assessment, final examination and grading.}
+\cvitem[0.19em]{2019--2020}{\textbf{Teaching Assistant}, Trinity College Dublin. Master's-level courses in Quantum Field Theory II, Combinatorics and Algebraic Geometry (5 ECTS each); each course lasted about four months, with classes of about 30--40 master students.}
+
+\section{Academic service}
+\cvitem[0.18em]{2022--}{Journal referee for \emph{Journal of High Energy Physics}, \emph{Physical Review D}, \emph{Physical Review Letters}, \emph{Journal of Cosmology and Astroparticle Physics} and \emph{SciPost Physics}.}
+\cvitem[0.18em]{2025}{Member of a PhD selection committee at Queen Mary University of London.}
+\cvitem[0.18em]{2024}{Panel member for MPhys thesis presentations in Astronomy and Cosmology at the University of Edinburgh; assessed about 50 candidates.}
+
+\section{Scientific memberships}
+\cvitem[0.18em]{2025--}{Core member of the Laser Interferometer Space Antenna (LISA) Consortium; initiating projects on EMRI waveform construction and validation, and on applications of particle physics methods to the modelling of black hole binaries.}
+\cvitem[0.18em]{2026--}{Core member of the Einstein Telescope (ET) Collaboration.}
+
+\section{Research stays}
+\cvitem[0.14em]{2024}{Humboldt University, Berlin (September--October); invited by Jan Plefka.}
+\cvitem[0.14em]{2021}{Institut de Physique Th\'eorique (IPhT), Paris (November--December); invited by David A. Kosower.}
+\cvitem[0.14em]{2020}{Higgs Centre for Theoretical Physics, Edinburgh (February); invited by Donal O'Connell.}
+\cvitem[0.14em]{2019}{CERN, Geneva (August); invited by Claude Duhr.}
+
+\section{Press and outreach}
+\cvitem[0.18em]{2026}{Featured in the Nordita article \emph{Bringing together communities to improve precision in gravitational-wave modeling}, about the scientific aims of the programme and the experience of students and postdoctoral researchers who took part. \linktag{https://nordita.org/news-archive/news-2026/bringing-together-communities-to-improve-precision-in-gravitational-wave-modeling/}{article}}
+\cvitem[0.18em]{2022}{Interviewed by Charlie Wood for the \emph{Quanta Magazine} article \emph{Massive Black Holes Shown to Act Like Quantum Particles}, about my work on coherent graviton states and the quantum-to-classical transition in black-hole scattering. \linktag{https://www.quantamagazine.org/massive-black-holes-shown-to-act-like-quantum-particles-20220329/}{article}}
+\cvitem[0.18em]{2022}{Contributed personal video footage to the SAGEX film \emph{Doing a PhD in Physics}, presenting the daily life, challenges and rewards of doctoral research. \linktag{https://www.youtube.com/watch?v=ZbV0YnzeTzQ}{film}}
+\cvitem[0.18em]{2021}{Contributed to the Feynman-diagram section of the exhibition \emph{At the Frontiers of Physics}, using short videos and interactive material to introduce particle physics to a broad audience. \linktag{https://exhibition.sagex.org/\#/exhibition-hub/}{exhibition}}
+\cvitem[0.18em]{}{Public-engagement activities with \emph{Pint of Science} in Padova, Edinburgh and London.}
+
+\section{Research software and external collaboration}
+\cventry{2021}{Mathematics in Industry Study Group}{ESGI 165 / Defence Science and Technology Laboratory}{}{}{Contributed to the report \emph{Using the Electromagnetic Spectrum}. The project focused on estimating the location and power of an unknown transmitter from signal-strength measurements, using mathematical modelling, statistical inference and numerical methods. \linktag{https://www.cambridge.org/engage/api-gateway/miir/assets/orp/resource/item/61361b7c656369e082237850/original/using-the-electromagnetic-spectrum.pdf}{report}}
+\cventry{2021}{Research Software Intern}{Wolfram Research}{Champaign, Illinois}{}{Developed code for the symbolic integration of products of Meijer $G$ functions with Devendra Kapadia. The implementation outperformed the standard \texttt{Integrate} function in a number of cases and was incorporated into Mathematica 14.0.}
+
+\section{Technical skills and languages}
+
+\cvitem{Skills}
+{Mathematica, C++, \LaTeX, Git and Linux; experience with MATLAB and COMSOL Multiphysics.}
+
+\cvitem{Languages}
+{Italian (mother tongue); English (fluent professional working language).}
+
+
+\section{References}
+\referenceitem{Prof. Ruth Britto}{Professor in Theoretical Physics, Trinity College Dublin}{britto@maths.tcd.ie}
+\referenceitem{Prof. Donal O'Connell}{Professor of Theoretical Physics, University of Edinburgh}{donal@ed.ac.uk}
+\referenceitem{Prof. Adam Pound}{Professor of Theoretical Physics, University of Southampton}{A.Pound@soton.ac.uk}
+\par\noindent Additional references available upon request: Prof. Tim Adamo, Prof. Leor Barack, Prof. Vittorio Del Duca, Prof. David A. Kosower, Prof. Ira Z. Rothstein, Prof. Niels Warburton and Prof. Mao Zeng.
+
+\end{document}

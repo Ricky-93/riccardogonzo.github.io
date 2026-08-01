@@ -5,16 +5,32 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+I have 22 papers, including 20 published in renowned journals such as *Journal of High Energy Physics*, *Physical Review D* and *Physical Review Letters*, with over 1100 citations and an h-index of 16 according to INSPIRE--HEP (July 2026).
 
-{% include base_path %}
+[INSPIRE--HEP](https://inspirehep.net/authors/1812058?ui-citation-summary=true){: .btn .btn--primary}
+[ORCID](https://orcid.org/0000-0001-7285-6295){: .btn}
+[Google Scholar](https://scholar.google.com/citations?user=TDT1fI0AAAAJ&hl=en){: .btn}
 
-This is my collaboration network: the color of each node specifies either a <span style="color:#d6d2d2;font-weight:600;">co-author</span>, a <span style="color:#79addc;font-weight:600;">preprint</span> or <span style="color:#9e1910;font-weight:600;">journal article</span>. Click on a node for more information.
- <iframe src="/collab_net/network.html" height="300" width="100%" style="border: none"></iframe>
-<br><br>
+## Collaboration network
 
-{% for post in site.publications reversed %}
-  {% include archive-single-publication.html %}
+Each node represents a co-author, preprint or journal article. Click on a node for more information.
+
+<iframe src="/collab_net/network.html" title="Interactive publication and collaboration network" loading="lazy" height="340" width="100%" style="border:0;"></iframe>
+
+{% assign publications = site.publications | sort: "date" | reverse %}
+
+## Preprints
+
+{% for post in publications %}
+  {% unless post.paperurl %}
+    {% include archive-single-publication.html %}
+  {% endunless %}
+{% endfor %}
+
+## Peer-reviewed publications
+
+{% for post in publications %}
+  {% if post.paperurl %}
+    {% include archive-single-publication.html %}
+  {% endif %}
 {% endfor %}

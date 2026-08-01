@@ -5,11 +5,42 @@ permalink: /talks/
 author_profile: true
 ---
 
-The markers on the map represent a conference, workshop, or institute where I presented my work: <span style="color:darkred;font-weight:600;">invited conference talks</span>, <span style="color:blue;font-weight:600;">invited seminars</span>, <span style="color:darkblue;font-weight:600;">contributed talks </span>
-<!-- optional if you enable it: --> and <span style="color:gray;font-weight:600;">discussion sessions</span>. Click on a marker for more information.
+I have given more than 20 invited conference and workshop talks and more than 25 invited seminars. The complete record below also includes contributed talks and four invited discussion sessions.
 
-<br><br><iframe src="/talkmap/talks_map.html" height="320" width="100%" style="border: none"></iframe><br><br>
+The map includes online talks as well: those linked to a university are shown at the host institution, while fully online series are grouped under the ochre <strong>Online</strong> marker. Click on a marker for more information.
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+<iframe src="/talkmap/talks_map.html" title="Interactive map of talks and seminars" loading="lazy" height="360" width="100%" style="border:0;"></iframe>
+
+{% assign talks = site.talks | sort: "date" | reverse %}
+
+<h2>Invited conference and workshop talks</h2>
+
+{% for post in talks %}
+  {% if post.type == "Invited talk" %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>Invited seminars</h2>
+
+{% for post in talks %}
+  {% if post.type == "Invited seminar" %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>Discussion panels and session leadership</h2>
+
+{% for post in talks %}
+  {% if post.type == "Discussion session" %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>Contributed talks</h2>
+
+{% for post in talks %}
+  {% if post.type == "Contributed talk" %}
+    {% include archive-single-talk.html %}
+  {% endif %}
 {% endfor %}

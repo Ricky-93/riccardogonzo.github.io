@@ -10,7 +10,7 @@ locale                   : "en-GB"
 title                    : "Riccardo Gonzo"
 title_separator          : " &#124; "
 name                     : &name "Riccardo Gonzo"
-description              : &description "Postdoc at QMUL"
+description              : &description "Royal Society University Research Fellow working at the interface of high-energy physics, general relativity and gravitational-wave modelling."
 url                      : https://riccardogonzo.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Ricky-93/riccardogonzo.github.io"  # your repo path
@@ -20,7 +20,7 @@ enforce_ssl: "riccardogonzo.com"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -76,7 +76,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # No first-party analytics are currently enabled.
   google:
     tracking_id          :
 
@@ -88,15 +88,15 @@ author:
   name       : "Riccardo Gonzo"
   bio        : "A theoretical physicist exploring the intersection of high-energy physics and general relativity, who fell in love with amplitudes and gravitational waves."
   # I'm a theoretical physicist working on quantum field theory and general relativity who fell in love with scattering amplitudes.
-  employer   : "Queen Mary University of London"
+  employer   : "University of Southampton"
   email      : "r.gonzo@qmul.ac.uk"
 
   # Academic profiles
   googlescholar: "https://scholar.google.com/citations?user=TDT1fI0AAAAJ&hl=en"
-  orcid        : "https://orcid.org/my-orcid?orcid=0000-0001-7285-6295"
+  orcid        : "https://orcid.org/0000-0001-7285-6295"
   researchgate : "https://www.researchgate.net/profile/Riccardo-Gonzo?ev=hdr_xprf"
   inspire-hep  : "https://inspirehep.net/authors/1812058?ui-citation-summary=true"
-  linkedin     : "https://www.linkedin.com/in/riccardogonzo/"
+  linkedin     : "riccardogonzo"
 
   # Repositories and software development
   # bitbucket        : # Username - Update with your username on the site
@@ -105,7 +105,7 @@ author:
   # Social media
   facebook         : # Username
   instagram        : # Username
-  linkedin         : # Username
+  # linkedin is defined above as the username used by the template.
   telegram         : # URL
   twitter          : # Username for X / Twitter
 
@@ -139,6 +139,16 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - ".DS_Store"
+  - ".ipynb_checkpoints"
+  - "*.ipynb"
+  - "*.RData"
+  - "*.Rhistory"
+  - "*.Rapp.history"
+  - nodes.txt
+  - links.txt
+  - hyperlinks.txt
+  - markdown_generator
 keep_files:
   - .git
   - .svn
@@ -174,9 +184,7 @@ collections:
   publications:
     output: true
     permalink: /publication/:name/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+  # portfolio collection removed: it was unused.
   talks:
     output: true
     permalink: /:collection/:path/
@@ -208,8 +216,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -217,17 +225,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+      share: false
+      comments: false
   # _talks
   - scope:
       path: ""
@@ -249,7 +248,7 @@ github:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/London # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
